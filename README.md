@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sinamics
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me https://linkme.lan.eigeland.net/
 
