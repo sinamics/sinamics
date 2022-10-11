@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me https://linkme.lan.eigeland.net/
+- 📫 How to reach me https://linkme.lan.egeland.io/
 
 [![sinamics github stats](https://github-readme-stats.vercel.app/api?username=sinamics&show_icons=true&theme=radical)](https://github.com/sinamics)
 
