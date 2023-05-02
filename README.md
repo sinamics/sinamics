@@ -1,3 +1,8 @@
+<p align="center">
+  <ul>
+    <li>👋 Hi, I’m @sinamics</li>
+  </ul>
+</p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinamics&show_icons=true&theme=radical)](https://github.com/sinamics" />
 </a></p>
