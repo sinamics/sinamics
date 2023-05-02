@@ -1,6 +1,10 @@
 <p align="center">
   <ul>
     <li>👋 Hi, I’m @sinamics</li>
+    <li>👀 I’m interested in programming</li>
+    <li>🌱 I’m currently learning kubernetes</li>
+    <li>💞️ I’m looking to collaborate on fun projects</li>
+    <li>📫 How to reach me https://egeland.io</li>
   </ul>
 </p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
