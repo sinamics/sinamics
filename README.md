@@ -72,12 +72,12 @@
 
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (1 week ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (2 weeks ago)
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (2 weeks ago)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (3 weeks ago)
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (3 weeks ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (4 weeks ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (1 month ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (1 month ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts (3 months ago)
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (5 months ago)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (6 months ago)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app  (6 months ago)
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) - ✈️ uav companion software ✈️ (9 months ago)
 
