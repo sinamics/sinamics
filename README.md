@@ -17,7 +17,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (1 week ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (4 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (1 month ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 month ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (2 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 months ago)
@@ -44,21 +44,21 @@
 
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 1 week ago) - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.7.1-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.7.1-r0), 3 weeks ago) - Flarum Docker image
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.0](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.0), 3 weeks ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.0](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.0), 4 weeks ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 9 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
 - [[Rework RelativeModal] calculate available window height](https://github.com/blakeblackshear/frigate/pull/6000) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (3 weeks ago)
 - [header](https://github.com/sinamics/next_ztnet/pull/45) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/44) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/43) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
-- [table style](https://github.com/sinamics/next_ztnet/pull/42) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/41) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/40) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/39) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/43) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
+- [table style](https://github.com/sinamics/next_ztnet/pull/42) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/41) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/40) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/39) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
