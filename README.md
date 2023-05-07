@@ -52,8 +52,8 @@
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
 - [[Rework RelativeModal] calculate available window height](https://github.com/blakeblackshear/frigate/pull/6000) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (3 weeks ago)
-- [header](https://github.com/sinamics/next_ztnet/pull/45) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/44) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
+- [header](https://github.com/sinamics/next_ztnet/pull/45) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/44) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/43) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
 - [table style](https://github.com/sinamics/next_ztnet/pull/42) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/41) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
@@ -71,7 +71,7 @@
 #### ⭐ Recent Stars
 
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (1 week ago)
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (2 weeks ago)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 weeks ago)
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (3 weeks ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 month ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (1 month ago)
@@ -83,8 +83,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [maxim-s-barabash](https://github.com/maxim-s-barabash)
 - [Sofasliteren](https://github.com/Sofasliteren)
 - [4O6FPV](https://github.com/4O6FPV)
 - [jabarua](https://github.com/jabarua)
 - [1126259445](https://github.com/1126259445)
-- [stevegut78](https://github.com/stevegut78)
