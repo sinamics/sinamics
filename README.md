@@ -43,7 +43,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 2 weeks ago) - Zerotier Controller UI
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.7.1-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.7.1-r0), 4 weeks ago) - Flarum Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.7.1-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.7.1-r0), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.0](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.0), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 9 months ago) - ✈️ uav companion software ✈️
 
@@ -70,21 +70,21 @@
 
 #### ⭐ Recent Stars
 
-- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (2 days ago)
+- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (3 days ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 weeks ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 weeks ago)
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (3 weeks ago)
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (4 weeks ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 month ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (1 month ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (1 month ago)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts (3 months ago)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts (4 months ago)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (6 months ago)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app  (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [kimmariusolsen](https://github.com/kimmariusolsen)
 - [maxim-s-barabash](https://github.com/maxim-s-barabash)
 - [Sofasliteren](https://github.com/Sofasliteren)
 - [4O6FPV](https://github.com/4O6FPV)
 - [jabarua](https://github.com/jabarua)
-- [1126259445](https://github.com/1126259445)
