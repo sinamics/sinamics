@@ -70,11 +70,11 @@
 
 #### ⭐ Recent Stars
 
-- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (1 day ago)
-- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (4 days ago)
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (2 days ago)
+- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (5 days ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 weeks ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 weeks ago)
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (4 weeks ago)
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 month ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 month ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (1 month ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (2 months ago)
