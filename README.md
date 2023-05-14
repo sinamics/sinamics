@@ -24,7 +24,7 @@
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (5 months ago)
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (5 months ago)
-- [sinamics/stromoversikt](https://github.com/sinamics/stromoversikt) -  (7 months ago)
+- [sinamics/stromoversikt](https://github.com/sinamics/stromoversikt) -  (8 months ago)
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) - ✈️ uav companion software ✈️ (9 months ago)
 
 #### 🌱 My latest projects
@@ -70,10 +70,10 @@
 
 #### ⭐ Recent Stars
 
-- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (3 days ago)
-- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (6 days ago)
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (4 days ago)
+- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (1 week ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 weeks ago)
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 weeks ago)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (4 weeks ago)
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 month ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 month ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (1 month ago)
