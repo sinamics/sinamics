@@ -16,7 +16,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 weeks ago)
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (3 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (1 month ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (2 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (2 months ago)
@@ -42,15 +42,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 2 weeks ago) - Zerotier Controller UI
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 3 weeks ago) - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.7.1-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.7.1-r0), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.0](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.0), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 9 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 weeks ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 weeks ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 month ago)
 - [[Rework RelativeModal] calculate available window height](https://github.com/blakeblackshear/frigate/pull/6000) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (1 month ago)
 - [header](https://github.com/sinamics/next_ztnet/pull/45) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 month ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/44) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 month ago)
@@ -70,9 +70,9 @@
 
 #### ⭐ Recent Stars
 
-- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (4 days ago)
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (5 days ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (1 week ago)
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 weeks ago)
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (3 weeks ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (4 weeks ago)
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 month ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 month ago)
