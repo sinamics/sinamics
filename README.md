@@ -64,16 +64,16 @@
 
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (4 months ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (5 months ago)
-- [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (5 months ago)
+- [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (6 months ago)
 - [](https://gist.github.com/2dce8bf46e2de3f3fb642bc342d9f5a2) (6 months ago)
 - [](https://gist.github.com/ba01e2dd4dd60f56094088b6d3c3b069) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (5 days ago)
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (6 days ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (1 week ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (3 weeks ago)
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (4 weeks ago)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 month ago)
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 month ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 month ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (1 month ago)
