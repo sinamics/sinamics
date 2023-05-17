@@ -70,7 +70,7 @@
 
 #### ⭐ Recent Stars
 
-- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (6 days ago)
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (1 week ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (1 week ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (3 weeks ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 month ago)
