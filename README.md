@@ -23,7 +23,7 @@
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (2 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (3 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (5 months ago)
-- [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (5 months ago)
+- [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (6 months ago)
 - [sinamics/stromoversikt](https://github.com/sinamics/stromoversikt) -  (8 months ago)
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) - ✈️ uav companion software ✈️ (10 months ago)
 
