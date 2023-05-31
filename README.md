@@ -71,7 +71,7 @@
 #### ⭐ Recent Stars
 
 - [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (1 week ago)
-- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (2 weeks ago)
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (3 weeks ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (3 weeks ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (1 month ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 month ago)
