@@ -16,14 +16,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 day ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 week ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 days ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (2 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (3 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (4 months ago)
-- [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (6 months ago)
+- [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (7 months ago)
 - [sinamics/stromoversikt](https://github.com/sinamics/stromoversikt) -  (9 months ago)
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) - ✈️ uav companion software ✈️ (11 months ago)
 
@@ -42,8 +42,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r0), 6 days ago) - Flarum Docker image
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 week ago) - NVR with realtime local object detection for IP cameras
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r0), 1 week ago) - Flarum Docker image
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 2 weeks ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 2 months ago) - Zerotier Controller UI
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 11 months ago) - ✈️ uav companion software ✈️
 
@@ -83,8 +83,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [kqy001](https://github.com/kqy001)
 - [kimmariusolsen](https://github.com/kimmariusolsen)
 - [maxim-s-barabash](https://github.com/maxim-s-barabash)
 - [Sofasliteren](https://github.com/Sofasliteren)
 - [4O6FPV](https://github.com/4O6FPV)
-- [jabarua](https://github.com/jabarua)
