@@ -16,7 +16,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 days ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
@@ -71,8 +71,7 @@
 #### ⭐ Recent Stars
 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (1 week ago)
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (1 week ago)
-- [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi) -  (1 month ago)
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 weeks ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (1 month ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (1 month ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
@@ -80,6 +79,7 @@
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (2 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (2 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (3 months ago)
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
