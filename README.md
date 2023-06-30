@@ -16,7 +16,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (6 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
@@ -62,11 +62,11 @@
 
 #### 📓 Gists I wrote
 
+- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (1 day ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (6 months ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (7 months ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (7 months ago)
 - [](https://gist.github.com/2dce8bf46e2de3f3fb642bc342d9f5a2) (8 months ago)
-- [](https://gist.github.com/ba01e2dd4dd60f56094088b6d3c3b069) (8 months ago)
 
 #### ⭐ Recent Stars
 
