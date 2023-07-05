@@ -16,11 +16,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 days ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (2 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (3 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (3 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (4 months ago)
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (7 months ago)
@@ -49,7 +49,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (3 days ago)
+- [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (4 days ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [[Rework RelativeModal] calculate available window height](https://github.com/blakeblackshear/frigate/pull/6000) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (2 months ago)
@@ -62,7 +62,7 @@
 
 #### 📓 Gists I wrote
 
-- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (5 days ago)
+- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (6 days ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (6 months ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (7 months ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (7 months ago)
