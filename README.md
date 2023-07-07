@@ -16,8 +16,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (5 days ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (6 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 weeks ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (3 months ago)
@@ -49,16 +49,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (5 days ago)
+- [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (6 days ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [[Rework RelativeModal] calculate available window height](https://github.com/blakeblackshear/frigate/pull/6000) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (2 months ago)
 - [header](https://github.com/sinamics/next_ztnet/pull/45) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/44) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/43) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
-- [table style](https://github.com/sinamics/next_ztnet/pull/42) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/41) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/40) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/43) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
+- [table style](https://github.com/sinamics/next_ztnet/pull/42) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/41) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/40) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
 
 #### 📓 Gists I wrote
 
