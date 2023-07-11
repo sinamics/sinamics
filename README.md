@@ -16,7 +16,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 day ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
@@ -42,15 +42,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 2 days ago) - Flarum Docker image
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 4 weeks ago) - NVR with realtime local object detection for IP cameras
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 3 days ago) - Flarum Docker image
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 2 months ago) - Zerotier Controller UI
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 11 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (1 day ago)
-- [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (1 day ago)
+- [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (2 days ago)
+- [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (2 days ago)
 - [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (1 week ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
@@ -76,7 +76,7 @@
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (2 months ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (2 months ago)
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (2 months ago)
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (3 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (3 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (3 months ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (4 months ago)
