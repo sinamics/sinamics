@@ -16,10 +16,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 day ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 week ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 day ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (3 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (4 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (4 months ago)
@@ -42,15 +42,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 3 days ago) - Flarum Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 4 days ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 2 months ago) - Zerotier Controller UI
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 11 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (2 days ago)
-- [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (2 days ago)
+- [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (3 days ago)
+- [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (3 days ago)
 - [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (1 week ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
@@ -71,7 +71,7 @@
 #### ⭐ Recent Stars
 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (3 weeks ago)
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (4 weeks ago)
+- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (1 month ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (2 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (2 months ago)
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 months ago)
