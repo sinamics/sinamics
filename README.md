@@ -16,9 +16,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 day ago)
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 days ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 days ago)
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (3 days ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 days ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (3 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (4 months ago)
@@ -42,19 +42,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 5 days ago) - Flarum Docker image
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 6 days ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.0.23](https://github.com/sinamics/next_ztnet/releases/tag/v0.0.23), 2 months ago) - Zerotier Controller UI
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 11 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Add more core functionalities](https://github.com/sinamics/next_ztnet/pull/51) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (4 days ago)
-- [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (4 days ago)
+- [Add more core functionalities](https://github.com/sinamics/next_ztnet/pull/51) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (5 days ago)
+- [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (5 days ago)
 - [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (1 week ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
-- [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
+- [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
 - [[Rework RelativeModal] calculate available window height](https://github.com/blakeblackshear/frigate/pull/6000) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (3 months ago)
 - [header](https://github.com/sinamics/next_ztnet/pull/45) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/44) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
