@@ -17,7 +17,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (1 day ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 days ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (3 months ago)
@@ -25,7 +25,7 @@
 - [sinamics/miq](https://github.com/sinamics/miq) -  (4 months ago)
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (7 months ago)
 - [sinamics/stromoversikt](https://github.com/sinamics/stromoversikt) -  (10 months ago)
-- [sinamics/uavcast](https://github.com/sinamics/uavcast) - ✈️ uav companion software ✈️ (11 months ago)
+- [sinamics/uavcast](https://github.com/sinamics/uavcast) - ✈️ uav companion software ✈️ (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -42,17 +42,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.1.4](https://github.com/sinamics/next_ztnet/releases/tag/v0.1.4), 1 day ago) - Zerotier Controller UI
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.1.4](https://github.com/sinamics/next_ztnet/releases/tag/v0.1.4), 2 days ago) - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 week ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
-- [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 11 months ago) - ✈️ uav companion software ✈️
+- [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 1 year ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/55) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/54) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/53) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/52) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/55) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/54) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/53) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/52) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
 - [Add more core functionalities](https://github.com/sinamics/next_ztnet/pull/51) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
 - [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (1 week ago)
 - [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (1 week ago)
@@ -66,7 +66,7 @@
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (6 months ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (8 months ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (8 months ago)
-- [](https://gist.github.com/2dce8bf46e2de3f3fb642bc342d9f5a2) (8 months ago)
+- [](https://gist.github.com/2dce8bf46e2de3f3fb642bc342d9f5a2) (9 months ago)
 
 #### ⭐ Recent Stars
 
