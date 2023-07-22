@@ -16,8 +16,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (1 day ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 days ago)
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) - Zerotier Controller UI (2 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 days ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - Web application for Zerotier vpn controller. (3 months ago)
@@ -42,21 +42,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.1.4](https://github.com/sinamics/next_ztnet/releases/tag/v0.1.4), 2 days ago) - Zerotier Controller UI
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 week ago) - Flarum Docker image
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.1.4](https://github.com/sinamics/next_ztnet/releases/tag/v0.1.4), 3 days ago) - Zerotier Controller UI
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 2 weeks ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 1 year ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/55) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/54) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/53) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/52) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/55) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/54) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/53) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/52) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (5 days ago)
 - [Add more core functionalities](https://github.com/sinamics/next_ztnet/pull/51) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
 - [Master](https://github.com/sinamics/frigate/pull/1) on [sinamics/frigate](https://github.com/sinamics/frigate) (1 week ago)
 - [Improve date and time formatting with fallback for unsupported Intl.DateTimeFormat features](https://github.com/blakeblackshear/frigate/pull/7099) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (1 week ago)
-- [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (2 weeks ago)
+- [fixed TimeAgo abbreviation](https://github.com/blakeblackshear/frigate/pull/6977) on [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) (3 weeks ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/48) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 months ago)
 - [Dev](https://github.com/sinamics/next_ztnet/pull/46) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 months ago)
 
