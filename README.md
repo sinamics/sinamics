@@ -42,23 +42,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.2.1](https://github.com/sinamics/next_ztnet/releases/tag/v0.2.1), 1 day ago) - Zerotier Controller UI
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.2.2](https://github.com/sinamics/next_ztnet/releases/tag/v0.2.2), 1 day ago) - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 2 weeks ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 1 year ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [[Feat]: implement zeronsd](https://github.com/sinamics/next_ztnet/pull/63) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/61) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [network page image](https://github.com/sinamics/next_ztnet/pull/60) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [updated favicon and readme](https://github.com/sinamics/next_ztnet/pull/59) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/58) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/57) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/55) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (6 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/54) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (6 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/53) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/52) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
+- [Create FUNDING.yml](https://github.com/sinamics/next_ztnet/pull/66) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
+- [merge dev branch](https://github.com/sinamics/next_ztnet/pull/65) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
+- [added more images](https://github.com/sinamics/next_ztnet/pull/64) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
+- [[Feat]: implement zeronsd](https://github.com/sinamics/next_ztnet/pull/63) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/61) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [network page image](https://github.com/sinamics/next_ztnet/pull/60) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [updated favicon and readme](https://github.com/sinamics/next_ztnet/pull/59) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/58) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/57) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/55) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
