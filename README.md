@@ -42,27 +42,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.2.2](https://github.com/sinamics/next_ztnet/releases/tag/v0.2.2), 1 day ago) - Zerotier Controller UI
+- [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) ([v0.2.3](https://github.com/sinamics/next_ztnet/releases/tag/v0.2.3), 1 day ago) - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 2 weeks ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
-- [sinamics/uavcast](https://github.com/sinamics/uavcast) ([5.0.0-dev-10](https://github.com/sinamics/uavcast/releases/tag/5.0.0-dev-10), 1 year ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Create FUNDING.yml](https://github.com/sinamics/next_ztnet/pull/66) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [merge dev branch](https://github.com/sinamics/next_ztnet/pull/65) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [added more images](https://github.com/sinamics/next_ztnet/pull/64) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 day ago)
-- [[Feat]: implement zeronsd](https://github.com/sinamics/next_ztnet/pull/63) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/61) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
-- [network page image](https://github.com/sinamics/next_ztnet/pull/60) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
-- [updated favicon and readme](https://github.com/sinamics/next_ztnet/pull/59) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/58) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
-- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/57) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
+- [Create FUNDING.yml](https://github.com/sinamics/next_ztnet/pull/66) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [merge dev branch](https://github.com/sinamics/next_ztnet/pull/65) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [added more images](https://github.com/sinamics/next_ztnet/pull/64) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (2 days ago)
+- [[Feat]: implement zeronsd](https://github.com/sinamics/next_ztnet/pull/63) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/61) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (3 days ago)
+- [network page image](https://github.com/sinamics/next_ztnet/pull/60) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
+- [updated favicon and readme](https://github.com/sinamics/next_ztnet/pull/59) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/58) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (4 days ago)
+- [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/57) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (5 days ago)
 - [Merge dev branch](https://github.com/sinamics/next_ztnet/pull/55) on [sinamics/next_ztnet](https://github.com/sinamics/next_ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (3 weeks ago)
+- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (4 weeks ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (6 months ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (8 months ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (8 months ago)
