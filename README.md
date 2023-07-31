@@ -24,7 +24,6 @@
 - [sinamics/miq](https://github.com/sinamics/miq) -  (5 months ago)
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (8 months ago)
 - [sinamics/stromoversikt](https://github.com/sinamics/stromoversikt) -  (10 months ago)
-- [sinamics/uavcast](https://github.com/sinamics/uavcast) - ✈️ uav companion software ✈️ (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -41,22 +40,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.2.4](https://github.com/sinamics/ztnet/releases/tag/v0.2.4), 2 days ago) - Zerotier Controller UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.2.5](https://github.com/sinamics/ztnet/releases/tag/v0.2.5), 1 day ago) - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 3 weeks ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [[Feature] Translations](https://github.com/sinamics/ztnet/pull/68) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [[Feat] Member Anotation](https://github.com/sinamics/ztnet/pull/67) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Create FUNDING.yml](https://github.com/sinamics/ztnet/pull/66) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [merge dev branch](https://github.com/sinamics/ztnet/pull/65) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [added more images](https://github.com/sinamics/ztnet/pull/64) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [[Feat]: implement zeronsd](https://github.com/sinamics/ztnet/pull/63) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Merge dev branch](https://github.com/sinamics/ztnet/pull/61) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [translation for member modal](https://github.com/sinamics/ztnet/pull/69) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [[Feature] Translations](https://github.com/sinamics/ztnet/pull/68) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [[Feat] Member Anotation](https://github.com/sinamics/ztnet/pull/67) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Create FUNDING.yml](https://github.com/sinamics/ztnet/pull/66) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [merge dev branch](https://github.com/sinamics/ztnet/pull/65) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [added more images](https://github.com/sinamics/ztnet/pull/64) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [[Feat]: implement zeronsd](https://github.com/sinamics/ztnet/pull/63) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Merge dev branch](https://github.com/sinamics/ztnet/pull/61) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [network page image](https://github.com/sinamics/ztnet/pull/60) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [updated favicon and readme](https://github.com/sinamics/ztnet/pull/59) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Merge dev branch](https://github.com/sinamics/ztnet/pull/58) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -68,11 +67,11 @@
 
 #### ⭐ Recent Stars
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - Zerotier Controller UI (1 day ago)
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (1 month ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (2 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (2 months ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - Zerotier Controller UI (3 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (3 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (3 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (4 months ago)
@@ -81,8 +80,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [dec0dOS](https://github.com/dec0dOS)
 - [yashodhank](https://github.com/yashodhank)
 - [kqy001](https://github.com/kqy001)
 - [kimmariusolsen](https://github.com/kimmariusolsen)
 - [maxim-s-barabash](https://github.com/maxim-s-barabash)
-- [Sofasliteren](https://github.com/Sofasliteren)
