@@ -16,11 +16,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller UI (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller UI (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (4 months ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (5 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (5 months ago)
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (8 months ago)
 - [sinamics/stromoversikt](https://github.com/sinamics/stromoversikt) -  (10 months ago)
@@ -40,14 +40,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.0](https://github.com/sinamics/ztnet/releases/tag/v0.3.0), 2 days ago) - ZTNET - Zerotier Controller UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.0](https://github.com/sinamics/ztnet/releases/tag/v0.3.0), 3 days ago) - ZTNET - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 1 month ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [[FEAT] assign unlinked networks to a admin user](https://github.com/sinamics/ztnet/pull/79) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Use Rome lint and formatter instead of eslint and prettier](https://github.com/sinamics/ztnet/pull/78) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Reduce reliance on the database](https://github.com/sinamics/ztnet/pull/81) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [[FEAT] assign unlinked networks to a admin user](https://github.com/sinamics/ztnet/pull/79) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Use Rome lint and formatter instead of eslint and prettier](https://github.com/sinamics/ztnet/pull/78) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 - [ZT Central API integration](https://github.com/sinamics/ztnet/pull/74) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Merge dev branch](https://github.com/sinamics/ztnet/pull/73) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [translation for member modal](https://github.com/sinamics/ztnet/pull/69) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -55,7 +56,6 @@
 - [[Feat] Member Anotation](https://github.com/sinamics/ztnet/pull/67) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Create FUNDING.yml](https://github.com/sinamics/ztnet/pull/66) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [merge dev branch](https://github.com/sinamics/ztnet/pull/65) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [added more images](https://github.com/sinamics/ztnet/pull/64) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -75,13 +75,13 @@
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (3 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (4 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (4 months ago)
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (4 months ago)
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (5 months ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [joachimvenaas](https://github.com/joachimvenaas)
 - [dec0dOS](https://github.com/dec0dOS)
 - [yashodhank](https://github.com/yashodhank)
 - [kqy001](https://github.com/kqy001)
 - [kimmariusolsen](https://github.com/kimmariusolsen)
-- [maxim-s-barabash](https://github.com/maxim-s-barabash)
