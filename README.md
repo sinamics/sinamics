@@ -40,22 +40,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.1](https://github.com/sinamics/ztnet/releases/tag/v0.3.1), 3 days ago) - ZTNET - Zerotier Controller UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.2](https://github.com/sinamics/ztnet/releases/tag/v0.3.2), 1 day ago) - ZTNET - Zerotier Controller UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 2 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [Merge dev branch](https://github.com/sinamics/ztnet/pull/84) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added more tests](https://github.com/sinamics/ztnet/pull/82) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Reduce reliance on the database](https://github.com/sinamics/ztnet/pull/81) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [[FEAT] assign unlinked networks to a admin user](https://github.com/sinamics/ztnet/pull/79) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Use Rome lint and formatter instead of eslint and prettier](https://github.com/sinamics/ztnet/pull/78) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [[Feature] Admin-Controlled User Group Creation](https://github.com/sinamics/ztnet/pull/86) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improve multiarch builds](https://github.com/sinamics/ztnet/pull/85) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Merge dev branch](https://github.com/sinamics/ztnet/pull/84) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added more tests](https://github.com/sinamics/ztnet/pull/82) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Reduce reliance on the database](https://github.com/sinamics/ztnet/pull/81) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [[FEAT] assign unlinked networks to a admin user](https://github.com/sinamics/ztnet/pull/79) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Use Rome lint and formatter instead of eslint and prettier](https://github.com/sinamics/ztnet/pull/78) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [ZT Central API integration](https://github.com/sinamics/ztnet/pull/74) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Merge dev branch](https://github.com/sinamics/ztnet/pull/73) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [translation for member modal](https://github.com/sinamics/ztnet/pull/69) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [[Feature] Translations](https://github.com/sinamics/ztnet/pull/68) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [[Feat] Member Anotation](https://github.com/sinamics/ztnet/pull/67) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [translation for member modal](https://github.com/sinamics/ztnet/pull/69) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -67,8 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller UI (1 week ago)
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. (1 month ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller UI (2 weeks ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 months ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (3 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (3 months ago)
@@ -77,6 +76,7 @@
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (4 months ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (5 months ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper Scripts (7 months ago)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
