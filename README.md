@@ -40,16 +40,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.3](https://github.com/sinamics/ztnet/releases/tag/v0.3.3), 1 day ago) - ZTNET - Zerotier Controller Web UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.3](https://github.com/sinamics/ztnet/releases/tag/v0.3.3), 2 days ago) - ZTNET - Zerotier Controller Web UI
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 2 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [mkworld for building private root](https://github.com/sinamics/ztnet/pull/87) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [[Feature] Admin-Controlled User Group Creation](https://github.com/sinamics/ztnet/pull/86) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Improve multiarch builds](https://github.com/sinamics/ztnet/pull/85) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Merge dev branch](https://github.com/sinamics/ztnet/pull/84) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [mkworld for building private root](https://github.com/sinamics/ztnet/pull/87) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [[Feature] Admin-Controlled User Group Creation](https://github.com/sinamics/ztnet/pull/86) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Improve multiarch builds](https://github.com/sinamics/ztnet/pull/85) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Merge dev branch](https://github.com/sinamics/ztnet/pull/84) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added more tests](https://github.com/sinamics/ztnet/pull/82) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Reduce reliance on the database](https://github.com/sinamics/ztnet/pull/81) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [[FEAT] assign unlinked networks to a admin user](https://github.com/sinamics/ztnet/pull/79) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
