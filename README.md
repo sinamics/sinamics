@@ -8,10 +8,12 @@
   </ul>
 </p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinamics&show_icons=true&theme=tokyonight" />
+<!--   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinamics&show_icons=true&theme=tokyonight" /> -->
+  <img align="center" src="https://github-readme-stats-ten-xi-55.vercel.app/api?username=sinamics&show_icons=true&theme=tokyonight" />
 </a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinamics&theme=tokyonight" />
+<!--   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinamics&theme=tokyonight" /> -->
+  <img align="center" src="https://github-readme-stats-ten-xi-55.vercel.app/api/top-langs/?username=sinamics&theme=tokyonight" />
 </a></p>
 
 ### 👷 Check out what I'm currently working on
