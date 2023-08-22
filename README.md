@@ -7,12 +7,11 @@
     <li>📫 How to reach me https://egeland.io</li>
   </ul>
 </p>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinamics&show_icons=true&theme=tokyonight" />
-</a></p>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinamics&theme=tokyonight" />
-</a></p>
+
+### 📈 GitHub Statistics 📉
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinamics&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinamics&theme=tokyonight" />
+
 
 ### 👷 Check out what I'm currently working on
 
