@@ -9,8 +9,8 @@
 </p>
 
 ### 📈 GitHub Statistics 📉
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sinamics&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sinamics&theme=tokyonight&layout=compact" />
+<img align="center" src="https://github-readme-stats-ten-xi-55.vercel.app/api?username=sinamics&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-ten-xi-55.vercel.app/api/top-langs/?username=sinamics&theme=tokyonight&layout=compact" />
 
 ### 👷 Check out what I'm currently working on
 
