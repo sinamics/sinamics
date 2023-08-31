@@ -15,7 +15,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 days ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (5 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
@@ -39,23 +39,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.1](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.1), 4 days ago) - ZeroTier One as Docker Image
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.6](https://github.com/sinamics/ztnet/releases/tag/v0.3.6), 5 days ago) - ZTNET - Zerotier Controller Web UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.7](https://github.com/sinamics/ztnet/releases/tag/v0.3.7), 1 day ago) - ZTNET - Zerotier Controller Web UI
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.1](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.1), 5 days ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 2 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [Improved animation for Apple&#39;s WebKit engine](https://github.com/sinamics/ztnet/pull/111) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Management ip spacing](https://github.com/sinamics/ztnet/pull/110) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Documentation site](https://github.com/sinamics/ztnet/pull/107) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Adding internal url](https://github.com/sinamics/ztnet/pull/106) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Release 1.12.1](https://github.com/zyclonite/zerotier-docker/pull/24) on [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) (4 days ago)
-- [Merge dev branch](https://github.com/sinamics/ztnet/pull/103) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved planet creation](https://github.com/sinamics/ztnet/pull/115) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved animation for Apple&#39;s WebKit engine](https://github.com/sinamics/ztnet/pull/111) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Management ip spacing](https://github.com/sinamics/ztnet/pull/110) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Documentation site](https://github.com/sinamics/ztnet/pull/107) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Adding internal url](https://github.com/sinamics/ztnet/pull/106) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Release 1.12.1](https://github.com/zyclonite/zerotier-docker/pull/24) on [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) (5 days ago)
+- [Merge dev branch](https://github.com/sinamics/ztnet/pull/103) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [[Feature] Enhanced admin operations for platform users](https://github.com/sinamics/ztnet/pull/101) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [[Feature] Allow admins to create an Organization.](https://github.com/sinamics/ztnet/pull/99) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Update port in local.conf](https://github.com/sinamics/ztnet/pull/98) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Download planet file via url](https://github.com/sinamics/ztnet/pull/97) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -67,7 +67,7 @@
 
 #### ⭐ Recent Stars
 
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 days ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (5 days ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 months ago)
