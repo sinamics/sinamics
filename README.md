@@ -15,7 +15,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (6 days ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
@@ -39,23 +39,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.7](https://github.com/sinamics/ztnet/releases/tag/v0.3.7), 2 days ago) - ZTNET - Zerotier Controller Web UI
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.1](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.1), 6 days ago) - ZeroTier One as Docker Image
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.3.7](https://github.com/sinamics/ztnet/releases/tag/v0.3.7), 3 days ago) - ZTNET - Zerotier Controller Web UI
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.1](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.1), 1 week ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 2 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [Remove signup page and button if registration is closed.](https://github.com/sinamics/ztnet/pull/122) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Changed postgres db](https://github.com/sinamics/ztnet/pull/121) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Custom 404 page](https://github.com/sinamics/ztnet/pull/120) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improved planet creation](https://github.com/sinamics/ztnet/pull/115) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improved animation for Apple&#39;s WebKit engine](https://github.com/sinamics/ztnet/pull/111) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Management ip spacing](https://github.com/sinamics/ztnet/pull/110) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Documentation site](https://github.com/sinamics/ztnet/pull/107) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Adding internal url](https://github.com/sinamics/ztnet/pull/106) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Release 1.12.1](https://github.com/zyclonite/zerotier-docker/pull/24) on [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) (6 days ago)
+- [Remove signup page and button if registration is closed.](https://github.com/sinamics/ztnet/pull/122) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Changed postgres db](https://github.com/sinamics/ztnet/pull/121) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Custom 404 page](https://github.com/sinamics/ztnet/pull/120) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Improved planet creation](https://github.com/sinamics/ztnet/pull/115) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Improved animation for Apple&#39;s WebKit engine](https://github.com/sinamics/ztnet/pull/111) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Management ip spacing](https://github.com/sinamics/ztnet/pull/110) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Documentation site](https://github.com/sinamics/ztnet/pull/107) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Adding internal url](https://github.com/sinamics/ztnet/pull/106) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Release 1.12.1](https://github.com/zyclonite/zerotier-docker/pull/24) on [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -67,14 +67,14 @@
 
 #### ⭐ Recent Stars
 
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (6 days ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 week ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 months ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (3 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (3 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (4 months ago)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (4 months ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (5 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (5 months ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (5 months ago)
 
