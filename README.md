@@ -46,16 +46,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix connection status when using zt 1.12](https://github.com/sinamics/ztnet/pull/124) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Controller connection status](https://github.com/sinamics/ztnet/pull/123) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Remove signup page and button if registration is closed.](https://github.com/sinamics/ztnet/pull/122) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Changed postgres db](https://github.com/sinamics/ztnet/pull/121) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Custom 404 page](https://github.com/sinamics/ztnet/pull/120) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Improved planet creation](https://github.com/sinamics/ztnet/pull/115) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Improved animation for Apple&#39;s WebKit engine](https://github.com/sinamics/ztnet/pull/111) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Management ip spacing](https://github.com/sinamics/ztnet/pull/110) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Documentation site](https://github.com/sinamics/ztnet/pull/107) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bugfix when deleting a network in zerotier central](https://github.com/sinamics/ztnet/pull/125) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix connection status when using zt 1.12](https://github.com/sinamics/ztnet/pull/124) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Controller connection status](https://github.com/sinamics/ztnet/pull/123) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Remove signup page and button if registration is closed.](https://github.com/sinamics/ztnet/pull/122) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Changed postgres db](https://github.com/sinamics/ztnet/pull/121) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Custom 404 page](https://github.com/sinamics/ztnet/pull/120) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Improved planet creation](https://github.com/sinamics/ztnet/pull/115) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Improved animation for Apple&#39;s WebKit engine](https://github.com/sinamics/ztnet/pull/111) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Management ip spacing](https://github.com/sinamics/ztnet/pull/110) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -72,7 +72,7 @@
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 months ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (3 months ago)
-- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (3 months ago)
+- [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (4 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (4 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (5 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (5 months ago)
@@ -80,8 +80,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sbilly](https://github.com/sbilly)
 - [joachimvenaas](https://github.com/joachimvenaas)
 - [dec0dOS](https://github.com/dec0dOS)
 - [yashodhank](https://github.com/yashodhank)
 - [kqy001](https://github.com/kqy001)
-- [kimmariusolsen](https://github.com/kimmariusolsen)
