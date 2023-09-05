@@ -15,7 +15,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
-- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 day ago)
+- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (2 days ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 month ago)
@@ -40,20 +40,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.3.8](https://github.com/sinamics/ztnet/releases/tag/0.3.8), 1 day ago) - ZTNET - Zerotier Controller Web UI
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.1](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.1), 1 week ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 1 month ago) - Flarum Docker image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.12.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.12.1), 2 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [Bugfix when deleting a network in zerotier central](https://github.com/sinamics/ztnet/pull/125) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix connection status when using zt 1.12](https://github.com/sinamics/ztnet/pull/124) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Controller connection status](https://github.com/sinamics/ztnet/pull/123) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Remove signup page and button if registration is closed.](https://github.com/sinamics/ztnet/pull/122) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Changed postgres db](https://github.com/sinamics/ztnet/pull/121) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Custom 404 page](https://github.com/sinamics/ztnet/pull/120) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Improved planet creation](https://github.com/sinamics/ztnet/pull/115) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Bugfix when deleting a network in zerotier central](https://github.com/sinamics/ztnet/pull/125) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix connection status when using zt 1.12](https://github.com/sinamics/ztnet/pull/124) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Controller connection status](https://github.com/sinamics/ztnet/pull/123) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Remove signup page and button if registration is closed.](https://github.com/sinamics/ztnet/pull/122) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Changed postgres db](https://github.com/sinamics/ztnet/pull/121) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Custom 404 page](https://github.com/sinamics/ztnet/pull/120) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Improved planet creation](https://github.com/sinamics/ztnet/pull/115) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Improved animation for Apple&#39;s WebKit engine](https://github.com/sinamics/ztnet/pull/111) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Management ip spacing](https://github.com/sinamics/ztnet/pull/110) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
@@ -80,8 +81,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [v808comd](https://github.com/v808comd)
 - [sbilly](https://github.com/sbilly)
 - [joachimvenaas](https://github.com/joachimvenaas)
 - [dec0dOS](https://github.com/dec0dOS)
 - [yashodhank](https://github.com/yashodhank)
-- [kqy001](https://github.com/kqy001)
