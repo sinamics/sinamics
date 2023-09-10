@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 days ago)
-- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
+- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 week ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 months ago)
@@ -46,16 +46,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improved member id and ip address sorting](https://github.com/sinamics/ztnet/pull/132) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Use client browser timezone when viewing tooltip in member table](https://github.com/sinamics/ztnet/pull/131) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Added dynamic page titles](https://github.com/sinamics/ztnet/pull/130) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Bugfix when deleting a network in zerotier central](https://github.com/sinamics/ztnet/pull/125) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added more transparent red color when user is not authorized](https://github.com/sinamics/ztnet/pull/133) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved member id and ip address sorting](https://github.com/sinamics/ztnet/pull/132) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Use client browser timezone when viewing tooltip in member table](https://github.com/sinamics/ztnet/pull/131) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added dynamic page titles](https://github.com/sinamics/ztnet/pull/130) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Bugfix when deleting a network in zerotier central](https://github.com/sinamics/ztnet/pull/125) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix connection status when using zt 1.12](https://github.com/sinamics/ztnet/pull/124) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Controller connection status](https://github.com/sinamics/ztnet/pull/123) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Remove signup page and button if registration is closed.](https://github.com/sinamics/ztnet/pull/122) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Changed postgres db](https://github.com/sinamics/ztnet/pull/121) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Custom 404 page](https://github.com/sinamics/ztnet/pull/120) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fix for zerotier member api bug](https://github.com/sinamics/ztnet/pull/116) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -68,9 +68,9 @@
 #### ⭐ Recent Stars
 
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 weeks ago)
-- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (2 weeks ago)
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (3 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 month ago)
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (2 months ago)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (3 months ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (4 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (4 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (5 months ago)
