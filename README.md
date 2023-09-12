@@ -46,16 +46,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Allow user to hide sidebar on all devices](https://github.com/sinamics/ztnet/pull/138) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Show modal when de-authorize a member](https://github.com/sinamics/ztnet/pull/137) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Persist Pagesize, added more options to pagination menu](https://github.com/sinamics/ztnet/pull/136) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Use network name as page title instead of ID](https://github.com/sinamics/ztnet/pull/135) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added more transparent red color when user is not authorized](https://github.com/sinamics/ztnet/pull/133) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improved member id and ip address sorting](https://github.com/sinamics/ztnet/pull/132) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Use client browser timezone when viewing tooltip in member table](https://github.com/sinamics/ztnet/pull/131) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Added dynamic page titles](https://github.com/sinamics/ztnet/pull/130) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Bugfix when deleting a network in zerotier central](https://github.com/sinamics/ztnet/pull/125) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fix connection status when using zt 1.12](https://github.com/sinamics/ztnet/pull/124) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Allow user to hide sidebar on all devices](https://github.com/sinamics/ztnet/pull/138) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Show modal when de-authorize a member](https://github.com/sinamics/ztnet/pull/137) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Persist Pagesize, added more options to pagination menu](https://github.com/sinamics/ztnet/pull/136) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Use network name as page title instead of ID](https://github.com/sinamics/ztnet/pull/135) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added more transparent red color when user is not authorized](https://github.com/sinamics/ztnet/pull/133) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Improved member id and ip address sorting](https://github.com/sinamics/ztnet/pull/132) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Use client browser timezone when viewing tooltip in member table](https://github.com/sinamics/ztnet/pull/131) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Added dynamic page titles](https://github.com/sinamics/ztnet/pull/130) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
