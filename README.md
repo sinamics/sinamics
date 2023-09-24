@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (4 days ago)
-- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (5 days ago)
+- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (3 weeks ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 months ago)
@@ -45,16 +45,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix members table physical ip sorting](https://github.com/sinamics/ztnet/pull/149) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix client exception when editing member](https://github.com/sinamics/ztnet/pull/148) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fixed ipv6 when viewing zerotier central network](https://github.com/sinamics/ztnet/pull/144) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fixed plRecommend bug when editing mkworld](https://github.com/sinamics/ztnet/pull/143) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Allow user to hide sidebar on all devices](https://github.com/sinamics/ztnet/pull/138) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Show modal when de-authorize a member](https://github.com/sinamics/ztnet/pull/137) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Allow user to hide sidebar on all devices](https://github.com/sinamics/ztnet/pull/138) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Show modal when de-authorize a member](https://github.com/sinamics/ztnet/pull/137) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
