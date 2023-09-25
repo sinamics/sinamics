@@ -14,9 +14,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (6 days ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (3 weeks ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 weeks ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 months ago)
@@ -39,20 +39,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta2), 1 day ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 week ago) - ZeroTier One as Docker Image
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta1), 1 week ago) - NVR with realtime local object detection for IP cameras
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 2 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix members table physical ip sorting](https://github.com/sinamics/ztnet/pull/149) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix client exception when editing member](https://github.com/sinamics/ztnet/pull/148) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fixed ipv6 when viewing zerotier central network](https://github.com/sinamics/ztnet/pull/144) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fixed plRecommend bug when editing mkworld](https://github.com/sinamics/ztnet/pull/143) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Allow user to hide sidebar on all devices](https://github.com/sinamics/ztnet/pull/138) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Show modal when de-authorize a member](https://github.com/sinamics/ztnet/pull/137) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 weeks ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 month ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (3 months ago)
