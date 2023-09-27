@@ -39,7 +39,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta2), 2 days ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta2), 3 days ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 week ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 2 months ago) - Flarum Docker image
 
@@ -58,7 +58,7 @@
 
 #### 📓 Gists I wrote
 
-- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 months ago)
+- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (3 months ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (9 months ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (10 months ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (10 months ago)
