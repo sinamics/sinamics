@@ -51,8 +51,8 @@
 - [Fix client exception when editing member](https://github.com/sinamics/ztnet/pull/148) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Fixed ipv6 when viewing zerotier central network](https://github.com/sinamics/ztnet/pull/144) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Fixed plRecommend bug when editing mkworld](https://github.com/sinamics/ztnet/pull/143) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Allow user to hide sidebar on all devices](https://github.com/sinamics/ztnet/pull/138) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Show modal when de-authorize a member](https://github.com/sinamics/ztnet/pull/137) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 
@@ -73,7 +73,7 @@
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (4 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (4 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (5 months ago)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (5 months ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (6 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (6 months ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (6 months ago)
 
