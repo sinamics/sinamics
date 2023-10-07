@@ -14,12 +14,12 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 day ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 months ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (6 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (7 months ago)
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (10 months ago)
@@ -45,6 +45,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Fix members table physical ip sorting](https://github.com/sinamics/ztnet/pull/149) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
@@ -53,8 +55,6 @@
 - [Fixed plRecommend bug when editing mkworld](https://github.com/sinamics/ztnet/pull/143) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Allow user to hide sidebar on all devices](https://github.com/sinamics/ztnet/pull/138) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Show modal when de-authorize a member](https://github.com/sinamics/ztnet/pull/137) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -70,7 +70,7 @@
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 months ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (3 months ago)
-- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (4 months ago)
+- [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (5 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (5 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (5 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (6 months ago)
