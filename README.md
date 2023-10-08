@@ -15,12 +15,12 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 day ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 days ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 months ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (6 months ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (7 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (7 months ago)
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (10 months ago)
 
@@ -39,22 +39,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta2), 1 week ago) - NVR with realtime local object detection for IP cameras
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.3.11](https://github.com/sinamics/ztnet/releases/tag/0.3.11), 1 day ago) - ZTNET - Zerotier Controller Web UI
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta2), 2 weeks ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 3 weeks ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 3 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added option to set custom Title and Description on public pages](https://github.com/sinamics/ztnet/pull/165) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 - [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fix members table physical ip sorting](https://github.com/sinamics/ztnet/pull/149) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fix client exception when editing member](https://github.com/sinamics/ztnet/pull/148) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fixed ipv6 when viewing zerotier central network](https://github.com/sinamics/ztnet/pull/144) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fixed plRecommend bug when editing mkworld](https://github.com/sinamics/ztnet/pull/143) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved DOM render on intial page load for small devices](https://github.com/sinamics/ztnet/pull/141) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Persist table sorting in localstorage](https://github.com/sinamics/ztnet/pull/140) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -75,7 +76,7 @@
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (5 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (6 months ago)
 - [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (6 months ago)
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (6 months ago)
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
