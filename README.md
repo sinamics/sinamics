@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
@@ -39,14 +39,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.3.11](https://github.com/sinamics/ztnet/releases/tag/0.3.11), 6 days ago) - ZTNET - Zerotier Controller Web UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.3.11](https://github.com/sinamics/ztnet/releases/tag/0.3.11), 1 week ago) - ZTNET - Zerotier Controller Web UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta2), 2 weeks ago) - NVR with realtime local object detection for IP cameras
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 4 weeks ago) - ZeroTier One as Docker Image
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 month ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 3 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Added option to set custom Title and Description on public pages](https://github.com/sinamics/ztnet/pull/165) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added option to set custom Title and Description on public pages](https://github.com/sinamics/ztnet/pull/165) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
