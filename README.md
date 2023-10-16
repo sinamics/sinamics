@@ -18,7 +18,7 @@
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (7 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (7 months ago)
@@ -61,7 +61,7 @@
 
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (3 months ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (9 months ago)
-- [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (10 months ago)
+- [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (11 months ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (11 months ago)
 - [](https://gist.github.com/2dce8bf46e2de3f3fb642bc342d9f5a2) (11 months ago)
 
@@ -75,7 +75,7 @@
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (5 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (6 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (6 months ago)
-- [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (6 months ago)
+- [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (7 months ago)
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) -  (7 months ago)
 
 #### 👯 Check out some of my recent followers
