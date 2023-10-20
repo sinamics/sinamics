@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 days ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
@@ -47,8 +47,8 @@
 #### 🔨 My recent Pull Requests
 
 - [Added option to set custom Title and Description on public pages](https://github.com/sinamics/ztnet/pull/165) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix members table physical ip sorting](https://github.com/sinamics/ztnet/pull/149) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
