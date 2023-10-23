@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (4 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (5 days ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 month ago)
@@ -22,7 +22,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (7 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (8 months ago)
-- [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (10 months ago)
+- [sinamics/ae-iot](https://github.com/sinamics/ae-iot) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -80,8 +80,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [VMCoud](https://github.com/VMCoud)
 - [v808comd](https://github.com/v808comd)
 - [sbilly](https://github.com/sbilly)
 - [joachimvenaas](https://github.com/joachimvenaas)
 - [dec0dOS](https://github.com/dec0dOS)
-- [yashodhank](https://github.com/yashodhank)
