@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 days ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
@@ -45,20 +45,20 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improved Mapping Functions to Handle Undefined Values](https://github.com/sinamics/ztnet/pull/179) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Fixed font and background colors for public pages](https://github.com/sinamics/ztnet/pull/178) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Use diffrent zerotier paths and error msg when using freebsd vs debian and docker.](https://github.com/sinamics/ztnet/pull/183) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved Mapping Functions to Handle Undefined Values](https://github.com/sinamics/ztnet/pull/179) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Fixed font and background colors for public pages](https://github.com/sinamics/ztnet/pull/178) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 - [Added option to set custom Title and Description on public pages](https://github.com/sinamics/ztnet/pull/165) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix members table physical ip sorting](https://github.com/sinamics/ztnet/pull/149) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix client exception when editing member](https://github.com/sinamics/ztnet/pull/148) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fixed ipv6 when viewing zerotier central network](https://github.com/sinamics/ztnet/pull/144) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
 
-- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (3 months ago)
+- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (4 months ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (10 months ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (11 months ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (11 months ago)
