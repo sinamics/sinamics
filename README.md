@@ -14,9 +14,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (today)
+- [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (1 day ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
-- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 months ago)
@@ -26,7 +26,7 @@
 
 #### 🌱 My latest projects
 
-- [sinamics/install.ztnet.network](https://github.com/sinamics/install.ztnet.network) - 
+- [sinamics/lh_demo](https://github.com/sinamics/lh_demo) - 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI
 - [sinamics/miq](https://github.com/sinamics/miq) - 
 - [sinamics/ae-iot](https://github.com/sinamics/ae-iot) - 
@@ -45,16 +45,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use diffrent zerotier paths and error msg when using freebsd vs debian and docker.](https://github.com/sinamics/ztnet/pull/183) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improved Mapping Functions to Handle Undefined Values](https://github.com/sinamics/ztnet/pull/179) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Fixed font and background colors for public pages](https://github.com/sinamics/ztnet/pull/178) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added option to set custom Title and Description on public pages](https://github.com/sinamics/ztnet/pull/165) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Changes added by @tinola](https://github.com/sinamics/ztnet/pull/186) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Move install.ztnet package to main repo](https://github.com/sinamics/ztnet/pull/185) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Use diffrent zerotier paths and error msg when using freebsd vs debian and docker.](https://github.com/sinamics/ztnet/pull/183) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improved Mapping Functions to Handle Undefined Values](https://github.com/sinamics/ztnet/pull/179) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Fixed font and background colors for public pages](https://github.com/sinamics/ztnet/pull/178) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added option to set custom Title and Description on public pages](https://github.com/sinamics/ztnet/pull/165) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved ip sorting](https://github.com/sinamics/ztnet/pull/158) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Hash smtp password in database](https://github.com/sinamics/ztnet/pull/157) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved physical ip sorting](https://github.com/sinamics/ztnet/pull/152) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Refactored component folder structure for improved readability](https://github.com/sinamics/ztnet/pull/151) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fix members table physical ip sorting](https://github.com/sinamics/ztnet/pull/149) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fix client exception when editing member](https://github.com/sinamics/ztnet/pull/148) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -68,7 +68,7 @@
 
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 months ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (2 months ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (3 months ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (4 months ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (5 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (5 months ago)
