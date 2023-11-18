@@ -14,11 +14,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 days ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (3 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 months ago)
-- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (2 months ago)
+- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (3 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (8 months ago)
@@ -46,15 +46,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix email smtp transport to use correct credentials](https://github.com/sinamics/ztnet/pull/213) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Updated docs to include `lsb-release` as a requirements for standalone installation](https://github.com/sinamics/ztnet/pull/212) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Use correct email addess for network invites](https://github.com/sinamics/ztnet/pull/206) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix email smtp transport to use correct credentials](https://github.com/sinamics/ztnet/pull/213) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Updated docs to include `lsb-release` as a requirements for standalone installation](https://github.com/sinamics/ztnet/pull/212) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Use correct email addess for network invites](https://github.com/sinamics/ztnet/pull/206) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 - [Add translations for network help section](https://github.com/sinamics/ztnet/pull/202) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Autodetect translation language based on browser](https://github.com/sinamics/ztnet/pull/200) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [update zt url during registration](https://github.com/sinamics/ztnet/pull/197) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Integrate postgres to ztnet container](https://github.com/sinamics/ztnet/pull/195) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Change user ID in database from int to 25char id](https://github.com/sinamics/ztnet/pull/191) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Restfull API](https://github.com/sinamics/ztnet/pull/189) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Restfull API](https://github.com/sinamics/ztnet/pull/189) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Changes added by @tinola](https://github.com/sinamics/ztnet/pull/186) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 
 #### 📓 Gists I wrote
@@ -67,16 +67,16 @@
 
 #### ⭐ Recent Stars
 
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (1 week ago)
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (1 day ago)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (2 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (2 weeks ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 months ago)
-- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (2 months ago)
+- [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (3 months ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (5 months ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (6 months ago)
 - [danchitnis/webgl-plot](https://github.com/danchitnis/webgl-plot) - A high-Performance real-time 2D plotting library based on native WebGL (6 months ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (7 months ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (7 months ago)
-- [eyesoft/home_assistant_min_renovasjon](https://github.com/eyesoft/home_assistant_min_renovasjon) - Home Assistant integration of the Min Renovasjon app (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
