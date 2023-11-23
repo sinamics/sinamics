@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (3 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (4 days ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (3 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 months ago)
@@ -40,16 +40,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.4.2](https://github.com/sinamics/ztnet/releases/tag/0.4.2), 3 days ago) - ZTNET - Zerotier Controller Web UI
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.4.2](https://github.com/sinamics/ztnet/releases/tag/0.4.2), 4 days ago) - ZTNET - Zerotier Controller Web UI
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta5](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta5), 1 week ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 2 weeks ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 4 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Added session validation for mkworld download api](https://github.com/sinamics/ztnet/pull/215) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Fix email smtp transport to use correct credentials](https://github.com/sinamics/ztnet/pull/213) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Updated docs to include `lsb-release` as a requirements for standalone installation](https://github.com/sinamics/ztnet/pull/212) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added session validation for mkworld download api](https://github.com/sinamics/ztnet/pull/215) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Fix email smtp transport to use correct credentials](https://github.com/sinamics/ztnet/pull/213) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Updated docs to include `lsb-release` as a requirements for standalone installation](https://github.com/sinamics/ztnet/pull/212) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Use correct email addess for network invites](https://github.com/sinamics/ztnet/pull/206) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Add translations for network help section](https://github.com/sinamics/ztnet/pull/202) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Autodetect translation language based on browser](https://github.com/sinamics/ztnet/pull/200) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
@@ -68,8 +68,8 @@
 
 #### ⭐ Recent Stars
 
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.  (1 day ago)
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (5 days ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them.  (2 days ago)
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (6 days ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (2 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - Zerotier Controller Web UI (3 weeks ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (2 months ago)
