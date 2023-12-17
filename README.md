@@ -39,18 +39,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta6](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta6), 3 weeks ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta7](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta7), 1 day ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 month ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 5 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Improved ssr fetching of organization id`s](https://github.com/sinamics/ztnet/pull/244) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added nofollow and noindex meta tag to prevent google crawling the site.](https://github.com/sinamics/ztnet/pull/243) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added feature to move private network to a organization](https://github.com/sinamics/ztnet/pull/240) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Bugfix User registration when using invitation link](https://github.com/sinamics/ztnet/pull/237) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Added tests for creating user via API](https://github.com/sinamics/ztnet/pull/234) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Added more tests for the public api](https://github.com/sinamics/ztnet/pull/232) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Improved fetching of organization id`s](https://github.com/sinamics/ztnet/pull/244) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added nofollow and noindex meta tag to prevent google crawling the site.](https://github.com/sinamics/ztnet/pull/243) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added feature to move private network to a organization](https://github.com/sinamics/ztnet/pull/240) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Bugfix User registration when using invitation link](https://github.com/sinamics/ztnet/pull/237) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added tests for creating user via API](https://github.com/sinamics/ztnet/pull/234) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added more tests for the public api](https://github.com/sinamics/ztnet/pull/232) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Define session maxAge using env variable](https://github.com/sinamics/ztnet/pull/231) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Extend API endpoints](https://github.com/sinamics/ztnet/pull/230) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Cascading Deletion for Organization-Related Tables on User Removal](https://github.com/sinamics/ztnet/pull/228) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -67,7 +67,7 @@
 #### ⭐ Recent Stars
 
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 weeks ago)
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (4 weeks ago)
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (1 month ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (3 months ago)
