@@ -14,11 +14,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (3 months ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (4 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (5 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (9 months ago)
@@ -45,16 +45,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Extended API to handle member updates](https://github.com/sinamics/ztnet/pull/246) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Dev container config](https://github.com/teziovsky/vehicle-service-book/pull/47) on [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) (5 days ago)
+- [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Extended API to handle member updates](https://github.com/sinamics/ztnet/pull/246) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Dev container config](https://github.com/teziovsky/vehicle-service-book/pull/47) on [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) (6 days ago)
 - [Improved fetching of organization id`s](https://github.com/sinamics/ztnet/pull/244) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added nofollow and noindex meta tag to prevent google crawling the site.](https://github.com/sinamics/ztnet/pull/243) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added feature to move private network to a organization](https://github.com/sinamics/ztnet/pull/240) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bugfix User registration when using invitation link](https://github.com/sinamics/ztnet/pull/237) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added tests for creating user via API](https://github.com/sinamics/ztnet/pull/234) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added more tests for the public api](https://github.com/sinamics/ztnet/pull/232) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -66,12 +66,12 @@
 
 #### ⭐ Recent Stars
 
-- [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) - Vehicle service book app made with ❤️ and Next.js (6 days ago)
+- [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) - Vehicle service book app made with ❤️ and Next.js (1 week ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 month ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (1 month ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (3 months ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 months ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (4 months ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (6 months ago)
 - [juliusmarminge/acme-corp](https://github.com/juliusmarminge/acme-corp) -  (7 months ago)
