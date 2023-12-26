@@ -14,9 +14,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
-- [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (1 month ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
+- [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (4 months ago)
@@ -39,26 +39,27 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.5.6](https://github.com/sinamics/ztnet/releases/tag/0.5.6), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta7](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta7), 1 week ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 month ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 5 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Updated documentation example for DNS output](https://github.com/sinamics/ztnet/pull/261) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
 - [Extended API to handle member updates](https://github.com/sinamics/ztnet/pull/246) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Dev container config](https://github.com/teziovsky/vehicle-service-book/pull/47) on [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) (1 week ago)
 - [Improved fetching of organization id`s](https://github.com/sinamics/ztnet/pull/244) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added nofollow and noindex meta tag to prevent google crawling the site.](https://github.com/sinamics/ztnet/pull/243) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added feature to move private network to a organization](https://github.com/sinamics/ztnet/pull/240) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bugfix User registration when using invitation link](https://github.com/sinamics/ztnet/pull/237) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added tests for creating user via API](https://github.com/sinamics/ztnet/pull/234) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Bugfix User registration when using invitation link](https://github.com/sinamics/ztnet/pull/237) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (5 months ago)
+- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (6 months ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (1 year ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (1 year ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (1 year ago)
