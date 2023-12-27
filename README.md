@@ -39,23 +39,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.5.6](https://github.com/sinamics/ztnet/releases/tag/0.5.6), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta7](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta7), 1 week ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 month ago) - ZeroTier One as Docker Image
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 5 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Updated documentation example for DNS output](https://github.com/sinamics/ztnet/pull/261) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Updated documentation for creating private root](https://github.com/sinamics/ztnet/pull/263) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Updated documentation example for DNS output](https://github.com/sinamics/ztnet/pull/261) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Extended API to handle member updates](https://github.com/sinamics/ztnet/pull/246) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Dev container config](https://github.com/teziovsky/vehicle-service-book/pull/47) on [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) (1 week ago)
 - [Improved fetching of organization id`s](https://github.com/sinamics/ztnet/pull/244) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added nofollow and noindex meta tag to prevent google crawling the site.](https://github.com/sinamics/ztnet/pull/243) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added feature to move private network to a organization](https://github.com/sinamics/ztnet/pull/240) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bugfix User registration when using invitation link](https://github.com/sinamics/ztnet/pull/237) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Added feature to move private network to a organization](https://github.com/sinamics/ztnet/pull/240) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
