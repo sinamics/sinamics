@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
@@ -45,16 +45,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improved ztnet user experience.](https://github.com/sinamics/ztnet/pull/269) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added env variable to disable Credential Login when OAuth is enabled](https://github.com/sinamics/ztnet/pull/266) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Updated documentation for creating private root](https://github.com/sinamics/ztnet/pull/263) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Updated documentation example for DNS output](https://github.com/sinamics/ztnet/pull/261) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Improved ztnet user experience.](https://github.com/sinamics/ztnet/pull/269) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added env variable to disable Credential Login when OAuth is enabled](https://github.com/sinamics/ztnet/pull/266) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Updated documentation for creating private root](https://github.com/sinamics/ztnet/pull/263) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Updated documentation example for DNS output](https://github.com/sinamics/ztnet/pull/261) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Extended API to handle member updates](https://github.com/sinamics/ztnet/pull/246) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Dev container config](https://github.com/teziovsky/vehicle-service-book/pull/47) on [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) (1 week ago)
-- [Improved fetching of organization id`s](https://github.com/sinamics/ztnet/pull/244) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Improved fetching of organization id`s](https://github.com/sinamics/ztnet/pull/244) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
