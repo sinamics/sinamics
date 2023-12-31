@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
@@ -39,18 +39,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.5.7](https://github.com/sinamics/ztnet/releases/tag/0.5.7), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 1 day ago) - Flarum Docker image
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.5.7](https://github.com/sinamics/ztnet/releases/tag/0.5.7), 2 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-beta7](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-beta7), 2 weeks ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 month ago) - ZeroTier One as Docker Image
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.0-r1](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.0-r1), 5 months ago) - Flarum Docker image
 
 #### 🔨 My recent Pull Requests
 
-- [Added webhook feature for organizations.](https://github.com/sinamics/ztnet/pull/270) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improved ztnet user experience.](https://github.com/sinamics/ztnet/pull/269) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added env variable to disable Credential Login when OAuth is enabled](https://github.com/sinamics/ztnet/pull/266) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Updated documentation for creating private root](https://github.com/sinamics/ztnet/pull/263) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Updated documentation example for DNS output](https://github.com/sinamics/ztnet/pull/261) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added webhook feature for organizations.](https://github.com/sinamics/ztnet/pull/270) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improved ztnet user experience.](https://github.com/sinamics/ztnet/pull/269) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added env variable to disable Credential Login when OAuth is enabled](https://github.com/sinamics/ztnet/pull/266) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Updated documentation for creating private root](https://github.com/sinamics/ztnet/pull/263) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Updated documentation example for DNS output](https://github.com/sinamics/ztnet/pull/261) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Improved overall theme colors](https://github.com/sinamics/ztnet/pull/255) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added generic OAuth authentication support](https://github.com/sinamics/ztnet/pull/252) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added option to set member id as name uppon network registration](https://github.com/sinamics/ztnet/pull/250) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -67,11 +67,11 @@
 
 #### ⭐ Recent Stars
 
-- [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) - Vehicle service book app made with ❤️ and Next.js (1 week ago)
+- [teziovsky/vehicle-service-book](https://github.com/teziovsky/vehicle-service-book) - Vehicle service book app made with ❤️ and Next.js (2 weeks ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 month ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (1 month ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (1 month ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 months ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (4 months ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (6 months ago)
