@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (2 months ago)
@@ -45,16 +45,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved styles and layout](https://github.com/sinamics/ztnet/pull/273) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added info how to join when new a network is created](https://github.com/sinamics/ztnet/pull/272) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Improved standalone installer script](https://github.com/sinamics/ztnet/pull/271) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Improved standalone installer script](https://github.com/sinamics/ztnet/pull/271) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -66,10 +66,10 @@
 
 #### ⭐ Recent Stars
 
-- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (5 days ago)
+- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (6 days ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (1 week ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (1 month ago)
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (1 month ago)
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (2 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (2 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (4 months ago)
