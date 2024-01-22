@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (2 months ago)
@@ -39,7 +39,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-rc1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-rc1), 2 weeks ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-rc1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-rc1), 3 weeks ago) - NVR with realtime local object detection for IP cameras
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 3 weeks ago) - Flarum Docker image
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 2 months ago) - ZeroTier One as Docker Image
 
@@ -51,7 +51,7 @@
 - [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Improved styles and layout](https://github.com/sinamics/ztnet/pull/273) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Added info how to join when new a network is created](https://github.com/sinamics/ztnet/pull/272) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Improved standalone installer script](https://github.com/sinamics/ztnet/pull/271) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
