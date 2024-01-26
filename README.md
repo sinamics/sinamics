@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (3 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (5 months ago)
@@ -47,8 +47,8 @@
 
 - [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
