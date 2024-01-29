@@ -39,8 +39,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-rc1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-rc1), 3 weeks ago) - NVR with realtime local object detection for IP cameras
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 4 weeks ago) - Flarum Docker image
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-rc1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-rc1), 4 weeks ago) - NVR with realtime local object detection for IP cameras
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 1 month ago) - Flarum Docker image
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 2 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
@@ -51,7 +51,7 @@
 - [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved styles and layout](https://github.com/sinamics/ztnet/pull/273) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added info how to join when new a network is created](https://github.com/sinamics/ztnet/pull/272) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved standalone installer script](https://github.com/sinamics/ztnet/pull/271) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
