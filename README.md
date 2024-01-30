@@ -50,11 +50,11 @@
 - [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved styles and layout](https://github.com/sinamics/ztnet/pull/273) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added info how to join when new a network is created](https://github.com/sinamics/ztnet/pull/272) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Improved standalone installer script](https://github.com/sinamics/ztnet/pull/271) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Improved standalone installer script](https://github.com/sinamics/ztnet/pull/271) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -71,7 +71,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (2 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (2 months ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (5 months ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (5 months ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (7 months ago)
