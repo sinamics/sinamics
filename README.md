@@ -16,7 +16,7 @@
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 weeks ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (3 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (5 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (5 months ago)
@@ -39,7 +39,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-rc1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-rc1), 4 weeks ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.0-rc1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0-rc1), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 1 month ago) - Flarum Docker image
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 2 months ago) - ZeroTier One as Docker Image
 
@@ -49,7 +49,7 @@
 - [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improved styles and layout](https://github.com/sinamics/ztnet/pull/273) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
@@ -66,7 +66,7 @@
 
 #### ⭐ Recent Stars
 
-- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (2 weeks ago)
+- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (3 weeks ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (3 weeks ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (2 months ago)
