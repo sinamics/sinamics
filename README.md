@@ -21,7 +21,7 @@
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (5 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (5 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (6 months ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (10 months ago)
+- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (11 months ago)
 - [sinamics/miq](https://github.com/sinamics/miq) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -39,7 +39,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.1), 4 days ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.1](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.1), 5 days ago) - NVR with realtime local object detection for IP cameras
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 1 month ago) - Flarum Docker image
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 3 months ago) - ZeroTier One as Docker Image
 
@@ -51,9 +51,9 @@
 - [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Improved styles and layout](https://github.com/sinamics/ztnet/pull/273) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Added info how to join when new a network is created](https://github.com/sinamics/ztnet/pull/272) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Improved styles and layout](https://github.com/sinamics/ztnet/pull/273) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Added info how to join when new a network is created](https://github.com/sinamics/ztnet/pull/272) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Improved standalone installer script](https://github.com/sinamics/ztnet/pull/271) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
@@ -67,7 +67,7 @@
 #### ⭐ Recent Stars
 
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (3 weeks ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 weeks ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (1 month ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (2 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (3 months ago)
