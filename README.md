@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 month ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (4 months ago)
@@ -22,7 +22,6 @@
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (6 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (7 months ago)
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (11 months ago)
-- [sinamics/miq](https://github.com/sinamics/miq) -  (1 year ago)
 
 #### 🌱 My latest projects
 
