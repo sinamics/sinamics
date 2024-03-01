@@ -44,7 +44,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added option to select application font size](https://github.com/sinamics/ztnet/pull/314) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added option to select application font size](https://github.com/sinamics/ztnet/pull/314) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 - [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
