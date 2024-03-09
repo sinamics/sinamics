@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (4 months ago)
@@ -38,22 +38,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.5.11](https://github.com/sinamics/ztnet/releases/tag/0.5.11), 6 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 2 weeks ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 3 weeks ago) - NVR with realtime local object detection for IP cameras
 - [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) ([1.8.3-r0](https://github.com/crazy-max/docker-flarum/releases/tag/1.8.3-r0), 2 months ago) - Flarum Docker image
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 4 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor Backend for Enhanced Maintainability and Structure](https://github.com/sinamics/ztnet/pull/322) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Wrap controller &#34;listening on&#34; ip list](https://github.com/sinamics/ztnet/pull/318) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Refactor Backend for Enhanced Maintainability and Structure](https://github.com/sinamics/ztnet/pull/322) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Wrap controller &#34;listening on&#34; ip list](https://github.com/sinamics/ztnet/pull/318) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added option to select application font size](https://github.com/sinamics/ztnet/pull/314) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
