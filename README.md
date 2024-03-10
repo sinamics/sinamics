@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (4 months ago)
@@ -44,16 +44,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor Backend for Enhanced Maintainability and Structure](https://github.com/sinamics/ztnet/pull/322) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Add ztnet, self-hosted zerotier](https://github.com/zerotier/docs/pull/146) on [zerotier/docs](https://github.com/zerotier/docs) (1 day ago)
+- [Refactor Backend for Enhanced Maintainability and Structure](https://github.com/sinamics/ztnet/pull/322) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Wrap controller &#34;listening on&#34; ip list](https://github.com/sinamics/ztnet/pull/318) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added option to select application font size](https://github.com/sinamics/ztnet/pull/314) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Update manage route when adding custom ip range](https://github.com/sinamics/ztnet/pull/276) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
 
@@ -65,7 +65,7 @@
 
 #### ⭐ Recent Stars
 
-- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (1 month ago)
+- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (2 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (2 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (3 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (3 months ago)
