@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (4 months ago)
@@ -44,16 +44,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add ztnet, self-hosted zerotier](https://github.com/zerotier/docs/pull/146) on [zerotier/docs](https://github.com/zerotier/docs) (1 day ago)
+- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/332) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Expanded width of the network container. ](https://github.com/sinamics/ztnet/pull/331) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Store network members physical ip in db.](https://github.com/sinamics/ztnet/pull/330) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Disable dashboard, users are redirected to network page](https://github.com/sinamics/ztnet/pull/328) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Update network members in DB when user if offline.](https://github.com/sinamics/ztnet/pull/327) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Add ztnet, self-hosted zerotier](https://github.com/zerotier/docs/pull/146) on [zerotier/docs](https://github.com/zerotier/docs) (2 days ago)
 - [Refactor Backend for Enhanced Maintainability and Structure](https://github.com/sinamics/ztnet/pull/322) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Wrap controller &#34;listening on&#34; ip list](https://github.com/sinamics/ztnet/pull/318) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added option to select application font size](https://github.com/sinamics/ztnet/pull/314) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Added option to set NEXTAUTH_URL dynamically for multi tenant usecases.](https://github.com/sinamics/ztnet/pull/291) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Bugfix - ztnet failed to start when using diffrent postgres db name ](https://github.com/sinamics/ztnet/pull/286) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Added French translations](https://github.com/sinamics/ztnet/pull/284) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Allow adding multiple root nodes](https://github.com/sinamics/ztnet/pull/280) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Added option to set custom network MTU](https://github.com/sinamics/ztnet/pull/278) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
 
