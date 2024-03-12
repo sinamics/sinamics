@@ -44,16 +44,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/332) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Expanded width of the network container. ](https://github.com/sinamics/ztnet/pull/331) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Store network members physical ip in db.](https://github.com/sinamics/ztnet/pull/330) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Disable dashboard, users are redirected to network page](https://github.com/sinamics/ztnet/pull/328) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Update network members in DB when user if offline.](https://github.com/sinamics/ztnet/pull/327) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Add ztnet, self-hosted zerotier](https://github.com/zerotier/docs/pull/146) on [zerotier/docs](https://github.com/zerotier/docs) (2 days ago)
+- [Delete member using Rest Api](https://github.com/sinamics/ztnet/pull/335) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Set ipAssignments to empty array when stashing a member](https://github.com/sinamics/ztnet/pull/334) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/332) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Expanded width of the network container. ](https://github.com/sinamics/ztnet/pull/331) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Store network members physical ip in db.](https://github.com/sinamics/ztnet/pull/330) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Disable dashboard, users are redirected to network page](https://github.com/sinamics/ztnet/pull/328) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Update network members in DB when user if offline.](https://github.com/sinamics/ztnet/pull/327) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Add ztnet, self-hosted zerotier](https://github.com/zerotier/docs/pull/146) on [zerotier/docs](https://github.com/zerotier/docs) (3 days ago)
 - [Refactor Backend for Enhanced Maintainability and Structure](https://github.com/sinamics/ztnet/pull/322) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Wrap controller &#34;listening on&#34; ip list](https://github.com/sinamics/ztnet/pull/318) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added option to select application font size](https://github.com/sinamics/ztnet/pull/314) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Support for QR code when adding network](https://github.com/sinamics/ztnet/pull/292) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
 
