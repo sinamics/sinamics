@@ -43,16 +43,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Generating an API Token for New Users via REST API](https://github.com/sinamics/ztnet/pull/339) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/338) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Update Organization network members in DB when users if offline.](https://github.com/sinamics/ztnet/pull/336) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Delete member using Rest Api](https://github.com/sinamics/ztnet/pull/335) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Set ipAssignments to empty array when stashing a member](https://github.com/sinamics/ztnet/pull/334) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/332) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Expanded width of the network container. ](https://github.com/sinamics/ztnet/pull/331) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Store network members physical ip in db.](https://github.com/sinamics/ztnet/pull/330) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Disable dashboard, users are redirected to network page](https://github.com/sinamics/ztnet/pull/328) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Update network members in DB when user if offline.](https://github.com/sinamics/ztnet/pull/327) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Fix minor styling issues](https://github.com/sinamics/ztnet/pull/345) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Enhance Organization Management: Admin Addition, UI Updates.](https://github.com/sinamics/ztnet/pull/344) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Generating an API Token for New Users via REST API](https://github.com/sinamics/ztnet/pull/339) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/338) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Update Organization network members in DB when users if offline.](https://github.com/sinamics/ztnet/pull/336) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Delete member using Rest Api](https://github.com/sinamics/ztnet/pull/335) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Set ipAssignments to empty array when stashing a member](https://github.com/sinamics/ztnet/pull/334) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/332) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Expanded width of the network container. ](https://github.com/sinamics/ztnet/pull/331) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Store network members physical ip in db.](https://github.com/sinamics/ztnet/pull/330) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
 
 #### 📓 Gists I wrote
 
@@ -77,8 +77,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Thalfish](https://github.com/Thalfish)
 - [aspenmayer](https://github.com/aspenmayer)
 - [VMCoud](https://github.com/VMCoud)
 - [v808comd](https://github.com/v808comd)
 - [sbilly](https://github.com/sbilly)
-- [joachimvenaas](https://github.com/joachimvenaas)
