@@ -14,14 +14,13 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (4 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (6 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (7 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (8 months ago)
-- [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum) - Flarum Docker image (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -38,20 +37,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.6.0](https://github.com/sinamics/ztnet/releases/tag/0.6.0), 2 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.6.0](https://github.com/sinamics/ztnet/releases/tag/0.6.0), 3 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 4 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed dropdown bug for Firefox browser](https://github.com/sinamics/ztnet/pull/349) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Add automated tests for organization api](https://github.com/sinamics/ztnet/pull/347) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Change ApiToken db table from Int to CUID.](https://github.com/sinamics/ztnet/pull/346) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Fix minor styling issues](https://github.com/sinamics/ztnet/pull/345) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Enhance Organization Management: Admin Addition, UI Updates.](https://github.com/sinamics/ztnet/pull/344) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Generating an API Token for New Users via REST API](https://github.com/sinamics/ztnet/pull/339) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/338) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Update Organization network members in DB when users if offline.](https://github.com/sinamics/ztnet/pull/336) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fixed dropdown bug for Firefox browser](https://github.com/sinamics/ztnet/pull/349) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Add automated tests for organization api](https://github.com/sinamics/ztnet/pull/347) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Change ApiToken db table from Int to CUID.](https://github.com/sinamics/ztnet/pull/346) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Fix minor styling issues](https://github.com/sinamics/ztnet/pull/345) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Enhance Organization Management: Admin Addition, UI Updates.](https://github.com/sinamics/ztnet/pull/344) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Generating an API Token for New Users via REST API](https://github.com/sinamics/ztnet/pull/339) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Organization api endpoint](https://github.com/sinamics/ztnet/pull/338) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Update Organization network members in DB when users if offline.](https://github.com/sinamics/ztnet/pull/336) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Delete member using Rest Api](https://github.com/sinamics/ztnet/pull/335) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Set ipAssignments to empty array when stashing a member](https://github.com/sinamics/ztnet/pull/334) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
