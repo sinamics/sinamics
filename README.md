@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [API endpoint for updating organization network](https://github.com/sinamics/ztnet/pull/362) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Enhanced organization invitation](https://github.com/sinamics/ztnet/pull/359) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Routes Background color on hover](https://github.com/sinamics/ztnet/pull/356) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [API endpoint for updating organization network](https://github.com/sinamics/ztnet/pull/362) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Enhanced organization invitation](https://github.com/sinamics/ztnet/pull/359) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Routes Background color on hover](https://github.com/sinamics/ztnet/pull/356) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fixed dropdown bug for Firefox browser](https://github.com/sinamics/ztnet/pull/349) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Add automated tests for organization api](https://github.com/sinamics/ztnet/pull/347) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Change ApiToken db table from Int to CUID.](https://github.com/sinamics/ztnet/pull/346) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Change ApiToken db table from Int to CUID.](https://github.com/sinamics/ztnet/pull/346) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Fix minor styling issues](https://github.com/sinamics/ztnet/pull/345) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Enhance Organization Management: Admin Addition, UI Updates.](https://github.com/sinamics/ztnet/pull/344) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Generating an API Token for New Users via REST API](https://github.com/sinamics/ztnet/pull/339) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
