@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [API endpoint for updating organization network](https://github.com/sinamics/ztnet/pull/362) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Enhanced organization invitation](https://github.com/sinamics/ztnet/pull/359) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Add new pages for Organization Webhook and Meta. ](https://github.com/sinamics/ztnet/pull/372) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Invitation page title](https://github.com/sinamics/ztnet/pull/371) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Enhanced user interaction feedback with additional toast notifications.](https://github.com/sinamics/ztnet/pull/369) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [API endpoint for updating organization network](https://github.com/sinamics/ztnet/pull/362) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Enhanced organization invitation](https://github.com/sinamics/ztnet/pull/359) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 - [Routes Background color on hover](https://github.com/sinamics/ztnet/pull/356) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fixed dropdown bug for Firefox browser](https://github.com/sinamics/ztnet/pull/349) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Add automated tests for organization api](https://github.com/sinamics/ztnet/pull/347) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Change ApiToken db table from Int to CUID.](https://github.com/sinamics/ztnet/pull/346) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Fix minor styling issues](https://github.com/sinamics/ztnet/pull/345) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Fixed dropdown bug for Firefox browser](https://github.com/sinamics/ztnet/pull/349) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -68,7 +68,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (4 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (4 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (4 months ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (7 months ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (7 months ago)
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. (9 months ago)
