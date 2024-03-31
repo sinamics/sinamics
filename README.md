@@ -42,16 +42,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add new pages for Organization Webhook and Meta. ](https://github.com/sinamics/ztnet/pull/372) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Invitation page title](https://github.com/sinamics/ztnet/pull/371) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Enhanced user interaction feedback with additional toast notifications.](https://github.com/sinamics/ztnet/pull/369) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [API endpoint for updating organization network](https://github.com/sinamics/ztnet/pull/362) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Enhanced organization invitation](https://github.com/sinamics/ztnet/pull/359) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Routes Background color on hover](https://github.com/sinamics/ztnet/pull/356) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fixed dropdown bug for Firefox browser](https://github.com/sinamics/ztnet/pull/349) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Update dependencies.](https://github.com/sinamics/ztnet/pull/375) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved custom zt url input](https://github.com/sinamics/ztnet/pull/374) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Add new pages for Organization Webhook and Meta. ](https://github.com/sinamics/ztnet/pull/372) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Invitation page title](https://github.com/sinamics/ztnet/pull/371) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Enhanced user interaction feedback with additional toast notifications.](https://github.com/sinamics/ztnet/pull/369) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [API endpoint for updating organization network](https://github.com/sinamics/ztnet/pull/362) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Enhanced organization invitation](https://github.com/sinamics/ztnet/pull/359) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
 
 #### 📓 Gists I wrote
 
