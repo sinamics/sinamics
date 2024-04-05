@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 months ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (5 months ago)
@@ -42,11 +42,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependencies.](https://github.com/sinamics/ztnet/pull/375) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Improved custom zt url input](https://github.com/sinamics/ztnet/pull/374) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Add new pages for Organization Webhook and Meta. ](https://github.com/sinamics/ztnet/pull/372) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Invitation page title](https://github.com/sinamics/ztnet/pull/371) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Enhanced user interaction feedback with additional toast notifications.](https://github.com/sinamics/ztnet/pull/369) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Update dependencies.](https://github.com/sinamics/ztnet/pull/375) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Improved custom zt url input](https://github.com/sinamics/ztnet/pull/374) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Add new pages for Organization Webhook and Meta. ](https://github.com/sinamics/ztnet/pull/372) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Invitation page title](https://github.com/sinamics/ztnet/pull/371) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Enhanced user interaction feedback with additional toast notifications.](https://github.com/sinamics/ztnet/pull/369) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -64,7 +64,7 @@
 #### ⭐ Recent Stars
 
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (2 months ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (2 months ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (3 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (4 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (4 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (5 months ago)
