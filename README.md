@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 months ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (5 months ago)
@@ -37,6 +37,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.6.1](https://github.com/sinamics/ztnet/releases/tag/0.6.1), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 1 month ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 5 months ago) - ZeroTier One as Docker Image
 
