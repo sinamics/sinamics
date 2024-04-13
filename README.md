@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 months ago)
 - [sinamics/lh_demo](https://github.com/sinamics/lh_demo) -  (5 months ago)
@@ -37,13 +37,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 1 day ago) - ZeroTier One as Docker Image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 1 month ago) - NVR with realtime local object detection for IP cameras
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.12.2](https://github.com/zyclonite/zerotier-docker/releases/tag/1.12.2), 5 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Update dependencies.](https://github.com/sinamics/ztnet/pull/375) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Improved custom zt url input](https://github.com/sinamics/ztnet/pull/374) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Updated docs with correct dns structure](https://github.com/sinamics/ztnet/pull/381) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Update dependencies.](https://github.com/sinamics/ztnet/pull/375) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Improved custom zt url input](https://github.com/sinamics/ztnet/pull/374) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Add new pages for Organization Webhook and Meta. ](https://github.com/sinamics/ztnet/pull/372) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Invitation page title](https://github.com/sinamics/ztnet/pull/371) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Enhanced user interaction feedback with additional toast notifications.](https://github.com/sinamics/ztnet/pull/369) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
@@ -51,7 +52,6 @@
 - [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [API endpoint for updating organization network](https://github.com/sinamics/ztnet/pull/362) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Enhanced organization invitation](https://github.com/sinamics/ztnet/pull/359) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
