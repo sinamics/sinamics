@@ -50,8 +50,8 @@
 - [Add new pages for Organization Webhook and Meta. ](https://github.com/sinamics/ztnet/pull/372) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Invitation page title](https://github.com/sinamics/ztnet/pull/371) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Enhanced user interaction feedback with additional toast notifications.](https://github.com/sinamics/ztnet/pull/369) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Fixed an issue with &#34;set default&#34; checkbox for user groups](https://github.com/sinamics/ztnet/pull/366) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Organization layout and styling improvements](https://github.com/sinamics/ztnet/pull/364) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Resolve overflow Issue with user Invitation Links](https://github.com/sinamics/ztnet/pull/363) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 
 #### 📓 Gists I wrote
