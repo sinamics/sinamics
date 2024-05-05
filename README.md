@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (8 months ago)
@@ -36,13 +36,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 1 day ago) - ZeroTier One as Docker Image
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.6.2](https://github.com/sinamics/ztnet/releases/tag/0.6.2), 2 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 2 days ago) - ZeroTier One as Docker Image
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.6.2](https://github.com/sinamics/ztnet/releases/tag/0.6.2), 3 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 2 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [UI Improvements](https://github.com/sinamics/ztnet/pull/382) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [UI Improvements](https://github.com/sinamics/ztnet/pull/382) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Updated docs with correct dns structure](https://github.com/sinamics/ztnet/pull/381) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Update dependencies.](https://github.com/sinamics/ztnet/pull/375) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Improved custom zt url input](https://github.com/sinamics/ztnet/pull/374) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -64,7 +64,7 @@
 #### ⭐ Recent Stars
 
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (3 months ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (3 months ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (5 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (5 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (6 months ago)
