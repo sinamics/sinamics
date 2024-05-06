@@ -19,7 +19,7 @@
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (8 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (8 months ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (9 months ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 2 days ago) - ZeroTier One as Docker Image
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 days ago) - ZeroTier One as Docker Image
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) ([0.6.2](https://github.com/sinamics/ztnet/releases/tag/0.6.2), 3 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 2 months ago) - NVR with realtime local object detection for IP cameras
 
