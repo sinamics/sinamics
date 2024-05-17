@@ -36,21 +36,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 1 week ago) - ZeroTier One as Docker Image
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 2 months ago) - NVR with realtime local object detection for IP cameras
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 2 weeks ago) - ZeroTier One as Docker Image
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 3 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 - [Fix user invitation page title](https://github.com/sinamics/ztnet/pull/406) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bump sharp to 0.32.6](https://github.com/sinamics/ztnet/pull/405) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added statistics api](https://github.com/sinamics/ztnet/pull/403) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Update zerotier to version 1.14.0](https://github.com/sinamics/ztnet/pull/402) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Cyberpunk theme](https://github.com/sinamics/ztnet/pull/401) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added notification if there is unlinked networks](https://github.com/sinamics/ztnet/pull/400) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Set member mode indicators in table.](https://github.com/sinamics/ztnet/pull/399) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Copy network id to clipboard from network view](https://github.com/sinamics/ztnet/pull/398) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 days ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (4 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (5 months ago)
