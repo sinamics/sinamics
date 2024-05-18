@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
 - [Fix user invitation page title](https://github.com/sinamics/ztnet/pull/406) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bump sharp to 0.32.6](https://github.com/sinamics/ztnet/pull/405) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added statistics api](https://github.com/sinamics/ztnet/pull/403) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Update zerotier to version 1.14.0](https://github.com/sinamics/ztnet/pull/402) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Cyberpunk theme](https://github.com/sinamics/ztnet/pull/401) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 days ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (4 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (5 months ago)
