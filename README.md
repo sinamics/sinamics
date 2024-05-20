@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (8 months ago)
@@ -41,16 +41,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Fix user invitation page title](https://github.com/sinamics/ztnet/pull/406) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bump sharp to 0.32.6](https://github.com/sinamics/ztnet/pull/405) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added statistics api](https://github.com/sinamics/ztnet/pull/403) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (5 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (6 days ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (4 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 months ago)
