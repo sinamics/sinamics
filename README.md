@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (9 months ago)
@@ -36,21 +36,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.5](https://github.com/sinamics/ztnet/releases/tag/v0.6.5), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 2 weeks ago) - ZeroTier One as Docker Image
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.13.2](https://github.com/blakeblackshear/frigate/releases/tag/v0.13.2), 3 months ago) - NVR with realtime local object detection for IP cameras
 
 #### 🔨 My recent Pull Requests
 
-- [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fix user invitation page title](https://github.com/sinamics/ztnet/pull/406) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
