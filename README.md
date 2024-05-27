@@ -36,12 +36,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta1](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta1), 1 day ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta1](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta1), 2 days ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 weeks ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Add caddy reverse proxy as an option in docker-compose](https://github.com/sinamics/ztnet/pull/422) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Removed &#34;version&#34; tag in docker-compose](https://github.com/sinamics/ztnet/pull/421) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
 - [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -49,8 +51,6 @@
 - [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [User setting layout and invitation improvements](https://github.com/sinamics/ztnet/pull/410) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Add flags to flowrule tags.](https://github.com/sinamics/ztnet/pull/409) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
