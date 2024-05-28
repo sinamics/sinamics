@@ -36,21 +36,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta1](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta1), 2 days ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta1](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta1), 3 days ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 weeks ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Add caddy reverse proxy as an option in docker-compose](https://github.com/sinamics/ztnet/pull/422) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Removed &#34;version&#34; tag in docker-compose](https://github.com/sinamics/ztnet/pull/421) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [[Docs] Connecting Locally Installed ZeroTier to ZTNET Docker Installation](https://github.com/sinamics/ztnet/pull/425) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Add caddy reverse proxy as an option in docker-compose](https://github.com/sinamics/ztnet/pull/422) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Removed &#34;version&#34; tag in docker-compose](https://github.com/sinamics/ztnet/pull/421) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Change user invite badge size to md](https://github.com/sinamics/ztnet/pull/413) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Changed default font to Inter](https://github.com/sinamics/ztnet/pull/412) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [New Ztnet logo](https://github.com/sinamics/ztnet/pull/411) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 weeks ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (4 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 months ago)
