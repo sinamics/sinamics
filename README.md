@@ -14,9 +14,9 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (4 months ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (5 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (9 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (9 months ago)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (10 months ago)
@@ -36,14 +36,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta1](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta1), 6 days ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta1](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta1), 1 week ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 4 weeks ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [[Docs] Connecting Locally Installed ZeroTier to ZTNET Docker Installation](https://github.com/sinamics/ztnet/pull/425) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Add caddy reverse proxy as an option in docker-compose](https://github.com/sinamics/ztnet/pull/422) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Removed &#34;version&#34; tag in docker-compose](https://github.com/sinamics/ztnet/pull/421) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [[Docs] Connecting Locally Installed ZeroTier to ZTNET Docker Installation](https://github.com/sinamics/ztnet/pull/425) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Add caddy reverse proxy as an option in docker-compose](https://github.com/sinamics/ztnet/pull/422) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Removed &#34;version&#34; tag in docker-compose](https://github.com/sinamics/ztnet/pull/421) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -67,7 +67,7 @@
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (6 months ago)
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (6 months ago)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (7 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (7 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (9 months ago)
 - [dec0dOS/zero-ui](https://github.com/dec0dOS/zero-ui) - ZeroUI - ZeroTier Controller Web UI - is a web user interface for a self-hosted ZeroTier network controller. (9 months ago)
