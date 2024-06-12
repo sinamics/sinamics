@@ -47,7 +47,7 @@
 - [[Docs] Connecting Locally Installed ZeroTier to ZTNET Docker Installation](https://github.com/sinamics/ztnet/pull/425) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Add caddy reverse proxy as an option in docker-compose](https://github.com/sinamics/ztnet/pull/422) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Removed &#34;version&#34; tag in docker-compose](https://github.com/sinamics/ztnet/pull/421) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
