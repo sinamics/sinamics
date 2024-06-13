@@ -64,7 +64,7 @@
 #### ⭐ Recent Stars
 
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (1 week ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 weeks ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (5 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (5 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 months ago)
