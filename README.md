@@ -50,8 +50,8 @@
 - [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Added notification if a subnet already exist](https://github.com/sinamics/ztnet/pull/415) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Added additional IPv4 addresses](https://github.com/sinamics/ztnet/pull/414) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -68,7 +68,7 @@
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (5 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (5 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 months ago)
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (6 months ago)
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (7 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (7 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (7 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (9 months ago)
@@ -76,8 +76,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [fuyukihidekii](https://github.com/fuyukihidekii)
 - [leyoda](https://github.com/leyoda)
 - [aspenmayer](https://github.com/aspenmayer)
 - [VMCoud](https://github.com/VMCoud)
 - [v808comd](https://github.com/v808comd)
-- [sbilly](https://github.com/sbilly)
