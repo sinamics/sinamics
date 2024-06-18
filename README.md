@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (5 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (9 months ago)
@@ -36,21 +36,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta3](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta3), 2 days ago) - NVR with realtime local object detection for IP cameras
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) ([v0.14.0-beta3](https://github.com/blakeblackshear/frigate/releases/tag/v0.14.0-beta3), 3 days ago) - NVR with realtime local object detection for IP cameras
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 1 month ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Bugfix, ensure routes array is non-empty before querying database for duplicate routes.](https://github.com/sinamics/ztnet/pull/432) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Bugfix, ensure routes array is non-empty before querying database for duplicate routes.](https://github.com/sinamics/ztnet/pull/432) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Load env file into systemd service. ](https://github.com/sinamics/ztnet/pull/428) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [[Docs] Connecting Locally Installed ZeroTier to ZTNET Docker Installation](https://github.com/sinamics/ztnet/pull/425) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Add caddy reverse proxy as an option in docker-compose](https://github.com/sinamics/ztnet/pull/422) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Removed &#34;version&#34; tag in docker-compose](https://github.com/sinamics/ztnet/pull/421) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fix &#34;Controller Not Reachable&#34; Error when invalid IP range exists in a network.](https://github.com/sinamics/ztnet/pull/419) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Assign unused subnet automatically](https://github.com/sinamics/ztnet/pull/418) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Set Firefox Font for Option Dropdown to Sans-Serif](https://github.com/sinamics/ztnet/pull/417) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
 
@@ -62,12 +62,12 @@
 
 #### ⭐ Recent Stars
 
-- [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 days ago)
+- [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (3 days ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (5 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (5 months ago)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (6 months ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (7 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (7 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (7 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (7 months ago)
