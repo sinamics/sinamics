@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (5 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (10 months ago)
@@ -41,10 +41,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Bugfix, ensure routes array is non-empty before querying database for duplicate routes.](https://github.com/sinamics/ztnet/pull/432) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Load env file into systemd service. ](https://github.com/sinamics/ztnet/pull/428) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [[Docs] Connecting Locally Installed ZeroTier to ZTNET Docker Installation](https://github.com/sinamics/ztnet/pull/425) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -70,7 +70,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (7 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (7 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (7 months ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (7 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (8 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (10 months ago)
 
 #### 👯 Check out some of my recent followers
