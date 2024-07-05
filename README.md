@@ -14,12 +14,12 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (6 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (6 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (10 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (10 months ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (11 months ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -41,11 +41,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve webhook to send http request async](https://github.com/sinamics/ztnet/pull/453) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Improve webhook to send http request async](https://github.com/sinamics/ztnet/pull/453) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Bugfix, ensure routes array is non-empty before querying database for duplicate routes.](https://github.com/sinamics/ztnet/pull/432) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Load env file into systemd service. ](https://github.com/sinamics/ztnet/pull/428) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [[Docs] Connecting Locally Installed ZeroTier to ZTNET Docker Installation](https://github.com/sinamics/ztnet/pull/425) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
