@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (6 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (10 months ago)
@@ -35,14 +35,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.7](https://github.com/sinamics/ztnet/releases/tag/v0.6.7), 5 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.7](https://github.com/sinamics/ztnet/releases/tag/v0.6.7), 6 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 2 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Improve webhook to send http request async](https://github.com/sinamics/ztnet/pull/453) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
@@ -66,7 +66,7 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (6 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (6 months ago)
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (7 months ago)
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (8 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (8 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (8 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (8 months ago)
