@@ -15,7 +15,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (6 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (11 months ago)
