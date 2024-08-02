@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (7 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
@@ -35,14 +35,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.7](https://github.com/sinamics/ztnet/releases/tag/v0.6.7), 2 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.7](https://github.com/sinamics/ztnet/releases/tag/v0.6.7), 3 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improve webhook to send http request async](https://github.com/sinamics/ztnet/pull/453) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
