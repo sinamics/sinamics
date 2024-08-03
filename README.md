@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (7 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
@@ -48,7 +48,7 @@
 - [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Bugfix, ensure routes array is non-empty before querying database for duplicate routes.](https://github.com/sinamics/ztnet/pull/432) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Bugfix, ensure routes array is non-empty before querying database for duplicate routes.](https://github.com/sinamics/ztnet/pull/432) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Load env file into systemd service. ](https://github.com/sinamics/ztnet/pull/428) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
@@ -65,7 +65,7 @@
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (6 months ago)
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (6 months ago)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (7 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (8 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (8 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (9 months ago)
