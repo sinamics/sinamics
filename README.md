@@ -35,11 +35,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.7](https://github.com/sinamics/ztnet/releases/tag/v0.6.7), 3 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
+- [Added auto assign from ip-range for ipv6](https://github.com/sinamics/ztnet/pull/471) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Refactor organization settings menu](https://github.com/sinamics/ztnet/pull/468) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Implement global node naming feature for private and organization networks](https://github.com/sinamics/ztnet/pull/467) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
@@ -47,9 +49,6 @@
 - [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Update viewport height when selecting diffrent font size](https://github.com/sinamics/ztnet/pull/441) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Bugfix, ensure routes array is non-empty before querying database for duplicate routes.](https://github.com/sinamics/ztnet/pull/432) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Load env file into systemd service. ](https://github.com/sinamics/ztnet/pull/428) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
 
