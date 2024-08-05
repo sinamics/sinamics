@@ -39,16 +39,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added auto assign from ip-range for ipv6](https://github.com/sinamics/ztnet/pull/471) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Refactor organization settings menu](https://github.com/sinamics/ztnet/pull/468) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Implement global node naming feature for private and organization networks](https://github.com/sinamics/ztnet/pull/467) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Implement Two-Factor Authentication (2FA) Setup using TOTP](https://github.com/sinamics/ztnet/pull/473) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added auto assign from ip-range for ipv6](https://github.com/sinamics/ztnet/pull/471) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Refactor organization settings menu](https://github.com/sinamics/ztnet/pull/468) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Implement global node naming feature for private and organization networks](https://github.com/sinamics/ztnet/pull/467) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 - [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Improve webhook to send http request async](https://github.com/sinamics/ztnet/pull/453) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Bump ws, socket.io, socket.io-client](https://github.com/sinamics/ztnet/pull/451) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Exclude sharp image optimalization package](https://github.com/sinamics/ztnet/pull/447) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Redirect to new network upon creation](https://github.com/sinamics/ztnet/pull/442) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
 
