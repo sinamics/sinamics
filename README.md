@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (7 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (11 months ago)
@@ -35,19 +35,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.8](https://github.com/sinamics/ztnet/releases/tag/v0.6.8), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Implement Two-Factor Authentication (2FA) Setup using TOTP](https://github.com/sinamics/ztnet/pull/473) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Added auto assign from ip-range for ipv6](https://github.com/sinamics/ztnet/pull/471) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Refactor organization settings menu](https://github.com/sinamics/ztnet/pull/468) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Implement global node naming feature for private and organization networks](https://github.com/sinamics/ztnet/pull/467) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Implement Two-Factor Authentication (2FA) Setup using TOTP](https://github.com/sinamics/ztnet/pull/473) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added auto assign from ip-range for ipv6](https://github.com/sinamics/ztnet/pull/471) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Refactor organization settings menu](https://github.com/sinamics/ztnet/pull/468) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Implement global node naming feature for private and organization networks](https://github.com/sinamics/ztnet/pull/467) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Added spacing for status text in members table](https://github.com/sinamics/ztnet/pull/459) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Improve webhook to send http request async](https://github.com/sinamics/ztnet/pull/453) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
