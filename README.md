@@ -35,21 +35,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.9](https://github.com/sinamics/ztnet/releases/tag/v0.6.9), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Azure AD Oauth Authentication](https://github.com/sinamics/ztnet/pull/483) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Bugfix Environment oauthExlusiveLogin ](https://github.com/sinamics/ztnet/pull/481) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Implement Two-Factor Authentication (2FA) Setup using TOTP](https://github.com/sinamics/ztnet/pull/473) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Disable OAuth signup when user registration is turned off](https://github.com/sinamics/ztnet/pull/484) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Azure AD Oauth Authentication](https://github.com/sinamics/ztnet/pull/483) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Bugfix Environment oauthExlusiveLogin ](https://github.com/sinamics/ztnet/pull/481) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Implement Two-Factor Authentication (2FA) Setup using TOTP](https://github.com/sinamics/ztnet/pull/473) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added auto assign from ip-range for ipv6](https://github.com/sinamics/ztnet/pull/471) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Refactor organization settings menu](https://github.com/sinamics/ztnet/pull/468) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Implement global node naming feature for private and organization networks](https://github.com/sinamics/ztnet/pull/467) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Alignment fix for pr #459](https://github.com/sinamics/ztnet/pull/460) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Bugfix slow network load](https://github.com/sinamics/ztnet/pull/461) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
 
