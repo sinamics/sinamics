@@ -18,7 +18,7 @@
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (7 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
-- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (11 months ago)
+- [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -39,16 +39,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixed organization user API endpoint name](https://github.com/sinamics/ztnet/pull/490) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Disable OAuth signup when user registration is turned off](https://github.com/sinamics/ztnet/pull/484) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Azure AD Oauth Authentication](https://github.com/sinamics/ztnet/pull/483) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Bugfix Environment oauthExlusiveLogin ](https://github.com/sinamics/ztnet/pull/481) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Added missing values from organization - members api](https://github.com/sinamics/ztnet/pull/491) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fixed organization user API endpoint name](https://github.com/sinamics/ztnet/pull/490) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Disable OAuth signup when user registration is turned off](https://github.com/sinamics/ztnet/pull/484) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Azure AD Oauth Authentication](https://github.com/sinamics/ztnet/pull/483) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Bugfix Environment oauthExlusiveLogin ](https://github.com/sinamics/ztnet/pull/481) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Implement Two-Factor Authentication (2FA) Setup using TOTP](https://github.com/sinamics/ztnet/pull/473) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added auto assign from ip-range for ipv6](https://github.com/sinamics/ztnet/pull/471) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Refactor organization settings menu](https://github.com/sinamics/ztnet/pull/468) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Implement global node naming feature for private and organization networks](https://github.com/sinamics/ztnet/pull/467) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent Stars
 
-- [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (1 month ago)
+- [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 months ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (7 months ago)
