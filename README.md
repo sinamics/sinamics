@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (7 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
@@ -39,11 +39,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added missing values from organization - members api](https://github.com/sinamics/ztnet/pull/491) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fixed organization user API endpoint name](https://github.com/sinamics/ztnet/pull/490) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Disable OAuth signup when user registration is turned off](https://github.com/sinamics/ztnet/pull/484) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Azure AD Oauth Authentication](https://github.com/sinamics/ztnet/pull/483) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Bugfix Environment oauthExlusiveLogin ](https://github.com/sinamics/ztnet/pull/481) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added missing values from organization - members api](https://github.com/sinamics/ztnet/pull/491) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fixed organization user API endpoint name](https://github.com/sinamics/ztnet/pull/490) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Disable OAuth signup when user registration is turned off](https://github.com/sinamics/ztnet/pull/484) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Azure AD Oauth Authentication](https://github.com/sinamics/ztnet/pull/483) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Bugfix Environment oauthExlusiveLogin ](https://github.com/sinamics/ztnet/pull/481) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Implement Two-Factor Authentication (2FA) Setup using TOTP](https://github.com/sinamics/ztnet/pull/473) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
