@@ -14,10 +14,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (7 months ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 year ago)
 - [zerotier/awesome-zerotier](https://github.com/zerotier/awesome-zerotier) - A collection of things you can do with ZeroTier, how-to guides, and more (1 year ago)
 
 #### 🌱 My latest projects
@@ -39,16 +39,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Added translations to public auth pages](https://github.com/sinamics/ztnet/pull/496) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Moved &#34;Created&#34; collumn to member Modal](https://github.com/sinamics/ztnet/pull/495) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Fix for setting correct pagesize when selected &#34;show all&#34; in pagination.](https://github.com/sinamics/ztnet/pull/494) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Added missing values from organization - members api](https://github.com/sinamics/ztnet/pull/491) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Replace custom locale middleware with nextjs i18n redirects](https://github.com/sinamics/ztnet/pull/498) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added translations to public auth pages](https://github.com/sinamics/ztnet/pull/496) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Moved &#34;Created&#34; collumn to member Modal](https://github.com/sinamics/ztnet/pull/495) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Fix for setting correct pagesize when selected &#34;show all&#34; in pagination.](https://github.com/sinamics/ztnet/pull/494) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added missing values from organization - members api](https://github.com/sinamics/ztnet/pull/491) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fixed organization user API endpoint name](https://github.com/sinamics/ztnet/pull/490) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Disable OAuth signup when user registration is turned off](https://github.com/sinamics/ztnet/pull/484) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Azure AD Oauth Authentication](https://github.com/sinamics/ztnet/pull/483) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bugfix Environment oauthExlusiveLogin ](https://github.com/sinamics/ztnet/pull/481) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved public auth pages layout](https://github.com/sinamics/ztnet/pull/479) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Improved overall application performance](https://github.com/sinamics/ztnet/pull/474) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
@@ -69,7 +69,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (9 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (9 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (9 months ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (11 months ago)
+- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
