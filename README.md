@@ -35,21 +35,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.6.10](https://github.com/sinamics/ztnet/releases/tag/v0.6.10), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) ([1.14.0](https://github.com/zyclonite/zerotier-docker/releases/tag/1.14.0), 3 months ago) - ZeroTier One as Docker Image
 
 #### 🔨 My recent Pull Requests
 
-- [Open the joinzt site when clicking the qrcode](https://github.com/sinamics/ztnet/pull/505) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Implemented a web app manifest file to enable &#39;Add to Home Screen&#39; functionality](https://github.com/sinamics/ztnet/pull/504) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added option to generate moon](https://github.com/sinamics/ztnet/pull/503) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improved network options modal](https://github.com/sinamics/ztnet/pull/502) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Fixed members table sorting icon alignment](https://github.com/sinamics/ztnet/pull/501) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Replace custom locale middleware with nextjs i18n redirects](https://github.com/sinamics/ztnet/pull/498) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added translations to public auth pages](https://github.com/sinamics/ztnet/pull/496) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Moved &#34;Created&#34; collumn to member Modal](https://github.com/sinamics/ztnet/pull/495) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Fix for setting correct pagesize when selected &#34;show all&#34; in pagination.](https://github.com/sinamics/ztnet/pull/494) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added missing values from organization - members api](https://github.com/sinamics/ztnet/pull/491) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Added login page title](https://github.com/sinamics/ztnet/pull/513) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Add active devices list with logout functionality](https://github.com/sinamics/ztnet/pull/512) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Update the db member online status](https://github.com/sinamics/ztnet/pull/509) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Allow top level dns domains](https://github.com/sinamics/ztnet/pull/507) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Open the joinzt site when clicking the qrcode](https://github.com/sinamics/ztnet/pull/505) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Implemented a web app manifest file to enable &#39;Add to Home Screen&#39; functionality](https://github.com/sinamics/ztnet/pull/504) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added option to generate moon](https://github.com/sinamics/ztnet/pull/503) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Improved network options modal](https://github.com/sinamics/ztnet/pull/502) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Fixed members table sorting icon alignment](https://github.com/sinamics/ztnet/pull/501) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Replace custom locale middleware with nextjs i18n redirects](https://github.com/sinamics/ztnet/pull/498) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
 
 #### 📓 Gists I wrote
 
