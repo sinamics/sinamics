@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Use browser native datepicker for user expire time](https://github.com/sinamics/ztnet/pull/517) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added network description and authorId to api response](https://github.com/sinamics/ztnet/pull/515) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added login page title](https://github.com/sinamics/ztnet/pull/513) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Add active devices list with logout functionality](https://github.com/sinamics/ztnet/pull/512) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Update the db member online status](https://github.com/sinamics/ztnet/pull/509) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Allow top level dns domains](https://github.com/sinamics/ztnet/pull/507) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Open the joinzt site when clicking the qrcode](https://github.com/sinamics/ztnet/pull/505) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Implemented a web app manifest file to enable &#39;Add to Home Screen&#39; functionality](https://github.com/sinamics/ztnet/pull/504) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Added option to generate moon](https://github.com/sinamics/ztnet/pull/503) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Improved network options modal](https://github.com/sinamics/ztnet/pull/502) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Use browser native datepicker for user expire time](https://github.com/sinamics/ztnet/pull/517) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added network description and authorId to api response](https://github.com/sinamics/ztnet/pull/515) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added login page title](https://github.com/sinamics/ztnet/pull/513) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Add active devices list with logout functionality](https://github.com/sinamics/ztnet/pull/512) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Update the db member online status](https://github.com/sinamics/ztnet/pull/509) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Allow top level dns domains](https://github.com/sinamics/ztnet/pull/507) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Open the joinzt site when clicking the qrcode](https://github.com/sinamics/ztnet/pull/505) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Implemented a web app manifest file to enable &#39;Add to Home Screen&#39; functionality](https://github.com/sinamics/ztnet/pull/504) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
