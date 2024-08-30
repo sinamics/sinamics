@@ -16,7 +16,7 @@
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (7 months ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Use browser native datepicker for user expire time](https://github.com/sinamics/ztnet/pull/517) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Added network description and authorId to api response](https://github.com/sinamics/ztnet/pull/515) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Use browser native datepicker for user expire time](https://github.com/sinamics/ztnet/pull/517) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Added network description and authorId to api response](https://github.com/sinamics/ztnet/pull/515) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Added login page title](https://github.com/sinamics/ztnet/pull/513) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Add active devices list with logout functionality](https://github.com/sinamics/ztnet/pull/512) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Update the db member online status](https://github.com/sinamics/ztnet/pull/509) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Allow top level dns domains](https://github.com/sinamics/ztnet/pull/507) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
@@ -58,13 +58,13 @@
 #### ⭐ Recent Stars
 
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 months ago)
-- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 months ago)
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (3 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (7 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (7 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (9 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (9 months ago)
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (9 months ago)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (10 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (10 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 year ago)
 
