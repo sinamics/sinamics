@@ -36,16 +36,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Use browser native datepicker for user expire time](https://github.com/sinamics/ztnet/pull/517) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Added network description and authorId to api response](https://github.com/sinamics/ztnet/pull/515) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Added login page title](https://github.com/sinamics/ztnet/pull/513) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Add active devices list with logout functionality](https://github.com/sinamics/ztnet/pull/512) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Update the db member online status](https://github.com/sinamics/ztnet/pull/509) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Use browser native datepicker for user expire time](https://github.com/sinamics/ztnet/pull/517) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Added network description and authorId to api response](https://github.com/sinamics/ztnet/pull/515) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 #### 📓 Gists I wrote
 
