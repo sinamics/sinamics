@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (8 months ago)
 
@@ -33,18 +33,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.0](https://github.com/sinamics/ztnet/releases/tag/v0.7.0), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.0](https://github.com/sinamics/ztnet/releases/tag/v0.7.0), 2 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 #### 🔨 My recent Pull Requests
 
-- [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
