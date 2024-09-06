@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (8 months ago)
 
@@ -33,15 +33,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.0](https://github.com/sinamics/ztnet/releases/tag/v0.7.0), 3 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.0](https://github.com/sinamics/ztnet/releases/tag/v0.7.0), 4 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 #### 🔨 My recent Pull Requests
 
-- [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -61,7 +61,7 @@
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 months ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (3 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 months ago)
-- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (7 months ago)
+- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (8 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (8 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (9 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (9 months ago)
@@ -71,8 +71,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [erlangparasu](https://github.com/erlangparasu)
 - [qudexin1986](https://github.com/qudexin1986)
 - [mvthul](https://github.com/mvthul)
 - [isg32](https://github.com/isg32)
 - [fuyukihidekii](https://github.com/fuyukihidekii)
-- [leyoda](https://github.com/leyoda)
