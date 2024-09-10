@@ -45,8 +45,8 @@
 - [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
