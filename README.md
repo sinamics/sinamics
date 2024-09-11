@@ -43,8 +43,8 @@
 - [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [New notification page in user-settings](https://github.com/sinamics/ztnet/pull/520) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
@@ -60,7 +60,7 @@
 
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 months ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (3 months ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 months ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (8 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (8 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (9 months ago)
