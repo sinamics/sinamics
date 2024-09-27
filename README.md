@@ -39,12 +39,12 @@
 - [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added user email verification](https://github.com/sinamics/ztnet/pull/522) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
