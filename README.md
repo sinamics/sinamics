@@ -16,7 +16,7 @@
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (8 months ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -37,11 +37,11 @@
 #### 🔨 My recent Pull Requests
 
 - [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [New auth wrapper for api endpoints](https://github.com/sinamics/ztnet/pull/535) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -58,13 +58,13 @@
 #### ⭐ Recent Stars
 
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (3 months ago)
-- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (3 months ago)
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (4 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (8 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (8 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (10 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (10 months ago)
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (10 months ago)
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (11 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (11 months ago)
 - [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 year ago)
 
