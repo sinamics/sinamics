@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (9 months ago)
 
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
