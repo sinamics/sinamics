@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (9 months ago)
 
 #### 🌱 My latest projects
@@ -70,8 +70,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [edo2313](https://github.com/edo2313)
 - [edsase](https://github.com/edsase)
 - [erlangparasu](https://github.com/erlangparasu)
 - [qudexin1986](https://github.com/qudexin1986)
 - [mvthul](https://github.com/mvthul)
-- [isg32](https://github.com/isg32)
