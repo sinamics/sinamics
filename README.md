@@ -59,7 +59,7 @@
 
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (3 months ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (4 months ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 months ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (5 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (9 months ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (9 months ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (10 months ago)
