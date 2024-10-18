@@ -70,8 +70,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [standardgalactic](https://github.com/standardgalactic)
 - [lideming](https://github.com/lideming)
 - [liuyanmin120](https://github.com/liuyanmin120)
 - [edo2313](https://github.com/edo2313)
 - [edsase](https://github.com/edsase)
-- [erlangparasu](https://github.com/erlangparasu)
