@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (1 day ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (4 months ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (4 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (5 months ago)
@@ -66,7 +67,6 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (11 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (11 months ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (11 months ago)
-- [zyclonite/zerotier-docker](https://github.com/zyclonite/zerotier-docker) - ZeroTier One as Docker Image (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
