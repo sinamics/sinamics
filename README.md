@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (3 days ago)
+- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (4 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (9 months ago)
@@ -34,11 +34,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 3 days ago) - ✈️ uav companion software ✈️
+- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 4 days ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Rename to Community Edition](https://github.com/sinamics/uavcast-community/pull/35) on [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) (3 days ago)
+- [Rename to Community Edition](https://github.com/sinamics/uavcast-community/pull/35) on [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) (4 days ago)
 - [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -68,7 +68,7 @@
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (11 months ago)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (11 months ago)
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React (11 months ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (11 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
