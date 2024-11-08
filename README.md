@@ -59,8 +59,8 @@
 
 #### ⭐ Recent Stars
 
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 days ago)
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 weeks ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 week ago)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (3 weeks ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (4 months ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (5 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (5 months ago)
@@ -72,8 +72,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [sangvikh](https://github.com/sangvikh)
 - [standardgalactic](https://github.com/standardgalactic)
 - [lideming](https://github.com/lideming)
 - [liuyanmin120](https://github.com/liuyanmin120)
 - [edo2313](https://github.com/edo2313)
-- [edsase](https://github.com/edsase)
