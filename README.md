@@ -14,10 +14,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 day ago)
+- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (1 day ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
-- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (2 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [transition to docusaurus ](https://github.com/UAVmatrix/uavcast-pro-docs/pull/5) on [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) (1 day ago)
 - [Rename to Community Edition](https://github.com/sinamics/uavcast-community/pull/35) on [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) (2 weeks ago)
 - [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
@@ -47,7 +48,6 @@
 - [Add Timeago and Online status for devices](https://github.com/sinamics/ztnet/pull/534) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Improved device id hash generation](https://github.com/sinamics/ztnet/pull/530) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Allow ipv6 and ipv4 in member options modal](https://github.com/sinamics/ztnet/pull/529) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Email templates bugfix](https://github.com/sinamics/ztnet/pull/528) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
 
@@ -72,8 +72,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [sangvikh](https://github.com/sangvikh)
 - [standardgalactic](https://github.com/standardgalactic)
 - [lideming](https://github.com/lideming)
 - [liuyanmin120](https://github.com/liuyanmin120)
-- [edo2313](https://github.com/edo2313)
