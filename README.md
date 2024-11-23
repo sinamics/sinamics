@@ -34,12 +34,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.1](https://github.com/sinamics/ztnet/releases/tag/v0.7.1), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.1](https://github.com/sinamics/ztnet/releases/tag/v0.7.1), 2 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 1 month ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Improved smtp mail handler](https://github.com/sinamics/ztnet/pull/582) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved smtp mail handler](https://github.com/sinamics/ztnet/pull/582) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 - [transition to docusaurus ](https://github.com/UAVmatrix/uavcast-pro-docs/pull/5) on [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) (2 weeks ago)
 - [Rename to Community Edition](https://github.com/sinamics/uavcast-community/pull/35) on [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) (1 month ago)
 - [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
