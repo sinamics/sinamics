@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
@@ -38,9 +38,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated docs for keycloak oauth](https://github.com/sinamics/ztnet/pull/601) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix missing translations](https://github.com/sinamics/ztnet/pull/599) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Update zerotier to 1.14.2](https://github.com/sinamics/ztnet/pull/592) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Updated docs for keycloak oauth](https://github.com/sinamics/ztnet/pull/601) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix missing translations](https://github.com/sinamics/ztnet/pull/599) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Update zerotier to 1.14.2](https://github.com/sinamics/ztnet/pull/592) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 - [Improved smtp mail handler](https://github.com/sinamics/ztnet/pull/582) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [transition to docusaurus ](https://github.com/UAVmatrix/uavcast-pro-docs/pull/5) on [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) (1 month ago)
 - [Rename to Community Edition](https://github.com/sinamics/uavcast-community/pull/35) on [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) (1 month ago)
