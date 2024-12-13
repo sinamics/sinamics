@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
@@ -38,13 +38,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated docs for keycloak oauth](https://github.com/sinamics/ztnet/pull/601) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Fix missing translations](https://github.com/sinamics/ztnet/pull/599) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Update zerotier to 1.14.2](https://github.com/sinamics/ztnet/pull/592) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Updated docs for keycloak oauth](https://github.com/sinamics/ztnet/pull/601) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fix missing translations](https://github.com/sinamics/ztnet/pull/599) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Update zerotier to 1.14.2](https://github.com/sinamics/ztnet/pull/592) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
 - [Improved smtp mail handler](https://github.com/sinamics/ztnet/pull/582) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [transition to docusaurus ](https://github.com/UAVmatrix/uavcast-pro-docs/pull/5) on [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) (1 month ago)
 - [Rename to Community Edition](https://github.com/sinamics/uavcast-community/pull/35) on [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) (1 month ago)
-- [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
+- [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
