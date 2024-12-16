@@ -38,6 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Added option to set sitename in admin panel](https://github.com/sinamics/ztnet/pull/605) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added email verification icon and lastseen to admin user-table.](https://github.com/sinamics/ztnet/pull/604) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [Updated docs for keycloak oauth](https://github.com/sinamics/ztnet/pull/601) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix missing translations](https://github.com/sinamics/ztnet/pull/599) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Update zerotier to 1.14.2](https://github.com/sinamics/ztnet/pull/592) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -46,8 +48,6 @@
 - [Rename to Community Edition](https://github.com/sinamics/uavcast-community/pull/35) on [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) (1 month ago)
 - [Return node data from controller as first priority.](https://github.com/sinamics/ztnet/pull/548) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Implemented Zod schemas for improved API input validation](https://github.com/sinamics/ztnet/pull/538) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
-- [Set user device cookie maxAge to 1 year](https://github.com/sinamics/ztnet/pull/537) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
-- [Improved tests files](https://github.com/sinamics/ztnet/pull/536) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 
 #### 📓 Gists I wrote
 
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (1 day ago)
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (2 days ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 month ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (1 month ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (6 months ago)
