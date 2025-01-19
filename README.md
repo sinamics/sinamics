@@ -39,7 +39,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Use sparse checkout during installation](https://github.com/sinamics/ztnet/pull/613) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Dependencies update](https://github.com/sinamics/ztnet/pull/612) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
