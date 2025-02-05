@@ -17,7 +17,7 @@
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (2 months ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (6 months ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@
 - [Improved global node naming](https://github.com/sinamics/ztnet/pull/607) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added option to set sitename in admin panel](https://github.com/sinamics/ztnet/pull/605) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added email verification icon and lastseen to admin user-table.](https://github.com/sinamics/ztnet/pull/604) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Updated docs for keycloak oauth](https://github.com/sinamics/ztnet/pull/601) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Updated docs for keycloak oauth](https://github.com/sinamics/ztnet/pull/601) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
 
@@ -72,8 +72,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [qwaldo](https://github.com/qwaldo)
 - [Ilshidur](https://github.com/Ilshidur)
 - [MikAoJk](https://github.com/MikAoJk)
 - [fdrewett](https://github.com/fdrewett)
 - [rootuseret](https://github.com/rootuseret)
-- [sangvikh](https://github.com/sangvikh)
