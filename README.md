@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (3 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (7 months ago)
 
@@ -34,15 +34,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 3 months ago) - ✈️ uav companion software ✈️
+- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 4 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
 - [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Use sparse checkout during installation](https://github.com/sinamics/ztnet/pull/613) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Dependencies update](https://github.com/sinamics/ztnet/pull/612) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Use sparse checkout during installation](https://github.com/sinamics/ztnet/pull/613) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
+- [Dependencies update](https://github.com/sinamics/ztnet/pull/612) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Added tot/act for members in the Network table.](https://github.com/sinamics/ztnet/pull/610) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Improved global node naming](https://github.com/sinamics/ztnet/pull/607) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Added option to set sitename in admin panel](https://github.com/sinamics/ztnet/pull/605) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
