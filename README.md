@@ -73,8 +73,8 @@
 
 #### 👯 Check out some of my recent followers
 
-- [ipqwery](https://github.com/ipqwery)
 - [michaelkuty](https://github.com/michaelkuty)
 - [qwaldo](https://github.com/qwaldo)
 - [Ilshidur](https://github.com/Ilshidur)
 - [MikAoJk](https://github.com/MikAoJk)
+- [fdrewett](https://github.com/fdrewett)
