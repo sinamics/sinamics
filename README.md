@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.3](https://github.com/sinamics/ztnet/releases/tag/v0.7.3), 4 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.3](https://github.com/sinamics/ztnet/releases/tag/v0.7.3), 1 month ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 5 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
