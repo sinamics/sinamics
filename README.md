@@ -41,7 +41,7 @@
 
 - [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
+- [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Use sparse checkout during installation](https://github.com/sinamics/ztnet/pull/613) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Dependencies update](https://github.com/sinamics/ztnet/pull/612) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Added tot/act for members in the Network table.](https://github.com/sinamics/ztnet/pull/610) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
@@ -67,7 +67,7 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (4 months ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (5 months ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (9 months ago)
-- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (9 months ago)
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (10 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (10 months ago)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (1 year ago)
 
