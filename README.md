@@ -73,8 +73,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [rubyonrailsstarter](https://github.com/rubyonrailsstarter)
 - [Alg0rix](https://github.com/Alg0rix)
 - [michaelkuty](https://github.com/michaelkuty)
 - [qwaldo](https://github.com/qwaldo)
 - [Ilshidur](https://github.com/Ilshidur)
-- [MikAoJk](https://github.com/MikAoJk)
