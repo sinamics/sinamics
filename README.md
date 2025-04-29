@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (5 months ago)
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
 - [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
@@ -72,7 +72,7 @@
 
 #### 👯 Check out some of my recent followers
 
-- [filedonkey](https://github.com/filedonkey)
+- [kreatival](https://github.com/kreatival)
 - [alex0927-cmd](https://github.com/alex0927-cmd)
 - [rubyonrailsstarter](https://github.com/rubyonrailsstarter)
 - [Alg0rix](https://github.com/Alg0rix)
