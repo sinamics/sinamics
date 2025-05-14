@@ -46,8 +46,8 @@
 - [Dependencies update](https://github.com/sinamics/ztnet/pull/612) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
 - [Added tot/act for members in the Network table.](https://github.com/sinamics/ztnet/pull/610) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
 - [Improved global node naming](https://github.com/sinamics/ztnet/pull/607) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
-- [Added option to set sitename in admin panel](https://github.com/sinamics/ztnet/pull/605) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
-- [Added email verification icon and lastseen to admin user-table.](https://github.com/sinamics/ztnet/pull/604) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
+- [Added option to set sitename in admin panel](https://github.com/sinamics/ztnet/pull/605) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
+- [Added email verification icon and lastseen to admin user-table.](https://github.com/sinamics/ztnet/pull/604) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
 
 #### 📓 Gists I wrote
 
