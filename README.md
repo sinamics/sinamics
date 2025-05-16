@@ -44,7 +44,7 @@
 - [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
 - [Use sparse checkout during installation](https://github.com/sinamics/ztnet/pull/613) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
 - [Dependencies update](https://github.com/sinamics/ztnet/pull/612) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
-- [Added tot/act for members in the Network table.](https://github.com/sinamics/ztnet/pull/610) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
+- [Added tot/act for members in the Network table.](https://github.com/sinamics/ztnet/pull/610) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
 - [Improved global node naming](https://github.com/sinamics/ztnet/pull/607) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
 - [Added option to set sitename in admin panel](https://github.com/sinamics/ztnet/pull/605) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
 - [Added email verification icon and lastseen to admin user-table.](https://github.com/sinamics/ztnet/pull/604) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
@@ -59,16 +59,16 @@
 
 #### ⭐ Recent Stars
 
+- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (1 day ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (2 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (4 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (4 months ago)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (5 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 months ago)
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (6 months ago)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (7 months ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (11 months ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (11 months ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 year ago)
-- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
