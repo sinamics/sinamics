@@ -15,7 +15,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 day ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (6 months ago)
 
@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use dynamic logo image import](https://github.com/sinamics/ztnet/pull/660) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
 - [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 months ago)
@@ -47,11 +48,10 @@
 - [Added tot/act for members in the Network table.](https://github.com/sinamics/ztnet/pull/610) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
 - [Improved global node naming](https://github.com/sinamics/ztnet/pull/607) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
 - [Added option to set sitename in admin panel](https://github.com/sinamics/ztnet/pull/605) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
-- [Added email verification icon and lastseen to admin user-table.](https://github.com/sinamics/ztnet/pull/604) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 months ago)
 
 #### 📓 Gists I wrote
 
-- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (1 day ago)
+- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (2 days ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (2 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (2 years ago)
