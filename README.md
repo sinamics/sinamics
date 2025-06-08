@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (7 months ago)
@@ -34,13 +34,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.5](https://github.com/sinamics/ztnet/releases/tag/v0.7.5), 2 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.5](https://github.com/sinamics/ztnet/releases/tag/v0.7.5), 3 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 7 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/665) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Use dynamic logo image import](https://github.com/sinamics/ztnet/pull/660) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -73,8 +73,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [canghaiwuhen](https://github.com/canghaiwuhen)
 - [antonymarion](https://github.com/antonymarion)
 - [kreatival](https://github.com/kreatival)
 - [alex0927-cmd](https://github.com/alex0927-cmd)
 - [rubyonrailsstarter](https://github.com/rubyonrailsstarter)
-- [Alg0rix](https://github.com/Alg0rix)
