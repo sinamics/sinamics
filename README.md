@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (7 months ago)
 
@@ -38,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Handle orphaned network members gracefully](https://github.com/sinamics/ztnet/pull/670) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix nested public directory issue during updates](https://github.com/sinamics/ztnet/pull/669) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Fix: Handle orphaned network members gracefully](https://github.com/sinamics/ztnet/pull/670) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix nested public directory issue during updates](https://github.com/sinamics/ztnet/pull/669) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
 - [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/665) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -51,7 +51,7 @@
 
 #### 📓 Gists I wrote
 
-- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (2 weeks ago)
+- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (3 weeks ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (2 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (2 years ago)
