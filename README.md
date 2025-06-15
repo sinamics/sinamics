@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (7 months ago)
@@ -38,10 +38,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Handle orphaned network members gracefully](https://github.com/sinamics/ztnet/pull/670) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Fix nested public directory issue during updates](https://github.com/sinamics/ztnet/pull/669) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Fix: Handle orphaned network members gracefully](https://github.com/sinamics/ztnet/pull/670) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Fix nested public directory issue during updates](https://github.com/sinamics/ztnet/pull/669) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/665) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Use dynamic logo image import](https://github.com/sinamics/ztnet/pull/660) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
@@ -65,7 +65,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (5 months ago)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (6 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (7 months ago)
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (7 months ago)
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (8 months ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (1 year ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (1 year ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 year ago)
