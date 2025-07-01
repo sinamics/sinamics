@@ -40,8 +40,8 @@
 
 - [Fix: Handle orphaned network members gracefully](https://github.com/sinamics/ztnet/pull/670) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Fix nested public directory issue during updates](https://github.com/sinamics/ztnet/pull/669) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/665) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Use dynamic logo image import](https://github.com/sinamics/ztnet/pull/660) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
