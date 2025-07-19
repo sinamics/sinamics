@@ -34,7 +34,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 8 months ago) - ✈️ uav companion software ✈️
+- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 9 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
