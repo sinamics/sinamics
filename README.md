@@ -43,7 +43,7 @@
 - [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/665) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Use dynamic logo image import](https://github.com/sinamics/ztnet/pull/660) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Use dynamic logo image import](https://github.com/sinamics/ztnet/pull/660) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 months ago)
 - [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 months ago)
