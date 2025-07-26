@@ -47,7 +47,7 @@
 - [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 months ago)
 - [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 months ago)
-- [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 months ago)
+- [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (7 months ago)
 
 #### 📓 Gists I wrote
 
