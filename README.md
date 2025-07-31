@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (8 months ago)
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improved the network list layout](https://github.com/sinamics/ztnet/pull/695) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [fix: Improve OAUTH_EXCLUSIVE_LOGIN to properly hide signup form and prevent unauthorized registrations](https://github.com/sinamics/ztnet/pull/694) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [feat: Implement user group expiration](https://github.com/sinamics/ztnet/pull/693) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix path for physical ip sorting](https://github.com/sinamics/ztnet/pull/692) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Feat: add bulk delete functionality for stashed network members](https://github.com/sinamics/ztnet/pull/691) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Standardize authentication error messages for security](https://github.com/sinamics/ztnet/pull/690) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Allow request without body](https://github.com/sinamics/ztnet/pull/687) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [Fix: Handle orphaned network members gracefully](https://github.com/sinamics/ztnet/pull/670) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix nested public directory issue during updates](https://github.com/sinamics/ztnet/pull/669) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/666) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [New feature, backup and restore](https://github.com/sinamics/ztnet/pull/665) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Use dynamic logo image import](https://github.com/sinamics/ztnet/pull/660) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Optimize network list loading performance by using stored authorization status](https://github.com/sinamics/ztnet/pull/647) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
-- [Convert ZTNet Project: From Page to App Router &#43; WebSocket Implementation](https://github.com/sinamics/ztnet/pull/621) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 months ago)
-- [Added info for custom root and mobile limitation](https://github.com/sinamics/ztnet/pull/620) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (7 months ago)
-- [Added new table layout and notes for Managed Routes.](https://github.com/sinamics/ztnet/pull/617) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (7 months ago)
+- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
 
@@ -72,8 +72,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [twistline](https://github.com/twistline)
 - [patelmeshwa99](https://github.com/patelmeshwa99)
 - [Shwathz](https://github.com/Shwathz)
 - [canghaiwuhen](https://github.com/canghaiwuhen)
-- [antonymarion](https://github.com/antonymarion)
