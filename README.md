@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improved the network list layout](https://github.com/sinamics/ztnet/pull/695) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [fix: Improve OAUTH_EXCLUSIVE_LOGIN to properly hide signup form and prevent unauthorized registrations](https://github.com/sinamics/ztnet/pull/694) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [feat: Implement user group expiration](https://github.com/sinamics/ztnet/pull/693) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix path for physical ip sorting](https://github.com/sinamics/ztnet/pull/692) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Feat: add bulk delete functionality for stashed network members](https://github.com/sinamics/ztnet/pull/691) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Standardize authentication error messages for security](https://github.com/sinamics/ztnet/pull/690) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Allow request without body](https://github.com/sinamics/ztnet/pull/687) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix: Handle orphaned network members gracefully](https://github.com/sinamics/ztnet/pull/670) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fix nested public directory issue during updates](https://github.com/sinamics/ztnet/pull/669) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Remind the user to restart the ZeroTier container after restoring from a backup.](https://github.com/sinamics/ztnet/pull/667) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
+- [Fix: updated url for zt application download](https://github.com/sinamics/ztnet/pull/704) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Feat: added node table extended mode and description column](https://github.com/sinamics/ztnet/pull/703) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improve network configuration UI responsiveness](https://github.com/sinamics/ztnet/pull/702) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved groups and invitations layout](https://github.com/sinamics/ztnet/pull/701) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Redirect invitation links in correct user locale](https://github.com/sinamics/ztnet/pull/700) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Feat: Allow admin to create new user ](https://github.com/sinamics/ztnet/pull/698) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improved the network list layout](https://github.com/sinamics/ztnet/pull/695) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [fix: Improve OAUTH_EXCLUSIVE_LOGIN to properly hide signup form and prevent unauthorized registrations](https://github.com/sinamics/ztnet/pull/694) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [feat: Implement user group expiration](https://github.com/sinamics/ztnet/pull/693) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix path for physical ip sorting](https://github.com/sinamics/ztnet/pull/692) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 
 #### 📓 Gists I wrote
 
