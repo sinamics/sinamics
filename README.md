@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: updated url for zt application download](https://github.com/sinamics/ztnet/pull/704) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Feat: added node table extended mode and description column](https://github.com/sinamics/ztnet/pull/703) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improve network configuration UI responsiveness](https://github.com/sinamics/ztnet/pull/702) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improved groups and invitations layout](https://github.com/sinamics/ztnet/pull/701) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Redirect invitation links in correct user locale](https://github.com/sinamics/ztnet/pull/700) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Feat: Allow admin to create new user ](https://github.com/sinamics/ztnet/pull/698) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improved the network list layout](https://github.com/sinamics/ztnet/pull/695) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [fix: Improve OAUTH_EXCLUSIVE_LOGIN to properly hide signup form and prevent unauthorized registrations](https://github.com/sinamics/ztnet/pull/694) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [feat: Implement user group expiration](https://github.com/sinamics/ztnet/pull/693) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Fix path for physical ip sorting](https://github.com/sinamics/ztnet/pull/692) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [fix: prevent data refresh from interrupting member name input](https://github.com/sinamics/ztnet/pull/706) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Organization Email Notifications](https://github.com/sinamics/ztnet/pull/705) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix: updated url for zt application download](https://github.com/sinamics/ztnet/pull/704) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Feat: added node table extended mode and description column](https://github.com/sinamics/ztnet/pull/703) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improve network configuration UI responsiveness](https://github.com/sinamics/ztnet/pull/702) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improved groups and invitations layout](https://github.com/sinamics/ztnet/pull/701) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Redirect invitation links in correct user locale](https://github.com/sinamics/ztnet/pull/700) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Feat: Allow admin to create new user ](https://github.com/sinamics/ztnet/pull/698) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improved the network list layout](https://github.com/sinamics/ztnet/pull/695) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 
 #### 📓 Gists I wrote
 
