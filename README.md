@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [fix: prevent data refresh from interrupting member name input](https://github.com/sinamics/ztnet/pull/706) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Organization Email Notifications](https://github.com/sinamics/ztnet/pull/705) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix: updated url for zt application download](https://github.com/sinamics/ztnet/pull/704) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Feat: added node table extended mode and description column](https://github.com/sinamics/ztnet/pull/703) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improve network configuration UI responsiveness](https://github.com/sinamics/ztnet/pull/702) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improved groups and invitations layout](https://github.com/sinamics/ztnet/pull/701) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Redirect invitation links in correct user locale](https://github.com/sinamics/ztnet/pull/700) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Feat: Allow admin to create new user ](https://github.com/sinamics/ztnet/pull/698) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Improved the network list layout](https://github.com/sinamics/ztnet/pull/695) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Redesign MemberOptions modal](https://github.com/sinamics/ztnet/pull/715) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Added modal warning when deleting a group](https://github.com/sinamics/ztnet/pull/713) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Minor styles improvements](https://github.com/sinamics/ztnet/pull/712) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [fix: prevent data refresh from interrupting member name input](https://github.com/sinamics/ztnet/pull/706) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Organization Email Notifications](https://github.com/sinamics/ztnet/pull/705) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix: updated url for zt application download](https://github.com/sinamics/ztnet/pull/704) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Feat: added node table extended mode and description column](https://github.com/sinamics/ztnet/pull/703) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Improve network configuration UI responsiveness](https://github.com/sinamics/ztnet/pull/702) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Improved groups and invitations layout](https://github.com/sinamics/ztnet/pull/701) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 
 #### 📓 Gists I wrote
 
@@ -72,8 +72,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [OsmarBogarin](https://github.com/OsmarBogarin)
 - [Connor9994](https://github.com/Connor9994)
 - [twistline](https://github.com/twistline)
 - [patelmeshwa99](https://github.com/patelmeshwa99)
 - [Shwathz](https://github.com/Shwathz)
-- [canghaiwuhen](https://github.com/canghaiwuhen)
