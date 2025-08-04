@@ -14,7 +14,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (8 months ago)
@@ -34,20 +34,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.6](https://github.com/sinamics/ztnet/releases/tag/v0.7.6), 1 day ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 9 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Redesign MemberOptions modal](https://github.com/sinamics/ztnet/pull/715) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Added modal warning when deleting a group](https://github.com/sinamics/ztnet/pull/713) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Minor styles improvements](https://github.com/sinamics/ztnet/pull/712) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [fix: prevent data refresh from interrupting member name input](https://github.com/sinamics/ztnet/pull/706) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Organization Email Notifications](https://github.com/sinamics/ztnet/pull/705) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Fix: updated url for zt application download](https://github.com/sinamics/ztnet/pull/704) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Feat: added node table extended mode and description column](https://github.com/sinamics/ztnet/pull/703) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Improve network configuration UI responsiveness](https://github.com/sinamics/ztnet/pull/702) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Improved groups and invitations layout](https://github.com/sinamics/ztnet/pull/701) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Redesign MemberOptions modal](https://github.com/sinamics/ztnet/pull/715) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Added modal warning when deleting a group](https://github.com/sinamics/ztnet/pull/713) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Minor styles improvements](https://github.com/sinamics/ztnet/pull/712) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [fix: prevent data refresh from interrupting member name input](https://github.com/sinamics/ztnet/pull/706) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Organization Email Notifications](https://github.com/sinamics/ztnet/pull/705) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Fix: updated url for zt application download](https://github.com/sinamics/ztnet/pull/704) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Feat: added node table extended mode and description column](https://github.com/sinamics/ztnet/pull/703) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Improve network configuration UI responsiveness](https://github.com/sinamics/ztnet/pull/702) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Improved groups and invitations layout](https://github.com/sinamics/ztnet/pull/701) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
 
 #### 📓 Gists I wrote
 
