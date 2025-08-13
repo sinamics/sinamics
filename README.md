@@ -59,7 +59,7 @@
 
 #### ⭐ Recent Stars
 
-- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (2 months ago)
+- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (3 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (5 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (7 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (7 months ago)
