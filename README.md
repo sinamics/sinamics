@@ -40,7 +40,7 @@
 
 - [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fix: Smart name resolution - preserve names from both database and controller sources](https://github.com/sinamics/ztnet/pull/729) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Fix: Preserve database member names during sync when controller returns empty names](https://github.com/sinamics/ztnet/pull/728) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Fix: Preserve database member names during sync when controller returns empty names](https://github.com/sinamics/ztnet/pull/728) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [fix: Changed default template for &#34;Node Permanently deleted&#34;](https://github.com/sinamics/ztnet/pull/718) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Redesign MemberOptions modal](https://github.com/sinamics/ztnet/pull/715) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added modal warning when deleting a group](https://github.com/sinamics/ztnet/pull/713) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -63,7 +63,7 @@
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (6 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (8 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (8 months ago)
-- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (8 months ago)
+- [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (9 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (10 months ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (10 months ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (1 year ago)
