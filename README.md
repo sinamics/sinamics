@@ -38,8 +38,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Fix: Smart name resolution - preserve names from both database and controller sources](https://github.com/sinamics/ztnet/pull/729) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Fix: Smart name resolution - preserve names from both database and controller sources](https://github.com/sinamics/ztnet/pull/729) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Fix: Preserve database member names during sync when controller returns empty names](https://github.com/sinamics/ztnet/pull/728) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [fix: Changed default template for &#34;Node Permanently deleted&#34;](https://github.com/sinamics/ztnet/pull/718) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Redesign MemberOptions modal](https://github.com/sinamics/ztnet/pull/715) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
