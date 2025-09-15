@@ -72,8 +72,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [leokwsw](https://github.com/leokwsw)
 - [husseinqlass](https://github.com/husseinqlass)
 - [OsmarBogarin](https://github.com/OsmarBogarin)
 - [Connor9994](https://github.com/Connor9994)
-- [twistline](https://github.com/twistline)
