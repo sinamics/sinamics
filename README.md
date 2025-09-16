@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
 - [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 months ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (10 months ago)
 
@@ -38,8 +38,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Fix: Smart name resolution - preserve names from both database and controller sources](https://github.com/sinamics/ztnet/pull/729) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Fix: Smart name resolution - preserve names from both database and controller sources](https://github.com/sinamics/ztnet/pull/729) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix: Preserve database member names during sync when controller returns empty names](https://github.com/sinamics/ztnet/pull/728) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [fix: Changed default template for &#34;Node Permanently deleted&#34;](https://github.com/sinamics/ztnet/pull/718) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Redesign MemberOptions modal](https://github.com/sinamics/ztnet/pull/715) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -47,7 +48,6 @@
 - [Minor styles improvements](https://github.com/sinamics/ztnet/pull/712) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [fix: prevent data refresh from interrupting member name input](https://github.com/sinamics/ztnet/pull/706) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Organization Email Notifications](https://github.com/sinamics/ztnet/pull/705) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 #### 📓 Gists I wrote
 
