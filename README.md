@@ -47,7 +47,7 @@
 - [Redesign MemberOptions modal](https://github.com/sinamics/ztnet/pull/715) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Added modal warning when deleting a group](https://github.com/sinamics/ztnet/pull/713) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Minor styles improvements](https://github.com/sinamics/ztnet/pull/712) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Fix: Organization notifications](https://github.com/sinamics/ztnet/pull/709) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 #### 📓 Gists I wrote
 
