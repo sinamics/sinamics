@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (11 months ago)
 
@@ -34,12 +34,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.8](https://github.com/sinamics/ztnet/releases/tag/v0.7.8), 4 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.8](https://github.com/sinamics/ztnet/releases/tag/v0.7.8), 5 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 11 months ago) - ✈️ uav companion software ✈️
 
 #### 🔨 My recent Pull Requests
 
-- [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
 - [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
