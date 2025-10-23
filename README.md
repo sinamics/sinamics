@@ -14,8 +14,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (1 day ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 days ago)
+- [UAVmatrix/uavcast-pro-docs](https://github.com/UAVmatrix/uavcast-pro-docs) -  (2 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (11 months ago)
 
@@ -63,7 +63,7 @@
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (5 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (8 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (9 months ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (9 months ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (10 months ago)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (10 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (11 months ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (1 year ago)
