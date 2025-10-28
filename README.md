@@ -48,8 +48,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (11 months ago)
 
@@ -80,16 +80,16 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.9](https://github.com/sinamics/ztnet/releases/tag/v0.7.9), 2 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.9](https://github.com/sinamics/ztnet/releases/tag/v0.7.9), 3 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 1 year ago) - ✈️ uav companion software ✈️
 
 ## 🔨 Recent Pull Requests
 
-- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 - [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
