@@ -48,9 +48,9 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 week ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 weeks ago)
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (11 months ago)
 
 ## 🌱 Featured Projects
@@ -80,17 +80,17 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.9](https://github.com/sinamics/ztnet/releases/tag/v0.7.9), 6 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.9](https://github.com/sinamics/ztnet/releases/tag/v0.7.9), 1 week ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 - [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) ([1.5.0](https://github.com/sinamics/uavcast-community/releases/tag/1.5.0), 1 year ago) - ✈️ uav companion software ✈️
 
 ## 🔨 Recent Pull Requests
 
-- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
@@ -105,7 +105,7 @@ const bernt = {
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (2 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (2 years ago)
-- [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (2 years ago)
+- [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (3 years ago)
 
 ### ⭐ Recent Stars
 
