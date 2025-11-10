@@ -48,10 +48,9 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 weeks ago)
-- [sinamics/uavcast-community](https://github.com/sinamics/uavcast-community) - ✈️ uav companion software ✈️ (1 year ago)
 
 ## 🌱 Featured Projects
 
