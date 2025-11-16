@@ -48,7 +48,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 weeks ago)
 
@@ -89,7 +89,7 @@ const bernt = {
 - [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 - [Fix: Smart name resolution - preserve names from both database and controller sources](https://github.com/sinamics/ztnet/pull/729) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
