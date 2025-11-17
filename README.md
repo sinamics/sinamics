@@ -48,9 +48,9 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
 ## 🌱 Featured Projects
 
@@ -79,10 +79,10 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.9](https://github.com/sinamics/ztnet/releases/tag/v0.7.9), 3 weeks ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 ## 🔨 Recent Pull Requests
 
+- [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
@@ -92,7 +92,6 @@ const bernt = {
 - [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
-- [Fix: Smart name resolution - preserve names from both database and controller sources](https://github.com/sinamics/ztnet/pull/729) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -120,11 +119,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [S4IL21](https://github.com/S4IL21)
 - [ActionReplay](https://github.com/ActionReplay)
 - [MTSistemi](https://github.com/MTSistemi)
 - [leokwsw](https://github.com/leokwsw)
 - [husseinqlass](https://github.com/husseinqlass)
-- [OsmarBogarin](https://github.com/OsmarBogarin)
 
 </details>
 
