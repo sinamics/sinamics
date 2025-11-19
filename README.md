@@ -48,8 +48,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
 ## 🌱 Featured Projects
@@ -82,7 +82,7 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 - [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
@@ -98,7 +98,7 @@ const bernt = {
 
 ### 📓 Gists I wrote
 
-- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (5 months ago)
+- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (6 months ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (2 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (3 years ago)
@@ -107,7 +107,7 @@ const bernt = {
 ### ⭐ Recent Stars
 
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (6 months ago)
-- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (8 months ago)
+- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (9 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (10 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (10 months ago)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (11 months ago)
