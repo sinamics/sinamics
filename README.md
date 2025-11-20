@@ -67,7 +67,7 @@ const bernt = {
           <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
         </a>
       </p>
-      <p align="center">Owner & Developer</p>
+      <p align="center">Drone connectivity platform providing UAVcast-Pro software for 4G/5G LTE connectivity using Raspberry Pi companion computers. Supports Ardupilot and PX4 flight controllers.</p>
     </td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ const bernt = {
           <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
         </a>
       </p>
-      <p align="center">Owner & Developer</p>
+      <p align="center">Professional screenshot and screen recording tool for developers, marketers, and designers. Features full-page captures, animated recordings, and API access with cloud storage.</p>
     </td>
     <td width="50%">
       <h3 align="center">FuturePostman.com</h3>
@@ -87,7 +87,7 @@ const bernt = {
           <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
         </a>
       </p>
-      <p align="center">Owner & Developer</p>
+      <p align="center">Time-based messaging platform to send emails and physical letters to the future. Features military-grade encryption, worldwide postal delivery, and secure file hosting.</p>
     </td>
   </tr>
 </table>
