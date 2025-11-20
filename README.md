@@ -38,7 +38,6 @@ const bernt = {
 };
 ```
 
-
 ## 📊 GitHub Statistics
 
 <div align="center">
