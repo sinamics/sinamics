@@ -31,7 +31,7 @@ const bernt = {
         misc: ["ZeroTier", "Home Assistant", "IoT"]
     },
     projects: {
-        owner: ["Ztnet.network", "SnagKit.io", "FuturePostman.com"]
+        owner: ["Ztnet.network", "SnagKit.io", "FuturePostman.com", "UAVmatrix.com"]
     },
     currentFocus: "Building ZTNET - A modern ZeroTier management platform",
     funFact: "I automate everything, including my GitHub profile updates"
@@ -88,6 +88,19 @@ const bernt = {
         </a>
       </p>
       <p align="center">Owner & Developer</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">UAVmatrix.com</h3>
+      <p align="center">
+        <a href="https://uavmatrix.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
+        </a>
+      </p>
+      <p align="center">Owner & Developer</p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
