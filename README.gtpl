@@ -61,13 +61,13 @@ const bernt = {
       <p align="center">ZeroTier Web UI for Private Controllers with Multiuser and Organization Support</p>
     </td>
     <td width="50%">
-      <h3 align="center">UAVcast</h3>
+      <h3 align="center">UAVmatrix.com</h3>
       <p align="center">
-        <a href="https://github.com/sinamics/uavcast-community" target="_blank">
-          <img src="https://img.shields.io/github/stars/sinamics/uavcast-community?style=social" alt="Stars">
+        <a href="https://uavmatrix.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
         </a>
       </p>
-      <p align="center">✈️ UAV companion software for drone enthusiasts ✈️</p>
+      <p align="center">Owner & Developer</p>
     </td>
   </tr>
   <tr>
@@ -88,19 +88,6 @@ const bernt = {
         </a>
       </p>
       <p align="center">Owner & Developer</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">UAVmatrix.com</h3>
-      <p align="center">
-        <a href="https://uavmatrix.com" target="_blank">
-          <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
-        </a>
-      </p>
-      <p align="center">Owner & Developer</p>
-    </td>
-    <td width="50%">
     </td>
   </tr>
 </table>
