@@ -92,7 +92,6 @@ const bernt = {
     </td>
   </tr>
 </table>
----
 
 ## 👷 Currently Working On
 
