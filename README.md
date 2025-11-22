@@ -95,8 +95,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
 ## 🌱 Featured Projects
@@ -129,12 +129,12 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
@@ -156,7 +156,7 @@ const bernt = {
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (6 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (9 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (10 months ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (10 months ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (11 months ago)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (11 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 year ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (1 year ago)
