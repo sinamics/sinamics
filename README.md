@@ -95,7 +95,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
@@ -129,7 +129,7 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
@@ -161,7 +161,7 @@ const bernt = {
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 year ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (1 year ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (1 year ago)
-- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (1 year ago)
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 years ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 years ago)
 
 ### 👯 Recent Followers
