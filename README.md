@@ -130,11 +130,11 @@ const bernt = {
 ## 🔨 Recent Pull Requests
 
 - [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
-- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 - [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
