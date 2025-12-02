@@ -166,11 +166,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [aqsajimmy](https://github.com/aqsajimmy)
 - [S4IL21](https://github.com/S4IL21)
 - [ActionReplay](https://github.com/ActionReplay)
 - [MTSistemi](https://github.com/MTSistemi)
 - [leokwsw](https://github.com/leokwsw)
-- [husseinqlass](https://github.com/husseinqlass)
 
 </details>
 
