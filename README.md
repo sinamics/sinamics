@@ -95,7 +95,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
@@ -129,16 +129,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
+- [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Bumped Nodemailer and jsonwebtoken](https://github.com/sinamics/ztnet/pull/787) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Bumped Nodemailer, TRPC and React-Query packages](https://github.com/sinamics/ztnet/pull/786) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Improve devcontainer SSH setup.](https://github.com/sinamics/ztnet/pull/785) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix CVE-2025-66478: Bump Next.js and dependencies](https://github.com/sinamics/ztnet/pull/782) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [Accessing ZTNET via ZeroTier Network](https://github.com/sinamics/ztnet/pull/770) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [[Feat] Added search to docs](https://github.com/sinamics/ztnet/pull/764) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Updated docusaurus to latest version.](https://github.com/sinamics/ztnet/pull/763) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [[Improve] 404 layout with translations](https://github.com/sinamics/ztnet/pull/761) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [[Fix] Do not send emails in background when testing emails](https://github.com/sinamics/ztnet/pull/760) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [[Feat] Added option to set email sender name](https://github.com/sinamics/ztnet/pull/759) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Bump Prisma to version 6.16.3](https://github.com/sinamics/ztnet/pull/754) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Fix member counting to exclude permanently deleted nodes](https://github.com/sinamics/ztnet/pull/749) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Pin ZeroTier to version 1.14.2 in installation script](https://github.com/sinamics/ztnet/pull/747) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
-- [Fix: Improve responsive layout and trash icon visibility for network settings](https://github.com/sinamics/ztnet/pull/730) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 months ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
