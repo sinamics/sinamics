@@ -95,8 +95,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
 ## 🌱 Featured Projects
@@ -126,20 +126,20 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.12](https://github.com/sinamics/ztnet/releases/tag/v0.7.12), 3 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.12](https://github.com/sinamics/ztnet/releases/tag/v0.7.12), 4 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 ## 🔨 Recent Pull Requests
 
-- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Remove dotenv from prisma](https://github.com/sinamics/ztnet/pull/791) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Bumped Nodemailer and jsonwebtoken](https://github.com/sinamics/ztnet/pull/787) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Bumped Nodemailer, TRPC and React-Query packages](https://github.com/sinamics/ztnet/pull/786) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Improve devcontainer SSH setup.](https://github.com/sinamics/ztnet/pull/785) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Fix CVE-2025-66478: Bump Next.js and dependencies](https://github.com/sinamics/ztnet/pull/782) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Remove dotenv from prisma](https://github.com/sinamics/ztnet/pull/791) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bumped Nodemailer and jsonwebtoken](https://github.com/sinamics/ztnet/pull/787) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bumped Nodemailer, TRPC and React-Query packages](https://github.com/sinamics/ztnet/pull/786) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Improve devcontainer SSH setup.](https://github.com/sinamics/ztnet/pull/785) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Fix CVE-2025-66478: Bump Next.js and dependencies](https://github.com/sinamics/ztnet/pull/782) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -154,7 +154,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (6 months ago)
+- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (7 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (9 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (11 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (11 months ago)
