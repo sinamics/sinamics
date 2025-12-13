@@ -95,8 +95,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
 ## 🌱 Featured Projects
@@ -126,7 +126,7 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.12](https://github.com/sinamics/ztnet/releases/tag/v0.7.12), 5 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.12](https://github.com/sinamics/ztnet/releases/tag/v0.7.12), 6 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 ## 🔨 Recent Pull Requests
 
@@ -167,11 +167,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [garciahahn](https://github.com/garciahahn)
 - [aqsajimmy](https://github.com/aqsajimmy)
 - [S4IL21](https://github.com/S4IL21)
 - [ActionReplay](https://github.com/ActionReplay)
 - [MTSistemi](https://github.com/MTSistemi)
-- [leokwsw](https://github.com/leokwsw)
 
 </details>
 
