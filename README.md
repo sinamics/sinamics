@@ -95,8 +95,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (1 month ago)
 
 ## 🌱 Featured Projects
@@ -126,10 +126,12 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.12](https://github.com/sinamics/ztnet/releases/tag/v0.7.12), 6 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 ## 🔨 Recent Pull Requests
 
+- [Improve email settings UI and fix STARTTLS support](https://github.com/sinamics/ztnet/pull/804) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix rate limiting issues and add configurable rate limits](https://github.com/sinamics/ztnet/pull/803) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Security advisor, vulnerabilities (CVE-2025-55184 and CVE-2025-55183)](https://github.com/sinamics/ztnet/pull/800) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
 - [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -137,9 +139,6 @@ const bernt = {
 - [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bumped Nodemailer and jsonwebtoken](https://github.com/sinamics/ztnet/pull/787) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bumped Nodemailer, TRPC and React-Query packages](https://github.com/sinamics/ztnet/pull/786) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Improve devcontainer SSH setup.](https://github.com/sinamics/ztnet/pull/785) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fix CVE-2025-66478: Bump Next.js and dependencies](https://github.com/sinamics/ztnet/pull/782) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -148,7 +147,7 @@ const bernt = {
 
 - [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (6 months ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
-- [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (2 years ago)
+- [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (3 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (3 years ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (3 years ago)
 
