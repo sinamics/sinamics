@@ -95,7 +95,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 
@@ -129,14 +129,14 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Upgrade tRPC to v11, React Query to v5, and TypeScript to 5.9](https://github.com/sinamics/ztnet/pull/807) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Improve email settings UI and fix STARTTLS support](https://github.com/sinamics/ztnet/pull/804) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Fix rate limiting issues and add configurable rate limits](https://github.com/sinamics/ztnet/pull/803) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Security advisor, vulnerabilities (CVE-2025-55184 and CVE-2025-55183)](https://github.com/sinamics/ztnet/pull/800) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Remove dotenv from prisma](https://github.com/sinamics/ztnet/pull/791) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Upgrade tRPC to v11, React Query to v5, and TypeScript to 5.9](https://github.com/sinamics/ztnet/pull/807) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Improve email settings UI and fix STARTTLS support](https://github.com/sinamics/ztnet/pull/804) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fix rate limiting issues and add configurable rate limits](https://github.com/sinamics/ztnet/pull/803) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Security advisor, vulnerabilities (CVE-2025-55184 and CVE-2025-55183)](https://github.com/sinamics/ztnet/pull/800) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Remove dotenv from prisma](https://github.com/sinamics/ztnet/pull/791) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
@@ -145,7 +145,7 @@ const bernt = {
 
 ### 📓 Gists I wrote
 
-- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (6 months ago)
+- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (7 months ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (3 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (3 years ago)
@@ -154,7 +154,7 @@ const bernt = {
 ### ⭐ Recent Stars
 
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (7 months ago)
-- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (9 months ago)
+- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (10 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (11 months ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (11 months ago)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (1 year ago)
