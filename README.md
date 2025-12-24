@@ -95,7 +95,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 
@@ -129,7 +129,7 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Upgrade tRPC to v11, React Query to v5, and TypeScript to 5.9](https://github.com/sinamics/ztnet/pull/807) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Upgrade tRPC to v11, React Query to v5, and TypeScript to 5.9](https://github.com/sinamics/ztnet/pull/807) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Improve email settings UI and fix STARTTLS support](https://github.com/sinamics/ztnet/pull/804) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix rate limiting issues and add configurable rate limits](https://github.com/sinamics/ztnet/pull/803) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Security advisor, vulnerabilities (CVE-2025-55184 and CVE-2025-55183)](https://github.com/sinamics/ztnet/pull/800) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
