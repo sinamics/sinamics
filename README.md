@@ -133,10 +133,10 @@ const bernt = {
 - [Improve email settings UI and fix STARTTLS support](https://github.com/sinamics/ztnet/pull/804) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix rate limiting issues and add configurable rate limits](https://github.com/sinamics/ztnet/pull/803) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Security advisor, vulnerabilities (CVE-2025-55184 and CVE-2025-55183)](https://github.com/sinamics/ztnet/pull/800) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Remove dotenv from prisma](https://github.com/sinamics/ztnet/pull/791) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Remove dotenv from prisma](https://github.com/sinamics/ztnet/pull/791) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 
@@ -155,7 +155,7 @@ const bernt = {
 
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (7 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (10 months ago)
-- [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (11 months ago)
+- [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 year ago)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel (1 year ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 year ago)
