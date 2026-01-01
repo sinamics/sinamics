@@ -95,7 +95,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (2 months ago)
 
@@ -137,8 +137,8 @@ const bernt = {
 - [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Updated standalone installer to use node v20](https://github.com/sinamics/ztnet/pull/792) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [Remove dotenv from prisma](https://github.com/sinamics/ztnet/pull/791) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Performance optimizations for API requests](https://github.com/sinamics/ztnet/pull/789) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
+- [Lock prisma version in dockerfile](https://github.com/sinamics/ztnet/pull/788) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
