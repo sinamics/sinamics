@@ -95,7 +95,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (6 days ago)
+- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 
@@ -126,11 +127,11 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.14](https://github.com/sinamics/ztnet/releases/tag/v0.7.14), 6 days ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.14](https://github.com/sinamics/ztnet/releases/tag/v0.7.14), 1 week ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 ## 🔨 Recent Pull Requests
 
-- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (1 day ago)
+- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (2 days ago)
 - [Allow editing via field in route table](https://github.com/sinamics/ztnet/pull/816) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bump nodejs and npm](https://github.com/sinamics/ztnet/pull/813) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Ztnet Docs CVE-2025-15284](https://github.com/sinamics/ztnet/pull/812) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
