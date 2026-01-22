@@ -95,9 +95,9 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
-- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (3 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
+- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (4 days ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (3 months ago)
 
 ## 🌱 Featured Projects
@@ -127,11 +127,11 @@ const bernt = {
 
 ## 🔭 Latest Releases
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) ([v0.7.14](https://github.com/sinamics/ztnet/releases/tag/v0.7.14), 1 week ago) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support.
 
 ## 🔨 Recent Pull Requests
 
-- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (4 days ago)
+- [Add ukrainian translations](https://github.com/sinamics/ztnet/pull/822) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (5 days ago)
 - [Allow editing via field in route table](https://github.com/sinamics/ztnet/pull/816) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bump nodejs and npm](https://github.com/sinamics/ztnet/pull/813) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Ztnet Docs CVE-2025-15284](https://github.com/sinamics/ztnet/pull/812) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
@@ -140,7 +140,6 @@ const bernt = {
 - [Fix rate limiting issues and add configurable rate limits](https://github.com/sinamics/ztnet/pull/803) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Security advisor, vulnerabilities (CVE-2025-55184 and CVE-2025-55183)](https://github.com/sinamics/ztnet/pull/800) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fix API 400 errors when fetching network members](https://github.com/sinamics/ztnet/pull/794) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
