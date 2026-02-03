@@ -139,7 +139,7 @@ const bernt = {
 - [Improve email settings UI and fix STARTTLS support](https://github.com/sinamics/ztnet/pull/804) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Fix rate limiting issues and add configurable rate limits](https://github.com/sinamics/ztnet/pull/803) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Security advisor, vulnerabilities (CVE-2025-55184 and CVE-2025-55183)](https://github.com/sinamics/ztnet/pull/800) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
+- [Fix FreeBSD support for Next.js 16 and Prisma 6.19](https://github.com/sinamics/ztnet/pull/795) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 months ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
