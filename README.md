@@ -131,8 +131,8 @@ const bernt = {
 ## 🔨 Recent Pull Requests
 
 - [Add ukrainian translations](https://github.com/sinamics/ztnet/pull/822) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (2 weeks ago)
-- [Allow editing via field in route table](https://github.com/sinamics/ztnet/pull/816) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
+- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (3 weeks ago)
+- [Allow editing via field in route table](https://github.com/sinamics/ztnet/pull/816) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 weeks ago)
 - [Bump nodejs and npm](https://github.com/sinamics/ztnet/pull/813) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Ztnet Docs CVE-2025-15284](https://github.com/sinamics/ztnet/pull/812) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Upgrade tRPC to v11, React Query to v5, and TypeScript to 5.9](https://github.com/sinamics/ztnet/pull/807) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
