@@ -154,6 +154,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (9 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (11 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
@@ -163,7 +164,6 @@ const bernt = {
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (1 year ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 years ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 years ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 years ago)
 
 ### 👯 Recent Followers
 
