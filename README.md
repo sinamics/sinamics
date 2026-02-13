@@ -154,7 +154,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 day ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 days ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (9 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (11 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
