@@ -131,7 +131,7 @@ const bernt = {
 ## 🔨 Recent Pull Requests
 
 - [Add ukrainian translations](https://github.com/sinamics/ztnet/pull/822) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
-- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (3 weeks ago)
+- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (4 weeks ago)
 - [Allow editing via field in route table](https://github.com/sinamics/ztnet/pull/816) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Bump nodejs and npm](https://github.com/sinamics/ztnet/pull/813) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 - [Ztnet Docs CVE-2025-15284](https://github.com/sinamics/ztnet/pull/812) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
@@ -154,7 +154,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 days ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 days ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (9 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (11 months ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
