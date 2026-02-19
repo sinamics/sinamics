@@ -168,11 +168,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [dutanet](https://github.com/dutanet)
 - [garciahahn](https://github.com/garciahahn)
 - [aqsajimmy](https://github.com/aqsajimmy)
 - [S4IL21](https://github.com/S4IL21)
 - [ActionReplay](https://github.com/ActionReplay)
-- [MTSistemi](https://github.com/MTSistemi)
 
 </details>
 
