@@ -6,6 +6,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-egeland.io-blue?style=for-the-badge)](https://egeland.io)
 [![ZTNET](https://img.shields.io/badge/⭐_Featured_Project-ZTNET-00A98F?style=for-the-badge)](https://github.com/sinamics/ztnet)
+[![TorqVoice](https://img.shields.io/badge/🔧_Featured_Project-TorqVoice-FF6B35?style=for-the-badge)](https://github.com/Torqvoice/torqvoice)
 
 </div>
 
@@ -31,7 +32,7 @@ const bernt = {
         misc: ["ZeroTier", "Home Assistant", "IoT"]
     },
     projects: {
-        owner: ["Ztnet.network", "SnagKit.io", "FuturePostman.com", "UAVmatrix.com"]
+        owner: ["Ztnet.network", "TorqVoice", "SnagKit.io", "FuturePostman.com", "UAVmatrix.com"]
     },
     currentFocus: "Building ZTNET - A modern ZeroTier management platform",
     funFact: "I automate everything, including my GitHub profile updates"
@@ -72,6 +73,15 @@ const bernt = {
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">TorqVoice</h3>
+      <p align="center">
+        <a href="https://github.com/Torqvoice/torqvoice" target="_blank">
+          <img src="https://img.shields.io/github/stars/Torqvoice/torqvoice?style=social" alt="Stars">
+        </a>
+      </p>
+      <p align="center">Self-hosted workshop management platform for automotive service businesses. Manage customers, vehicles, service records, quotes, invoicing, and inventory.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">SnagKit.io</h3>
       <p align="center">
         <a href="https://snagkit.io" target="_blank">
@@ -80,6 +90,8 @@ const bernt = {
       </p>
       <p align="center">Professional screenshot and screen recording tool for developers, marketers, and designers. Features full-page captures, animated recordings, and API access with cloud storage.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">FuturePostman.com</h3>
       <p align="center">
@@ -88,6 +100,8 @@ const bernt = {
         </a>
       </p>
       <p align="center">Time-based messaging platform to send emails and physical letters to the future. Features military-grade encryption, worldwide postal delivery, and secure file hosting.</p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
@@ -115,6 +129,17 @@ const bernt = {
       <p align="center">ZeroTier Web UI for Private Controllers with Multiuser and Organization Support</p>
     </td>
     <td width="50%">
+      <h3 align="center">TorqVoice</h3>
+      <p align="center">
+        <a href="https://github.com/Torqvoice/torqvoice" target="_blank">
+          <img src="https://img.shields.io/github/stars/Torqvoice/torqvoice?style=social" alt="Stars">
+        </a>
+      </p>
+      <p align="center">Self-hosted workshop management platform for automotive service businesses</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">UAVcast</h3>
       <p align="center">
         <a href="https://github.com/sinamics/uavcast-community" target="_blank">
@@ -122,6 +147,8 @@ const bernt = {
         </a>
       </p>
       <p align="center">✈️ UAV companion software for drone enthusiasts ✈️</p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>

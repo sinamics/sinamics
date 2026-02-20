@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-egeland.io-blue?style=for-the-badge)](https://egeland.io)
 [![ZTNET](https://img.shields.io/badge/⭐_Featured_Project-ZTNET-00A98F?style=for-the-badge)](https://github.com/sinamics/ztnet)
-[![TorqVoice](https://img.shields.io/badge/🔧_Featured_Project-TorqVoice-FF6B35?style=for-the-badge)](https://github.com/sinamics/torqvoice)
+[![TorqVoice](https://img.shields.io/badge/🔧_Featured_Project-TorqVoice-FF6B35?style=for-the-badge)](https://github.com/Torqvoice/torqvoice)
 
 </div>
 
@@ -75,8 +75,8 @@ const bernt = {
     <td width="50%">
       <h3 align="center">TorqVoice</h3>
       <p align="center">
-        <a href="https://github.com/sinamics/torqvoice" target="_blank">
-          <img src="https://img.shields.io/github/stars/sinamics/torqvoice?style=social" alt="Stars">
+        <a href="https://github.com/Torqvoice/torqvoice" target="_blank">
+          <img src="https://img.shields.io/github/stars/Torqvoice/torqvoice?style=social" alt="Stars">
         </a>
       </p>
       <p align="center">Self-hosted workshop management platform for automotive service businesses. Manage customers, vehicles, service records, quotes, invoicing, and inventory.</p>
@@ -128,8 +128,8 @@ const bernt = {
     <td width="50%">
       <h3 align="center">TorqVoice</h3>
       <p align="center">
-        <a href="https://github.com/sinamics/torqvoice" target="_blank">
-          <img src="https://img.shields.io/github/stars/sinamics/torqvoice?style=social" alt="Stars">
+        <a href="https://github.com/Torqvoice/torqvoice" target="_blank">
+          <img src="https://img.shields.io/github/stars/Torqvoice/torqvoice?style=social" alt="Stars">
         </a>
       </p>
       <p align="center">Self-hosted workshop management platform for automotive service businesses</p>
