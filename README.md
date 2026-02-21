@@ -109,65 +109,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 
-## 🌱 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ZTNET</h3>
-      <p align="center">
-        <a href="https://github.com/sinamics/ztnet" target="_blank">
-          <img src="https://img.shields.io/github/stars/sinamics/ztnet?style=social" alt="Stars">
-        </a>
-      </p>
-      <p align="center">ZeroTier Web UI for Private Controllers with Multiuser and Organization Support</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">TorqVoice</h3>
-      <p align="center">
-        <a href="https://github.com/Torqvoice/torqvoice" target="_blank">
-          <img src="https://img.shields.io/github/stars/Torqvoice/torqvoice?style=social" alt="Stars">
-        </a>
-      </p>
-      <p align="center">Self-hosted workshop management platform for automotive service businesses</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">UAVcast</h3>
-      <p align="center">
-        <a href="https://github.com/sinamics/uavcast-community" target="_blank">
-          <img src="https://img.shields.io/github/stars/sinamics/uavcast-community?style=social" alt="Stars">
-        </a>
-      </p>
-      <p align="center">✈️ UAV companion software for drone enthusiasts ✈️</p>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
-</table>
-
-## 🔭 Latest Releases
-
-
 ## 🔨 Recent Pull Requests
 
+- [Improved url links between notification and pages](https://github.com/Torqvoice/torqvoice/pull/14) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Add SMS tests](https://github.com/Torqvoice/torqvoice/pull/13) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Add health check API endpoint](https://github.com/Torqvoice/torqvoice/pull/12) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Rate limit auth endpoints](https://github.com/Torqvoice/torqvoice/pull/11) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Fix dark mode flash of white on page reload  ](https://github.com/Torqvoice/torqvoice/pull/10) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Restructure sidebar with categorized navigation](https://github.com/Torqvoice/torqvoice/pull/9) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Redesign dashboard with multi-column grid, SMS card, and card visibility](https://github.com/Torqvoice/torqvoice/pull/8) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Add SMS messaging with Twilio, Vonage, and Telnyx support](https://github.com/Torqvoice/torqvoice/pull/7) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [[Feat] Add last seen in users table](https://github.com/Torqvoice/torqvoice/pull/6) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
 - [Add auth &amp; multi-tenancy test suite](https://github.com/Torqvoice/torqvoice/pull/5) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add links to homepage, documentation and changelog in settings about page](https://github.com/Torqvoice/torqvoice/pull/4) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Real-time push notifications for customer actions ](https://github.com/Torqvoice/torqvoice/pull/3) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add accept/request changes to public quote page](https://github.com/Torqvoice/torqvoice/pull/2) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add DVI inspection feature](https://github.com/Torqvoice/torqvoice/pull/1) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add ukrainian translations](https://github.com/sinamics/ztnet/pull/822) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Update UAVcast-Pro turnkey documentation](https://github.com/ArduPilot/ardupilot_wiki/pull/7341) on [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) (1 month ago)
-- [Allow editing via field in route table](https://github.com/sinamics/ztnet/pull/816) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Bump nodejs and npm](https://github.com/sinamics/ztnet/pull/813) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
-- [Ztnet Docs CVE-2025-15284](https://github.com/sinamics/ztnet/pull/812) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 month ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
