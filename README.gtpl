@@ -112,49 +112,6 @@ const bernt = {
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-## 🌱 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ZTNET</h3>
-      <p align="center">
-        <a href="https://github.com/sinamics/ztnet" target="_blank">
-          <img src="https://img.shields.io/github/stars/sinamics/ztnet?style=social" alt="Stars">
-        </a>
-      </p>
-      <p align="center">ZeroTier Web UI for Private Controllers with Multiuser and Organization Support</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">TorqVoice</h3>
-      <p align="center">
-        <a href="https://github.com/Torqvoice/torqvoice" target="_blank">
-          <img src="https://img.shields.io/github/stars/Torqvoice/torqvoice?style=social" alt="Stars">
-        </a>
-      </p>
-      <p align="center">Self-hosted workshop management platform for automotive service businesses</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">UAVcast</h3>
-      <p align="center">
-        <a href="https://github.com/sinamics/uavcast-community" target="_blank">
-          <img src="https://img.shields.io/github/stars/sinamics/uavcast-community?style=social" alt="Stars">
-        </a>
-      </p>
-      <p align="center">✈️ UAV companion software for drone enthusiasts ✈️</p>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
-</table>
-
-## 🔭 Latest Releases
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
 ## 🔨 Recent Pull Requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
