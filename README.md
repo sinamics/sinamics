@@ -110,23 +110,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (6 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add work board for technician job scheduling](https://github.com/Torqvoice/torqvoice/pull/16) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Restructure API routes into clear subdirectories](https://github.com/Torqvoice/torqvoice/pull/15) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Improved url links between notification and pages](https://github.com/Torqvoice/torqvoice/pull/14) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add SMS tests](https://github.com/Torqvoice/torqvoice/pull/13) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add health check API endpoint](https://github.com/Torqvoice/torqvoice/pull/12) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Rate limit auth endpoints](https://github.com/Torqvoice/torqvoice/pull/11) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Fix dark mode flash of white on page reload  ](https://github.com/Torqvoice/torqvoice/pull/10) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Restructure sidebar with categorized navigation](https://github.com/Torqvoice/torqvoice/pull/9) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Redesign dashboard with multi-column grid, SMS card, and card visibility](https://github.com/Torqvoice/torqvoice/pull/8) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add SMS messaging with Twilio, Vonage, and Telnyx support](https://github.com/Torqvoice/torqvoice/pull/7) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add server-side paginated notes table ](https://github.com/Torqvoice/torqvoice/pull/18) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add customer-facing portal with service request workflow](https://github.com/Torqvoice/torqvoice/pull/17) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add work board for technician job scheduling](https://github.com/Torqvoice/torqvoice/pull/16) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Restructure API routes into clear subdirectories](https://github.com/Torqvoice/torqvoice/pull/15) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Improved url links between notification and pages](https://github.com/Torqvoice/torqvoice/pull/14) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add SMS tests](https://github.com/Torqvoice/torqvoice/pull/13) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add health check API endpoint](https://github.com/Torqvoice/torqvoice/pull/12) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Rate limit auth endpoints](https://github.com/Torqvoice/torqvoice/pull/11) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Fix dark mode flash of white on page reload  ](https://github.com/Torqvoice/torqvoice/pull/10) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Restructure sidebar with categorized navigation](https://github.com/Torqvoice/torqvoice/pull/9) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -141,7 +141,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 week ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 weeks ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (9 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
