@@ -110,23 +110,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Fix numeric input clearing and add vehicle/customer links in quotes](https://github.com/Torqvoice/torqvoice/pull/19) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [New community tools section in the docs](https://github.com/sinamics/ztnet/pull/842) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Fix org API unable to create new network members](https://github.com/sinamics/ztnet/pull/841) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Bump minimatch dependency](https://github.com/sinamics/ztnet/pull/840) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Bump dependencies and fix test setup](https://github.com/sinamics/ztnet/pull/839) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Add server-side paginated notes table ](https://github.com/Torqvoice/torqvoice/pull/18) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add customer-facing portal with service request workflow](https://github.com/Torqvoice/torqvoice/pull/17) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add work board for technician job scheduling](https://github.com/Torqvoice/torqvoice/pull/16) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Restructure API routes into clear subdirectories](https://github.com/Torqvoice/torqvoice/pull/15) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Improved url links between notification and pages](https://github.com/Torqvoice/torqvoice/pull/14) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add subscription management with cancel, resume, and billing portal](https://github.com/Torqvoice/torqvoice/pull/24) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix work-board column alignment and widen today&#39;s column](https://github.com/Torqvoice/torqvoice/pull/23) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add shared link info card with view tracking for quotes and invoices](https://github.com/Torqvoice/torqvoice/pull/22) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add Passkey (WebAuthn) authentication](https://github.com/Torqvoice/torqvoice/pull/21) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add i18n support with next-intl](https://github.com/Torqvoice/torqvoice/pull/20) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix network and organization authorization checks](https://github.com/sinamics/ztnet/pull/844) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix missing authorization checks in organization endpoints](https://github.com/sinamics/ztnet/pull/843) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Fix numeric input clearing and add vehicle/customer links in quotes](https://github.com/Torqvoice/torqvoice/pull/19) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [New community tools section in the docs](https://github.com/sinamics/ztnet/pull/842) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Fix org API unable to create new network members](https://github.com/sinamics/ztnet/pull/841) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
