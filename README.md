@@ -110,23 +110,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Limit organization creation per plan in cloud mode](https://github.com/Torqvoice/torqvoice/pull/28) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Move cron jobs to node-cron and clean up dead HTTP endpoints](https://github.com/Torqvoice/torqvoice/pull/27) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Improved stripe config and fix subscription feature gating](https://github.com/Torqvoice/torqvoice/pull/26) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add email verification system](https://github.com/Torqvoice/torqvoice/pull/25) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add subscription management with cancel, resume, and billing portal](https://github.com/Torqvoice/torqvoice/pull/24) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Fix work-board column alignment and widen today&#39;s column](https://github.com/Torqvoice/torqvoice/pull/23) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add shared link info card with view tracking for quotes and invoices](https://github.com/Torqvoice/torqvoice/pull/22) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add Passkey (WebAuthn) authentication](https://github.com/Torqvoice/torqvoice/pull/21) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add i18n support with next-intl](https://github.com/Torqvoice/torqvoice/pull/20) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Fix network and organization authorization checks](https://github.com/sinamics/ztnet/pull/844) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Show error toast when org creation is blocked by plan limit](https://github.com/Torqvoice/torqvoice/pull/29) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Limit organization creation per plan in cloud mode](https://github.com/Torqvoice/torqvoice/pull/28) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Move cron jobs to node-cron and clean up dead HTTP endpoints](https://github.com/Torqvoice/torqvoice/pull/27) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Improved stripe config and fix subscription feature gating](https://github.com/Torqvoice/torqvoice/pull/26) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add email verification system](https://github.com/Torqvoice/torqvoice/pull/25) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add subscription management with cancel, resume, and billing portal](https://github.com/Torqvoice/torqvoice/pull/24) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Fix work-board column alignment and widen today&#39;s column](https://github.com/Torqvoice/torqvoice/pull/23) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add shared link info card with view tracking for quotes and invoices](https://github.com/Torqvoice/torqvoice/pull/22) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add Passkey (WebAuthn) authentication](https://github.com/Torqvoice/torqvoice/pull/21) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add i18n support with next-intl](https://github.com/Torqvoice/torqvoice/pull/20) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
