@@ -109,24 +109,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add PWA support with install prompt and service worker ](https://github.com/Torqvoice/torqvoice/pull/32) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Fix HTML rendering in quote PDF description](https://github.com/Torqvoice/torqvoice/pull/31) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Add exclude checkbox to quotes and autosave for quotes &amp; work orders](https://github.com/Torqvoice/torqvoice/pull/30) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Show error toast when org creation is blocked by plan limit](https://github.com/Torqvoice/torqvoice/pull/29) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Limit organization creation per plan in cloud mode](https://github.com/Torqvoice/torqvoice/pull/28) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Move cron jobs to node-cron and clean up dead HTTP endpoints](https://github.com/Torqvoice/torqvoice/pull/27) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Improved stripe config and fix subscription feature gating](https://github.com/Torqvoice/torqvoice/pull/26) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Add email verification system](https://github.com/Torqvoice/torqvoice/pull/25) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Add subscription management with cancel, resume, and billing portal](https://github.com/Torqvoice/torqvoice/pull/24) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Fix work-board column alignment and widen today&#39;s column](https://github.com/Torqvoice/torqvoice/pull/23) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Add redirect flow for Cloud Pro signup](https://github.com/Torqvoice/torqvoice/pull/35) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add 6-column grid layout option to vehicle list](https://github.com/Torqvoice/torqvoice/pull/34) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Move delete content from account to data settings](https://github.com/Torqvoice/torqvoice/pull/33) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add PWA support with install prompt and service worker ](https://github.com/Torqvoice/torqvoice/pull/32) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Fix HTML rendering in quote PDF description](https://github.com/Torqvoice/torqvoice/pull/31) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Add exclude checkbox to quotes and autosave for quotes &amp; work orders](https://github.com/Torqvoice/torqvoice/pull/30) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Show error toast when org creation is blocked by plan limit](https://github.com/Torqvoice/torqvoice/pull/29) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Limit organization creation per plan in cloud mode](https://github.com/Torqvoice/torqvoice/pull/28) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Move cron jobs to node-cron and clean up dead HTTP endpoints](https://github.com/Torqvoice/torqvoice/pull/27) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Improved stripe config and fix subscription feature gating](https://github.com/Torqvoice/torqvoice/pull/26) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -154,11 +154,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [Greattobehere](https://github.com/Greattobehere)
 - [schmidt-software](https://github.com/schmidt-software)
 - [dutanet](https://github.com/dutanet)
 - [garciahahn](https://github.com/garciahahn)
 - [aqsajimmy](https://github.com/aqsajimmy)
-- [S4IL21](https://github.com/S4IL21)
 
 </details>
 
