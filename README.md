@@ -110,23 +110,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add Stripe subscription upgrade with proration](https://github.com/Torqvoice/torqvoice/pull/50) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show customer vehicles in global search results](https://github.com/Torqvoice/torqvoice/pull/48) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Debounced auto-search for vehicles page ](https://github.com/Torqvoice/torqvoice/pull/47) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Mobile layout fixes for vehicles and messages pages](https://github.com/Torqvoice/torqvoice/pull/46) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add batch delete for customers](https://github.com/Torqvoice/torqvoice/pull/45) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Customer import with duplicate detection and merge/skip](https://github.com/Torqvoice/torqvoice/pull/44) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add server action tests for inspections, quotes, and work orders](https://github.com/Torqvoice/torqvoice/pull/43) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Streamline quote creation from dialogs and inspections](https://github.com/Torqvoice/torqvoice/pull/42) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add reminders page, expand search, and fix inspection creation](https://github.com/Torqvoice/torqvoice/pull/41) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Dashboard improvements, predicted maintenance, and reminders page ](https://github.com/Torqvoice/torqvoice/pull/40) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add invoice/quote PDF layout editor with drag-and-drop section ordering](https://github.com/Torqvoice/torqvoice/pull/51) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add Stripe subscription upgrade with proration](https://github.com/Torqvoice/torqvoice/pull/50) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show customer vehicles in global search results](https://github.com/Torqvoice/torqvoice/pull/48) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Debounced auto-search for vehicles page ](https://github.com/Torqvoice/torqvoice/pull/47) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Mobile layout fixes for vehicles and messages pages](https://github.com/Torqvoice/torqvoice/pull/46) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add batch delete for customers](https://github.com/Torqvoice/torqvoice/pull/45) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Customer import with duplicate detection and merge/skip](https://github.com/Torqvoice/torqvoice/pull/44) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add server action tests for inspections, quotes, and work orders](https://github.com/Torqvoice/torqvoice/pull/43) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Streamline quote creation from dialogs and inspections](https://github.com/Torqvoice/torqvoice/pull/42) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add reminders page, expand search, and fix inspection creation](https://github.com/Torqvoice/torqvoice/pull/41) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -141,8 +141,8 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 weeks ago)
-- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (9 months ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 weeks ago)
+- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (10 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 year ago)
