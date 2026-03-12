@@ -110,23 +110,24 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 day ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (4 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add invoice/quote PDF layout editor with drag-and-drop section ordering](https://github.com/Torqvoice/torqvoice/pull/51) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add Stripe subscription upgrade with proration](https://github.com/Torqvoice/torqvoice/pull/50) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Show customer vehicles in global search results](https://github.com/Torqvoice/torqvoice/pull/48) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Debounced auto-search for vehicles page ](https://github.com/Torqvoice/torqvoice/pull/47) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Mobile layout fixes for vehicles and messages pages](https://github.com/Torqvoice/torqvoice/pull/46) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add batch delete for customers](https://github.com/Torqvoice/torqvoice/pull/45) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Customer import with duplicate detection and merge/skip](https://github.com/Torqvoice/torqvoice/pull/44) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add server action tests for inspections, quotes, and work orders](https://github.com/Torqvoice/torqvoice/pull/43) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Streamline quote creation from dialogs and inspections](https://github.com/Torqvoice/torqvoice/pull/42) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add reminders page, expand search, and fix inspection creation](https://github.com/Torqvoice/torqvoice/pull/41) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Prevent Google Translate from crashing React by adding notranslate directives](https://github.com/Torqvoice/torqvoice/pull/61) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show quotes and item counts on vehicle detail page ](https://github.com/Torqvoice/torqvoice/pull/60) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bump packages](https://github.com/Torqvoice/torqvoice/pull/59) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add more content types to delete content dialog](https://github.com/Torqvoice/torqvoice/pull/54) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add ISO 27001 compliant audit logging](https://github.com/Torqvoice/torqvoice/pull/53) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Improved templates and custom fields](https://github.com/Torqvoice/torqvoice/pull/52) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add invoice/quote PDF layout editor with drag-and-drop section ordering](https://github.com/Torqvoice/torqvoice/pull/51) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add Stripe subscription upgrade with proration](https://github.com/Torqvoice/torqvoice/pull/50) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Show customer vehicles in global search results](https://github.com/Torqvoice/torqvoice/pull/48) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Debounced auto-search for vehicles page ](https://github.com/Torqvoice/torqvoice/pull/47) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
