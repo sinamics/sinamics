@@ -110,7 +110,7 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 day ago)
+- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
@@ -118,16 +118,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Prevent Google Translate from crashing React by adding notranslate directives](https://github.com/Torqvoice/torqvoice/pull/61) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show quotes and item counts on vehicle detail page ](https://github.com/Torqvoice/torqvoice/pull/60) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Bump packages](https://github.com/Torqvoice/torqvoice/pull/59) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add more content types to delete content dialog](https://github.com/Torqvoice/torqvoice/pull/54) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add ISO 27001 compliant audit logging](https://github.com/Torqvoice/torqvoice/pull/53) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Improved templates and custom fields](https://github.com/Torqvoice/torqvoice/pull/52) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add invoice/quote PDF layout editor with drag-and-drop section ordering](https://github.com/Torqvoice/torqvoice/pull/51) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add Stripe subscription upgrade with proration](https://github.com/Torqvoice/torqvoice/pull/50) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Show customer vehicles in global search results](https://github.com/Torqvoice/torqvoice/pull/48) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Debounced auto-search for vehicles page ](https://github.com/Torqvoice/torqvoice/pull/47) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add AI-powered vehicle insights (summary &amp; common issues)](https://github.com/Torqvoice/torqvoice/pull/65) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Improve dropdown performance with lazy loading and search](https://github.com/Torqvoice/torqvoice/pull/64) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Improve global search with multi-word matching](https://github.com/Torqvoice/torqvoice/pull/63) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add more data types to backup export/import](https://github.com/Torqvoice/torqvoice/pull/62) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Prevent Google Translate from crashing React by adding notranslate directives](https://github.com/Torqvoice/torqvoice/pull/61) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show quotes and item counts on vehicle detail page ](https://github.com/Torqvoice/torqvoice/pull/60) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Bump packages](https://github.com/Torqvoice/torqvoice/pull/59) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add more content types to delete content dialog](https://github.com/Torqvoice/torqvoice/pull/54) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add ISO 27001 compliant audit logging](https://github.com/Torqvoice/torqvoice/pull/53) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Improved templates and custom fields](https://github.com/Torqvoice/torqvoice/pull/52) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -142,7 +142,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 weeks ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (10 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
