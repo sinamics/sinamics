@@ -110,31 +110,31 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 week ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
-- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (1 month ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 weeks ago)
+- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Bumped jsdom](https://github.com/Torqvoice/torqvoice/pull/78) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add labor presets](https://github.com/Torqvoice/torqvoice/pull/77) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Fix PDF preview font rendering](https://github.com/Torqvoice/torqvoice/pull/76) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add PostHog analytics for cloud mode only](https://github.com/Torqvoice/torqvoice/pull/72) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Fix service record save with inventory part](https://github.com/Torqvoice/torqvoice/pull/71) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add Russian locale, RUB currency &amp; Cyrillic PDF support](https://github.com/Torqvoice/torqvoice/pull/68) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add AI-powered vehicle insights (summary &amp; common issues)](https://github.com/Torqvoice/torqvoice/pull/65) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Improve dropdown performance with lazy loading and search](https://github.com/Torqvoice/torqvoice/pull/64) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Improve global search with multi-word matching](https://github.com/Torqvoice/torqvoice/pull/63) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Add more data types to backup export/import](https://github.com/Torqvoice/torqvoice/pull/62) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Resolve npm audit vulnerabilities in docs](https://github.com/sinamics/ztnet/pull/857) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Remove Go language from CodeQL workflow](https://github.com/sinamics/ztnet/pull/856) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Bump next from 16.1.6 to 16.1.7](https://github.com/sinamics/ztnet/pull/855) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Remove unused variables and fix useless assignments in settings and service pages](https://github.com/Torqvoice/torqvoice/pull/83) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix missing translation keys](https://github.com/Torqvoice/torqvoice/pull/82) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Removed unused code](https://github.com/Torqvoice/torqvoice/pull/81) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bump next and next-ws](https://github.com/Torqvoice/torqvoice/pull/80) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bumped jsdom](https://github.com/Torqvoice/torqvoice/pull/78) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add labor presets](https://github.com/Torqvoice/torqvoice/pull/77) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Fix PDF preview font rendering](https://github.com/Torqvoice/torqvoice/pull/76) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
 
 ### 📓 Gists I wrote
 
-- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (9 months ago)
+- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (10 months ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (3 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (3 years ago)
