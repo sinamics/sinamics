@@ -109,26 +109,26 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (4 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 week ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Resolve npm audit vulnerabilities in docs](https://github.com/sinamics/ztnet/pull/857) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Remove Go language from CodeQL workflow](https://github.com/sinamics/ztnet/pull/856) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Bump next from 16.1.6 to 16.1.7](https://github.com/sinamics/ztnet/pull/855) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Remove unused variables and fix useless assignments in settings and service pages](https://github.com/Torqvoice/torqvoice/pull/83) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Fix missing translation keys](https://github.com/Torqvoice/torqvoice/pull/82) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Removed unused code](https://github.com/Torqvoice/torqvoice/pull/81) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Bump next and next-ws](https://github.com/Torqvoice/torqvoice/pull/80) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Bumped jsdom](https://github.com/Torqvoice/torqvoice/pull/78) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Add labor presets](https://github.com/Torqvoice/torqvoice/pull/77) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Fix PDF preview font rendering](https://github.com/Torqvoice/torqvoice/pull/76) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Bumped socket.io-parser](https://github.com/sinamics/ztnet/pull/859) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Resolve npm audit vulnerabilities in docs](https://github.com/sinamics/ztnet/pull/857) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Remove Go language from CodeQL workflow](https://github.com/sinamics/ztnet/pull/856) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Bump next from 16.1.6 to 16.1.7](https://github.com/sinamics/ztnet/pull/855) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Remove unused variables and fix useless assignments in settings and service pages](https://github.com/Torqvoice/torqvoice/pull/83) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Fix missing translation keys](https://github.com/Torqvoice/torqvoice/pull/82) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Removed unused code](https://github.com/Torqvoice/torqvoice/pull/81) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Bump next and next-ws](https://github.com/Torqvoice/torqvoice/pull/80) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Bumped jsdom](https://github.com/Torqvoice/torqvoice/pull/78) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Add labor presets](https://github.com/Torqvoice/torqvoice/pull/77) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
