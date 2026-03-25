@@ -110,25 +110,25 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
-- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 week ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (6 days ago)
+- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 weeks ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add Telegram messaging integration](https://github.com/Torqvoice/torqvoice/pull/88) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Bump packages](https://github.com/Torqvoice/torqvoice/pull/87) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Bumped socket.io-parser](https://github.com/sinamics/ztnet/pull/859) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Resolve npm audit vulnerabilities in docs](https://github.com/sinamics/ztnet/pull/857) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Remove Go language from CodeQL workflow](https://github.com/sinamics/ztnet/pull/856) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Bump next from 16.1.6 to 16.1.7](https://github.com/sinamics/ztnet/pull/855) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Remove unused variables and fix useless assignments in settings and service pages](https://github.com/Torqvoice/torqvoice/pull/83) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Fix missing translation keys](https://github.com/Torqvoice/torqvoice/pull/82) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Removed unused code](https://github.com/Torqvoice/torqvoice/pull/81) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Bump next and next-ws](https://github.com/Torqvoice/torqvoice/pull/80) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Multi-image inventory with AI auto-fill](https://github.com/Torqvoice/torqvoice/pull/91) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add barcode scanning for inventory and work orders](https://github.com/Torqvoice/torqvoice/pull/90) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add boat service mode with configurable service type](https://github.com/Torqvoice/torqvoice/pull/89) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add Telegram messaging integration](https://github.com/Torqvoice/torqvoice/pull/88) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Bump packages](https://github.com/Torqvoice/torqvoice/pull/87) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Bumped socket.io-parser](https://github.com/sinamics/ztnet/pull/859) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Resolve npm audit vulnerabilities in docs](https://github.com/sinamics/ztnet/pull/857) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Remove Go language from CodeQL workflow](https://github.com/sinamics/ztnet/pull/856) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Bump next from 16.1.6 to 16.1.7](https://github.com/sinamics/ztnet/pull/855) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Remove unused variables and fix useless assignments in settings and service pages](https://github.com/Torqvoice/torqvoice/pull/83) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
