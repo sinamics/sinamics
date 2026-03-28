@@ -110,8 +110,8 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 weeks ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
@@ -119,16 +119,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Dashboard, workboard, and UX improvements](https://github.com/Torqvoice/torqvoice/pull/96) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Calendar date picker, and workboard improvements](https://github.com/Torqvoice/torqvoice/pull/95) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add service/flat-fee pricing type for labor items](https://github.com/Torqvoice/torqvoice/pull/94) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add net profit tracking and reporting for service parts](https://github.com/Torqvoice/torqvoice/pull/92) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Multi-image inventory with AI auto-fill](https://github.com/Torqvoice/torqvoice/pull/91) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add barcode scanning for inventory and work orders](https://github.com/Torqvoice/torqvoice/pull/90) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add boat service mode with configurable service type](https://github.com/Torqvoice/torqvoice/pull/89) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add Telegram messaging integration](https://github.com/Torqvoice/torqvoice/pull/88) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Bump packages](https://github.com/Torqvoice/torqvoice/pull/87) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Bumped socket.io-parser](https://github.com/sinamics/ztnet/pull/859) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Fix orphaned image cleanup when canceling inventory part dialog](https://github.com/Torqvoice/torqvoice/pull/105) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add bulk assign default technician to unassigned work orders](https://github.com/Torqvoice/torqvoice/pull/104) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Use organization logo for all public pages](https://github.com/Torqvoice/torqvoice/pull/103) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add a past due invoice report to the reports page.](https://github.com/Torqvoice/torqvoice/pull/102) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add status report management with feedback notifications](https://github.com/Torqvoice/torqvoice/pull/101) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add video upload to My Active Jobs dashboard](https://github.com/Torqvoice/torqvoice/pull/100) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add invoice date, due date, and payment status controls to work orders](https://github.com/Torqvoice/torqvoice/pull/99) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Improve mobile barcode scanning with quantity selection and drawer UI](https://github.com/Torqvoice/torqvoice/pull/97) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Dashboard, workboard, and UX improvements](https://github.com/Torqvoice/torqvoice/pull/96) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Calendar date picker, and workboard improvements](https://github.com/Torqvoice/torqvoice/pull/95) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
