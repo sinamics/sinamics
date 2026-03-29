@@ -110,7 +110,7 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (2 days ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 weeks ago)
@@ -119,16 +119,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Fix orphaned image cleanup when canceling inventory part dialog](https://github.com/Torqvoice/torqvoice/pull/105) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add bulk assign default technician to unassigned work orders](https://github.com/Torqvoice/torqvoice/pull/104) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Use organization logo for all public pages](https://github.com/Torqvoice/torqvoice/pull/103) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a past due invoice report to the reports page.](https://github.com/Torqvoice/torqvoice/pull/102) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add status report management with feedback notifications](https://github.com/Torqvoice/torqvoice/pull/101) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add video upload to My Active Jobs dashboard](https://github.com/Torqvoice/torqvoice/pull/100) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add invoice date, due date, and payment status controls to work orders](https://github.com/Torqvoice/torqvoice/pull/99) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Improve mobile barcode scanning with quantity selection and drawer UI](https://github.com/Torqvoice/torqvoice/pull/97) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Dashboard, workboard, and UX improvements](https://github.com/Torqvoice/torqvoice/pull/96) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Calendar date picker, and workboard improvements](https://github.com/Torqvoice/torqvoice/pull/95) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add license expiry warning banner and email notifications](https://github.com/Torqvoice/torqvoice/pull/113) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Improve inventory parts: category picker, markup fixes, and sortable table](https://github.com/Torqvoice/torqvoice/pull/112) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix dnd-kit hydration mismatch in part and labor editors](https://github.com/Torqvoice/torqvoice/pull/111) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Rename &#34;Boat&#34; service type to &#34;Marine&#34; with vessel terminology](https://github.com/Torqvoice/torqvoice/pull/110) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bump nodemailer, shadcn, vitest](https://github.com/Torqvoice/torqvoice/pull/109) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add drag-to-reorder, image lightbox, and scroll-safe number inputs](https://github.com/Torqvoice/torqvoice/pull/108) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix orphaned image cleanup when canceling inventory part dialog](https://github.com/Torqvoice/torqvoice/pull/105) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add bulk assign default technician to unassigned work orders](https://github.com/Torqvoice/torqvoice/pull/104) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Use organization logo for all public pages](https://github.com/Torqvoice/torqvoice/pull/103) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add a past due invoice report to the reports page.](https://github.com/Torqvoice/torqvoice/pull/102) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
