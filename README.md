@@ -110,7 +110,7 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 days ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (4 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 weeks ago)
@@ -119,16 +119,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Add license expiry warning banner and email notifications](https://github.com/Torqvoice/torqvoice/pull/113) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Improve inventory parts: category picker, markup fixes, and sortable table](https://github.com/Torqvoice/torqvoice/pull/112) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Fix dnd-kit hydration mismatch in part and labor editors](https://github.com/Torqvoice/torqvoice/pull/111) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Rename &#34;Boat&#34; service type to &#34;Marine&#34; with vessel terminology](https://github.com/Torqvoice/torqvoice/pull/110) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Bump nodemailer, shadcn, vitest](https://github.com/Torqvoice/torqvoice/pull/109) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add drag-to-reorder, image lightbox, and scroll-safe number inputs](https://github.com/Torqvoice/torqvoice/pull/108) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Fix orphaned image cleanup when canceling inventory part dialog](https://github.com/Torqvoice/torqvoice/pull/105) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add bulk assign default technician to unassigned work orders](https://github.com/Torqvoice/torqvoice/pull/104) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Use organization logo for all public pages](https://github.com/Torqvoice/torqvoice/pull/103) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add a past due invoice report to the reports page.](https://github.com/Torqvoice/torqvoice/pull/102) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add service history PDF export per vehicle ](https://github.com/Torqvoice/torqvoice/pull/117) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add quick-create menu in header with &#43; shortcut](https://github.com/Torqvoice/torqvoice/pull/116) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add reports date range picker, PDF export, and scheduled report delivery](https://github.com/Torqvoice/torqvoice/pull/115) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Replace dashboard revenue with total parts, fix active jobs count, and improve mobile nav drawer](https://github.com/Torqvoice/torqvoice/pull/114) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add license expiry warning banner and email notifications](https://github.com/Torqvoice/torqvoice/pull/113) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Improve inventory parts: category picker, markup fixes, and sortable table](https://github.com/Torqvoice/torqvoice/pull/112) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Fix dnd-kit hydration mismatch in part and labor editors](https://github.com/Torqvoice/torqvoice/pull/111) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Rename &#34;Boat&#34; service type to &#34;Marine&#34; with vessel terminology](https://github.com/Torqvoice/torqvoice/pull/110) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Bump nodemailer, shadcn, vitest](https://github.com/Torqvoice/torqvoice/pull/109) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add drag-to-reorder, image lightbox, and scroll-safe number inputs](https://github.com/Torqvoice/torqvoice/pull/108) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
