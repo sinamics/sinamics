@@ -103,8 +103,6 @@ const bernt = {
     </td>
     <td width="50%">
     </td>
-  </tr>
-   <tr>
     <td width="50%">
       <h3 align="center">SexyPDF.com</h3>
       <p align="center">
