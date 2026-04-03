@@ -104,6 +104,19 @@ const bernt = {
     <td width="50%">
     </td>
   </tr>
+   <tr>
+    <td width="50%">
+      <h3 align="center">SexyPDF.com</h3>
+      <p align="center">
+        <a href="https://sexypdf.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
+        </a>
+      </p>
+      <p align="center">Merge, split, compress and convert your PDF documents and pages, all in one place. No installation needed, fast and secure.</p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 ---
 
