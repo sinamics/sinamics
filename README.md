@@ -104,12 +104,25 @@ const bernt = {
     <td width="50%">
     </td>
   </tr>
+   <tr>
+    <td width="50%">
+      <h3 align="center">SexyPDF.com</h3>
+      <p align="center">
+        <a href="https://sexypdf.com" target="_blank">
+          <img src="https://img.shields.io/badge/🌐-Visit_Site-blue" alt="Website">
+        </a>
+      </p>
+      <p align="center">Merge, split, compress and convert your PDF documents and pages, all in one place. No installation needed, fast and secure.</p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 ---
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (4 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
@@ -119,6 +132,8 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
+- [Default quantity to 1 and fix AI part analysis language](https://github.com/Torqvoice/torqvoice/pull/120) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Add bulk delete to inventory page](https://github.com/Torqvoice/torqvoice/pull/119) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
 - [Upgrade Prisma ORM from v6 to v7](https://github.com/Torqvoice/torqvoice/pull/118) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 - [Add service history PDF export per vehicle ](https://github.com/Torqvoice/torqvoice/pull/117) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
 - [Add quick-create menu in header with &#43; shortcut](https://github.com/Torqvoice/torqvoice/pull/116) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
@@ -127,8 +142,6 @@ const bernt = {
 - [Add license expiry warning banner and email notifications](https://github.com/Torqvoice/torqvoice/pull/113) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 - [Improve inventory parts: category picker, markup fixes, and sortable table](https://github.com/Torqvoice/torqvoice/pull/112) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 - [Fix dnd-kit hydration mismatch in part and labor editors](https://github.com/Torqvoice/torqvoice/pull/111) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Rename &#34;Boat&#34; service type to &#34;Marine&#34; with vessel terminology](https://github.com/Torqvoice/torqvoice/pull/110) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Bump nodemailer, shadcn, vitest](https://github.com/Torqvoice/torqvoice/pull/109) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
