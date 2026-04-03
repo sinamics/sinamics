@@ -102,8 +102,6 @@ const bernt = {
       <p align="center">Time-based messaging platform to send emails and physical letters to the future. Features military-grade encryption, worldwide postal delivery, and secure file hosting.</p>
     </td>
     <td width="50%">
-    </td>
-    <td width="50%">
       <h3 align="center">SexyPDF.com</h3>
       <p align="center">
         <a href="https://sexypdf.com" target="_blank">
