@@ -110,8 +110,6 @@ const bernt = {
       </p>
       <p align="center">Merge, split, compress and convert your PDF documents and pages, all in one place. No installation needed, fast and secure.</p>
     </td>
-    <td width="50%">
-    </td>
   </tr>
 </table>
 ---
