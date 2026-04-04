@@ -116,9 +116,9 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 week ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (3 weeks ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
@@ -126,16 +126,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Default quantity to 1 and fix AI part analysis language](https://github.com/Torqvoice/torqvoice/pull/120) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
-- [Add bulk delete to inventory page](https://github.com/Torqvoice/torqvoice/pull/119) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
-- [Upgrade Prisma ORM from v6 to v7](https://github.com/Torqvoice/torqvoice/pull/118) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Add service history PDF export per vehicle ](https://github.com/Torqvoice/torqvoice/pull/117) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Add quick-create menu in header with &#43; shortcut](https://github.com/Torqvoice/torqvoice/pull/116) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Add reports date range picker, PDF export, and scheduled report delivery](https://github.com/Torqvoice/torqvoice/pull/115) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Replace dashboard revenue with total parts, fix active jobs count, and improve mobile nav drawer](https://github.com/Torqvoice/torqvoice/pull/114) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Add license expiry warning banner and email notifications](https://github.com/Torqvoice/torqvoice/pull/113) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Improve inventory parts: category picker, markup fixes, and sortable table](https://github.com/Torqvoice/torqvoice/pull/112) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Fix dnd-kit hydration mismatch in part and labor editors](https://github.com/Torqvoice/torqvoice/pull/111) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add vehicle observations feature](https://github.com/Torqvoice/torqvoice/pull/121) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Default quantity to 1 and fix AI part analysis language](https://github.com/Torqvoice/torqvoice/pull/120) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add bulk delete to inventory page](https://github.com/Torqvoice/torqvoice/pull/119) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Upgrade Prisma ORM from v6 to v7](https://github.com/Torqvoice/torqvoice/pull/118) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Add service history PDF export per vehicle ](https://github.com/Torqvoice/torqvoice/pull/117) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add quick-create menu in header with &#43; shortcut](https://github.com/Torqvoice/torqvoice/pull/116) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add reports date range picker, PDF export, and scheduled report delivery](https://github.com/Torqvoice/torqvoice/pull/115) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Replace dashboard revenue with total parts, fix active jobs count, and improve mobile nav drawer](https://github.com/Torqvoice/torqvoice/pull/114) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add license expiry warning banner and email notifications](https://github.com/Torqvoice/torqvoice/pull/113) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Improve inventory parts: category picker, markup fixes, and sortable table](https://github.com/Torqvoice/torqvoice/pull/112) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
