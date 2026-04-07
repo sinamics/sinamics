@@ -117,7 +117,7 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (3 weeks ago)
@@ -126,14 +126,14 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Bump better-auth to 1.5.6](https://github.com/Torqvoice/torqvoice/pull/126) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Force workshop language on customer-facing pages](https://github.com/Torqvoice/torqvoice/pull/125) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Bump install.ztnet dependencies](https://github.com/sinamics/ztnet/pull/876) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Bump dependency packages](https://github.com/sinamics/ztnet/pull/875) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Add Notify Customer button to work order header](https://github.com/Torqvoice/torqvoice/pull/123) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add vehicle observations feature](https://github.com/Torqvoice/torqvoice/pull/121) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Default quantity to 1 and fix AI part analysis language](https://github.com/Torqvoice/torqvoice/pull/120) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add bulk delete to inventory page](https://github.com/Torqvoice/torqvoice/pull/119) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Bump better-auth to 1.5.6](https://github.com/Torqvoice/torqvoice/pull/126) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Force workshop language on customer-facing pages](https://github.com/Torqvoice/torqvoice/pull/125) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Bump install.ztnet dependencies](https://github.com/sinamics/ztnet/pull/876) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Bump dependency packages](https://github.com/sinamics/ztnet/pull/875) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Add Notify Customer button to work order header](https://github.com/Torqvoice/torqvoice/pull/123) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add vehicle observations feature](https://github.com/Torqvoice/torqvoice/pull/121) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Default quantity to 1 and fix AI part analysis language](https://github.com/Torqvoice/torqvoice/pull/120) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add bulk delete to inventory page](https://github.com/Torqvoice/torqvoice/pull/119) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 - [Upgrade Prisma ORM from v6 to v7](https://github.com/Torqvoice/torqvoice/pull/118) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Add service history PDF export per vehicle ](https://github.com/Torqvoice/torqvoice/pull/117) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
