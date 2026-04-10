@@ -116,26 +116,26 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (2 weeks ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
-- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 weeks ago)
+- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 month ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add net profit breakdown to financial and spare parts reports](https://github.com/Torqvoice/torqvoice/pull/128) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Bump better-auth to 1.5.6](https://github.com/Torqvoice/torqvoice/pull/126) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Force workshop language on customer-facing pages](https://github.com/Torqvoice/torqvoice/pull/125) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Bump install.ztnet dependencies](https://github.com/sinamics/ztnet/pull/876) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Bump dependency packages](https://github.com/sinamics/ztnet/pull/875) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Add Notify Customer button to work order header](https://github.com/Torqvoice/torqvoice/pull/123) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Add vehicle observations feature](https://github.com/Torqvoice/torqvoice/pull/121) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Default quantity to 1 and fix AI part analysis language](https://github.com/Torqvoice/torqvoice/pull/120) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Add bulk delete to inventory page](https://github.com/Torqvoice/torqvoice/pull/119) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Upgrade Prisma ORM from v6 to v7](https://github.com/Torqvoice/torqvoice/pull/118) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Add individual vehicle reports](https://github.com/Torqvoice/torqvoice/pull/135) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add Lithuanian (lt) translations](https://github.com/Torqvoice/torqvoice/pull/133) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bump prisma, nodemailer, vitest](https://github.com/Torqvoice/torqvoice/pull/132) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add net profit breakdown to financial and spare parts reports](https://github.com/Torqvoice/torqvoice/pull/128) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Bump better-auth to 1.5.6](https://github.com/Torqvoice/torqvoice/pull/126) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Force workshop language on customer-facing pages](https://github.com/Torqvoice/torqvoice/pull/125) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Bump install.ztnet dependencies](https://github.com/sinamics/ztnet/pull/876) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Bump dependency packages](https://github.com/sinamics/ztnet/pull/875) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Add Notify Customer button to work order header](https://github.com/Torqvoice/torqvoice/pull/123) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add vehicle observations feature](https://github.com/Torqvoice/torqvoice/pull/121) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -151,7 +151,7 @@ const bernt = {
 ### ⭐ Recent Stars
 
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
-- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (10 months ago)
+- [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (11 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 year ago)
