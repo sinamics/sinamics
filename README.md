@@ -126,16 +126,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Fix: technician name on invoice gets overwritten on autosave](https://github.com/Torqvoice/torqvoice/pull/139) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Tax system: inclusive mode, customer tax fields, universal invoice display](https://github.com/Torqvoice/torqvoice/pull/138) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add individual vehicle reports](https://github.com/Torqvoice/torqvoice/pull/135) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add Lithuanian (lt) translations](https://github.com/Torqvoice/torqvoice/pull/133) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Bump prisma, nodemailer, vitest](https://github.com/Torqvoice/torqvoice/pull/132) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add net profit breakdown to financial and spare parts reports](https://github.com/Torqvoice/torqvoice/pull/128) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Bump better-auth to 1.5.6](https://github.com/Torqvoice/torqvoice/pull/126) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Force workshop language on customer-facing pages](https://github.com/Torqvoice/torqvoice/pull/125) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Bump install.ztnet dependencies](https://github.com/sinamics/ztnet/pull/876) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bump dependency packages](https://github.com/sinamics/ztnet/pull/875) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Customer portal: directory, landing, downloads, SMS sign-in](https://github.com/Torqvoice/torqvoice/pull/144) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add Recent Observations dashboard card and /observations page](https://github.com/Torqvoice/torqvoice/pull/143) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [chore(deps): bump Node to 22 and update runtime packages](https://github.com/Torqvoice/torqvoice/pull/142) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix: technician name on invoice gets overwritten on autosave](https://github.com/Torqvoice/torqvoice/pull/139) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Tax system: inclusive mode, customer tax fields, universal invoice display](https://github.com/Torqvoice/torqvoice/pull/138) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add individual vehicle reports](https://github.com/Torqvoice/torqvoice/pull/135) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add Lithuanian (lt) translations](https://github.com/Torqvoice/torqvoice/pull/133) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Bump prisma, nodemailer, vitest](https://github.com/Torqvoice/torqvoice/pull/132) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add net profit breakdown to financial and spare parts reports](https://github.com/Torqvoice/torqvoice/pull/128) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Bump better-auth to 1.5.6](https://github.com/Torqvoice/torqvoice/pull/126) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -150,7 +150,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (1 month ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (11 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
