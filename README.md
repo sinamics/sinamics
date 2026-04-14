@@ -116,26 +116,26 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (2 weeks ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 month ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (5 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add warranty tracking to service records](https://github.com/Torqvoice/torqvoice/pull/148) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add parts support to service packages](https://github.com/Torqvoice/torqvoice/pull/147) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Multitenancy hardening and test coverage](https://github.com/Torqvoice/torqvoice/pull/146) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Hide portal directory in cloud mode](https://github.com/Torqvoice/torqvoice/pull/145) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Customer portal: directory, landing, downloads, SMS sign-in](https://github.com/Torqvoice/torqvoice/pull/144) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add Recent Observations dashboard card and /observations page](https://github.com/Torqvoice/torqvoice/pull/143) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [chore(deps): bump Node to 22 and update runtime packages](https://github.com/Torqvoice/torqvoice/pull/142) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Fix: technician name on invoice gets overwritten on autosave](https://github.com/Torqvoice/torqvoice/pull/139) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Tax system: inclusive mode, customer tax fields, universal invoice display](https://github.com/Torqvoice/torqvoice/pull/138) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add individual vehicle reports](https://github.com/Torqvoice/torqvoice/pull/135) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add warranty tracking to service records](https://github.com/Torqvoice/torqvoice/pull/148) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add parts support to service packages](https://github.com/Torqvoice/torqvoice/pull/147) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Multitenancy hardening and test coverage](https://github.com/Torqvoice/torqvoice/pull/146) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Hide portal directory in cloud mode](https://github.com/Torqvoice/torqvoice/pull/145) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Customer portal: directory, landing, downloads, SMS sign-in](https://github.com/Torqvoice/torqvoice/pull/144) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add Recent Observations dashboard card and /observations page](https://github.com/Torqvoice/torqvoice/pull/143) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [chore(deps): bump Node to 22 and update runtime packages](https://github.com/Torqvoice/torqvoice/pull/142) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Fix: technician name on invoice gets overwritten on autosave](https://github.com/Torqvoice/torqvoice/pull/139) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Tax system: inclusive mode, customer tax fields, universal invoice display](https://github.com/Torqvoice/torqvoice/pull/138) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add individual vehicle reports](https://github.com/Torqvoice/torqvoice/pull/135) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
