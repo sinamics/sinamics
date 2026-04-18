@@ -116,33 +116,33 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (6 days ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 month ago)
-- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (2 months ago)
+- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (3 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (6 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Bump axios to v1.15.0](https://github.com/sinamics/ztnet/pull/888) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Migrate from next-auth to better-auth](https://github.com/sinamics/ztnet/pull/885) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Prevent duplicate OAuth accounts after email rename (Gmail)](https://github.com/sinamics/ztnet/pull/884) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Add warranty tracking to service records](https://github.com/Torqvoice/torqvoice/pull/148) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Add parts support to service packages](https://github.com/Torqvoice/torqvoice/pull/147) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Multitenancy hardening and test coverage](https://github.com/Torqvoice/torqvoice/pull/146) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Hide portal directory in cloud mode](https://github.com/Torqvoice/torqvoice/pull/145) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Customer portal: directory, landing, downloads, SMS sign-in](https://github.com/Torqvoice/torqvoice/pull/144) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Add Recent Observations dashboard card and /observations page](https://github.com/Torqvoice/torqvoice/pull/143) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [chore(deps): bump Node to 22 and update runtime packages](https://github.com/Torqvoice/torqvoice/pull/142) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Bump axios to v1.15.0](https://github.com/sinamics/ztnet/pull/888) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Migrate from next-auth to better-auth](https://github.com/sinamics/ztnet/pull/885) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Prevent duplicate OAuth accounts after email rename (Gmail)](https://github.com/sinamics/ztnet/pull/884) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Add warranty tracking to service records](https://github.com/Torqvoice/torqvoice/pull/148) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add parts support to service packages](https://github.com/Torqvoice/torqvoice/pull/147) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Multitenancy hardening and test coverage](https://github.com/Torqvoice/torqvoice/pull/146) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Hide portal directory in cloud mode](https://github.com/Torqvoice/torqvoice/pull/145) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Customer portal: directory, landing, downloads, SMS sign-in](https://github.com/Torqvoice/torqvoice/pull/144) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Add Recent Observations dashboard card and /observations page](https://github.com/Torqvoice/torqvoice/pull/143) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [chore(deps): bump Node to 22 and update runtime packages](https://github.com/Torqvoice/torqvoice/pull/142) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
 
 ### 📓 Gists I wrote
 
-- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (10 months ago)
+- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (11 months ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (3 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (3 years ago)
