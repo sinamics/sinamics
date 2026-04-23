@@ -116,10 +116,10 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 week ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 weeks ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (4 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 month ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (3 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (6 months ago)
