@@ -116,10 +116,10 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 week ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (4 weeks ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 month ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (3 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (6 months ago)
@@ -133,9 +133,9 @@ const bernt = {
 - [Add parts support to service packages](https://github.com/Torqvoice/torqvoice/pull/147) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Multitenancy hardening and test coverage](https://github.com/Torqvoice/torqvoice/pull/146) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Hide portal directory in cloud mode](https://github.com/Torqvoice/torqvoice/pull/145) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Customer portal: directory, landing, downloads, SMS sign-in](https://github.com/Torqvoice/torqvoice/pull/144) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Add Recent Observations dashboard card and /observations page](https://github.com/Torqvoice/torqvoice/pull/143) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [chore(deps): bump Node to 22 and update runtime packages](https://github.com/Torqvoice/torqvoice/pull/142) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Customer portal: directory, landing, downloads, SMS sign-in](https://github.com/Torqvoice/torqvoice/pull/144) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
+- [Add Recent Observations dashboard card and /observations page](https://github.com/Torqvoice/torqvoice/pull/143) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
+- [chore(deps): bump Node to 22 and update runtime packages](https://github.com/Torqvoice/torqvoice/pull/142) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -155,7 +155,7 @@ const bernt = {
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 year ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 year ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 years ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 years ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 years ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 years ago)
