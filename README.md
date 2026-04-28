@@ -116,8 +116,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (1 month ago)
@@ -126,14 +126,14 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Fix work order page body scroll &#43; add Ctrl&#43;S to save](https://github.com/Torqvoice/torqvoice/pull/157) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Fix Notes overflow &#43; add link support](https://github.com/Torqvoice/torqvoice/pull/155) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Make service documents clickable to view in browser](https://github.com/Torqvoice/torqvoice/pull/154) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Harden better-auth migration: OAuth, password sync, security checks](https://github.com/sinamics/ztnet/pull/895) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Bump dependencies](https://github.com/sinamics/ztnet/pull/894) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Bump axios to v1.15.0](https://github.com/sinamics/ztnet/pull/888) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Migrate from next-auth to better-auth](https://github.com/sinamics/ztnet/pull/885) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Prevent duplicate OAuth accounts after email rename (Gmail)](https://github.com/sinamics/ztnet/pull/884) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Fix work order page body scroll &#43; add Ctrl&#43;S to save](https://github.com/Torqvoice/torqvoice/pull/157) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Fix Notes overflow &#43; add link support](https://github.com/Torqvoice/torqvoice/pull/155) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Make service documents clickable to view in browser](https://github.com/Torqvoice/torqvoice/pull/154) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Harden better-auth migration: OAuth, password sync, security checks](https://github.com/sinamics/ztnet/pull/895) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Bump dependencies](https://github.com/sinamics/ztnet/pull/894) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Bump axios to v1.15.0](https://github.com/sinamics/ztnet/pull/888) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Migrate from next-auth to better-auth](https://github.com/sinamics/ztnet/pull/885) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Prevent duplicate OAuth accounts after email rename (Gmail)](https://github.com/sinamics/ztnet/pull/884) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Add warranty tracking to service records](https://github.com/Torqvoice/torqvoice/pull/148) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Add parts support to service packages](https://github.com/Torqvoice/torqvoice/pull/147) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 
