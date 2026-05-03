@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 month ago)
@@ -126,12 +126,12 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Add Observation shortcut to My Active Jobs](https://github.com/Torqvoice/torqvoice/pull/160) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Webhooks with HMAC signing, SSRF guard, retry, and i18n](https://github.com/Torqvoice/torqvoice/pull/159) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Notes UX, a11y, i18n, and loading-state polish](https://github.com/Torqvoice/torqvoice/pull/158) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Fix work order page body scroll &#43; add Ctrl&#43;S to save](https://github.com/Torqvoice/torqvoice/pull/157) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Fix Notes overflow &#43; add link support](https://github.com/Torqvoice/torqvoice/pull/155) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Make service documents clickable to view in browser](https://github.com/Torqvoice/torqvoice/pull/154) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add Observation shortcut to My Active Jobs](https://github.com/Torqvoice/torqvoice/pull/160) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Webhooks with HMAC signing, SSRF guard, retry, and i18n](https://github.com/Torqvoice/torqvoice/pull/159) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Notes UX, a11y, i18n, and loading-state polish](https://github.com/Torqvoice/torqvoice/pull/158) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Fix work order page body scroll &#43; add Ctrl&#43;S to save](https://github.com/Torqvoice/torqvoice/pull/157) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Fix Notes overflow &#43; add link support](https://github.com/Torqvoice/torqvoice/pull/155) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Make service documents clickable to view in browser](https://github.com/Torqvoice/torqvoice/pull/154) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Harden better-auth migration: OAuth, password sync, security checks](https://github.com/sinamics/ztnet/pull/895) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bump dependencies](https://github.com/sinamics/ztnet/pull/894) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Bump axios to v1.15.0](https://github.com/sinamics/ztnet/pull/888) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
@@ -150,6 +150,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (2 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (11 months ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
@@ -159,7 +160,6 @@ const bernt = {
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 years ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 years ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 years ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 years ago)
 
 ### 👯 Recent Followers
 
