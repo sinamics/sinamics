@@ -116,10 +116,10 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 week ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (2 weeks ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 weeks ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (4 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (7 months ago)
@@ -133,7 +133,7 @@ const bernt = {
 - [Add LKR &#43; 21 currencies, Symbol/Code format, PDF font fixes](https://github.com/Torqvoice/torqvoice/pull/163) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Fix shared invoice checkout and translate payment terms days](https://github.com/Torqvoice/torqvoice/pull/162) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Add engine code field to vehicles](https://github.com/Torqvoice/torqvoice/pull/161) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Improvements](https://github.com/sinamics/krono/pull/2) on [sinamics/krono](https://github.com/sinamics/krono) (2 weeks ago)
+- [Improvements](https://github.com/sinamics/krono/pull/2) on [sinamics/krono](https://github.com/sinamics/krono) (3 weeks ago)
 - [Add Observation shortcut to My Active Jobs](https://github.com/Torqvoice/torqvoice/pull/160) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Webhooks with HMAC signing, SSRF guard, retry, and i18n](https://github.com/Torqvoice/torqvoice/pull/159) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 
