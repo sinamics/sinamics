@@ -116,8 +116,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (6 days ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 months ago)
@@ -126,9 +126,9 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 - [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Simplify expired-dates dialog and prune unused deps](https://github.com/Torqvoice/torqvoice/pull/172) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Bump dependencies](https://github.com/Torqvoice/torqvoice/pull/171) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Add LKR &#43; 21 currencies, Symbol/Code format, PDF font fixes](https://github.com/Torqvoice/torqvoice/pull/163) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
