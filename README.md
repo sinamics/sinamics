@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (4 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (5 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (3 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
@@ -126,11 +126,11 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Simplify expired-dates dialog and prune unused deps](https://github.com/Torqvoice/torqvoice/pull/172) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Bump dependencies](https://github.com/Torqvoice/torqvoice/pull/171) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
+- [Simplify expired-dates dialog and prune unused deps](https://github.com/Torqvoice/torqvoice/pull/172) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
+- [Bump dependencies](https://github.com/Torqvoice/torqvoice/pull/171) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Add LKR &#43; 21 currencies, Symbol/Code format, PDF font fixes](https://github.com/Torqvoice/torqvoice/pull/163) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Fix shared invoice checkout and translate payment terms days](https://github.com/Torqvoice/torqvoice/pull/162) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Add engine code field to vehicles](https://github.com/Torqvoice/torqvoice/pull/161) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
@@ -150,7 +150,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 weeks ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (3 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (1 year ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
