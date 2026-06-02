@@ -131,9 +131,9 @@ const bernt = {
 - [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Simplify expired-dates dialog and prune unused deps](https://github.com/Torqvoice/torqvoice/pull/172) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Bump dependencies](https://github.com/Torqvoice/torqvoice/pull/171) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
-- [Add LKR &#43; 21 currencies, Symbol/Code format, PDF font fixes](https://github.com/Torqvoice/torqvoice/pull/163) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
-- [Fix shared invoice checkout and translate payment terms days](https://github.com/Torqvoice/torqvoice/pull/162) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
-- [Add engine code field to vehicles](https://github.com/Torqvoice/torqvoice/pull/161) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
+- [Add LKR &#43; 21 currencies, Symbol/Code format, PDF font fixes](https://github.com/Torqvoice/torqvoice/pull/163) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
+- [Fix shared invoice checkout and translate payment terms days](https://github.com/Torqvoice/torqvoice/pull/162) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
+- [Add engine code field to vehicles](https://github.com/Torqvoice/torqvoice/pull/161) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
 - [Improvements](https://github.com/sinamics/krono/pull/2) on [sinamics/krono](https://github.com/sinamics/krono) (4 weeks ago)
 - [Add Observation shortcut to My Active Jobs](https://github.com/Torqvoice/torqvoice/pull/160) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
 
