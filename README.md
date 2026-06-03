@@ -118,7 +118,7 @@ const bernt = {
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
-- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (4 weeks ago)
+- [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (4 months ago)
@@ -128,13 +128,13 @@ const bernt = {
 
 - [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
+- [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Simplify expired-dates dialog and prune unused deps](https://github.com/Torqvoice/torqvoice/pull/172) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Bump dependencies](https://github.com/Torqvoice/torqvoice/pull/171) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Add LKR &#43; 21 currencies, Symbol/Code format, PDF font fixes](https://github.com/Torqvoice/torqvoice/pull/163) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
 - [Fix shared invoice checkout and translate payment terms days](https://github.com/Torqvoice/torqvoice/pull/162) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
 - [Add engine code field to vehicles](https://github.com/Torqvoice/torqvoice/pull/161) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
-- [Improvements](https://github.com/sinamics/krono/pull/2) on [sinamics/krono](https://github.com/sinamics/krono) (4 weeks ago)
+- [Improvements](https://github.com/sinamics/krono/pull/2) on [sinamics/krono](https://github.com/sinamics/krono) (1 month ago)
 - [Add Observation shortcut to My Active Jobs](https://github.com/Torqvoice/torqvoice/pull/160) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
 
 <details>
