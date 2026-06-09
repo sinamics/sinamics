@@ -120,7 +120,7 @@ const bernt = {
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
-- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (2 months ago)
+- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (3 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (4 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (7 months ago)
 
