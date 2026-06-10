@@ -128,7 +128,7 @@ const bernt = {
 
 - [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
-- [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
+- [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
 - [Simplify expired-dates dialog and prune unused deps](https://github.com/Torqvoice/torqvoice/pull/172) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
 - [Bump dependencies](https://github.com/Torqvoice/torqvoice/pull/171) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
 - [Add LKR &#43; 21 currencies, Symbol/Code format, PDF font fixes](https://github.com/Torqvoice/torqvoice/pull/163) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
