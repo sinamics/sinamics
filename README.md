@@ -127,7 +127,7 @@ const bernt = {
 ## 🔨 Recent Pull Requests
 
 - [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
+- [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 weeks ago)
 - [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
 - [Simplify expired-dates dialog and prune unused deps](https://github.com/Torqvoice/torqvoice/pull/172) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
 - [Bump dependencies](https://github.com/Torqvoice/torqvoice/pull/171) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
@@ -143,7 +143,7 @@ const bernt = {
 ### 📓 Gists I wrote
 
 - [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (1 year ago)
-- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (2 years ago)
+- [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (3 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (3 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (3 years ago)
 - [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (3 years ago)
