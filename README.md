@@ -116,8 +116,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 weeks ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (3 months ago)
@@ -126,8 +126,8 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Add option to set markup for parts](https://github.com/Torqvoice/torqvoice/pull/187) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [workboard assign/move actions to the active organization](https://github.com/Torqvoice/torqvoice/pull/186) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add option to set markup for parts](https://github.com/Torqvoice/torqvoice/pull/187) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [workboard assign/move actions to the active organization](https://github.com/Torqvoice/torqvoice/pull/186) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 - [Remove internal service notes to customer-facing invoices](https://github.com/Torqvoice/torqvoice/pull/180) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 weeks ago)
 - [Reduce sign-in &amp; sign-up friction](https://github.com/Torqvoice/torqvoice/pull/178) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
 - [chore(deps): bump packages](https://github.com/Torqvoice/torqvoice/pull/177) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 month ago)
@@ -155,7 +155,7 @@ const bernt = {
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (1 year ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (1 year ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (1 year ago)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 years ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 years ago)
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 years ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 years ago)
