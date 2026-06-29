@@ -126,16 +126,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [fix(members): &#34;show all&#34; pagination](https://github.com/sinamics/ztnet/pull/940) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [fix(members): restore IP column sorting](https://github.com/sinamics/ztnet/pull/939) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [fix: resolve CodeQL code-scanning alerts](https://github.com/sinamics/ztnet/pull/937) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [fix(networks): sort network list by member count](https://github.com/sinamics/ztnet/pull/936) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [chore(deps): npm audit fixes; pin daisyUI to v4](https://github.com/sinamics/ztnet/pull/935) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [DB-first member sync &#43; live WebSocket updates](https://github.com/sinamics/ztnet/pull/934) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Refactor network members table: responsive layout &#43; fix IPv6 overflow &amp; edit focus loss](https://github.com/sinamics/ztnet/pull/933) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Fix: prevent modifying stashed members via API, add deleted:false restore](https://github.com/sinamics/ztnet/pull/932) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [fix(members): &#34;show all&#34; pagination](https://github.com/sinamics/ztnet/pull/940) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [fix(members): restore IP column sorting](https://github.com/sinamics/ztnet/pull/939) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [fix: resolve CodeQL code-scanning alerts](https://github.com/sinamics/ztnet/pull/937) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [fix(networks): sort network list by member count](https://github.com/sinamics/ztnet/pull/936) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [chore(deps): npm audit fixes; pin daisyUI to v4](https://github.com/sinamics/ztnet/pull/935) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [DB-first member sync &#43; live WebSocket updates](https://github.com/sinamics/ztnet/pull/934) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Refactor network members table: responsive layout &#43; fix IPv6 overflow &amp; edit focus loss](https://github.com/sinamics/ztnet/pull/933) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
