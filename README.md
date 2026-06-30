@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 week ago)
 - [sinamics/krono](https://github.com/sinamics/krono) - Regnskaps og faktureringsapp for ENK. (1 month ago)
@@ -126,16 +126,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [fix(members): &#34;show all&#34; pagination](https://github.com/sinamics/ztnet/pull/940) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [fix(members): restore IP column sorting](https://github.com/sinamics/ztnet/pull/939) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [fix: resolve CodeQL code-scanning alerts](https://github.com/sinamics/ztnet/pull/937) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [fix(networks): sort network list by member count](https://github.com/sinamics/ztnet/pull/936) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [chore(deps): npm audit fixes; pin daisyUI to v4](https://github.com/sinamics/ztnet/pull/935) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [DB-first member sync &#43; live WebSocket updates](https://github.com/sinamics/ztnet/pull/934) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Refactor network members table: responsive layout &#43; fix IPv6 overflow &amp; edit focus loss](https://github.com/sinamics/ztnet/pull/933) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [fix(members): &#34;show all&#34; pagination](https://github.com/sinamics/ztnet/pull/940) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [fix(members): restore IP column sorting](https://github.com/sinamics/ztnet/pull/939) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [fix: resolve CodeQL code-scanning alerts](https://github.com/sinamics/ztnet/pull/937) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [fix(networks): sort network list by member count](https://github.com/sinamics/ztnet/pull/936) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [chore(deps): npm audit fixes; pin daisyUI to v4](https://github.com/sinamics/ztnet/pull/935) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [DB-first member sync &#43; live WebSocket updates](https://github.com/sinamics/ztnet/pull/934) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Refactor network members table: responsive layout &#43; fix IPv6 overflow &amp; edit focus loss](https://github.com/sinamics/ztnet/pull/933) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
