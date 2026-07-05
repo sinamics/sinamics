@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (3 months ago)
@@ -125,7 +125,7 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [fix(members): &#34;show all&#34; pagination](https://github.com/sinamics/ztnet/pull/940) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
