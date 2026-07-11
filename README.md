@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 months ago)
@@ -126,8 +126,8 @@ const bernt = {
 ## 🔨 Recent Pull Requests
 
 - [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [fix(members): &#34;show all&#34; pagination](https://github.com/sinamics/ztnet/pull/940) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [fix(members): restore IP column sorting](https://github.com/sinamics/ztnet/pull/939) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [fix: resolve CodeQL code-scanning alerts](https://github.com/sinamics/ztnet/pull/937) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
@@ -150,7 +150,7 @@ const bernt = {
 ### ⭐ Recent Stars
 
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 months ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (4 months ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (5 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (1 year ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (1 year ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (2 years ago)
