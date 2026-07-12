@@ -116,8 +116,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (5 months ago)
@@ -125,16 +125,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
+- [Node Name column blank on load &#43; service worker precache error](https://github.com/sinamics/ztnet/pull/954) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [fix(routes): eliminate duplicate managed routes](https://github.com/sinamics/ztnet/pull/953) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [fix(auth): account update crashes when no password fields sent](https://github.com/sinamics/ztnet/pull/952) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [fix(auth): store emailVerified as Boolean for better-auth](https://github.com/sinamics/ztnet/pull/951) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [fix(routes): prevent duplicate managed routes](https://github.com/sinamics/ztnet/pull/950) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [fix(auth): remove unused invalidateUser endpoint](https://github.com/sinamics/ztnet/pull/941) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [fix(members): &#34;show all&#34; pagination](https://github.com/sinamics/ztnet/pull/940) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [fix(members): restore IP column sorting](https://github.com/sinamics/ztnet/pull/939) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [fix: resolve CodeQL code-scanning alerts](https://github.com/sinamics/ztnet/pull/937) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [fix(networks): sort network list by member count](https://github.com/sinamics/ztnet/pull/936) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [chore(deps): npm audit fixes; pin daisyUI to v4](https://github.com/sinamics/ztnet/pull/935) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [DB-first member sync &#43; live WebSocket updates](https://github.com/sinamics/ztnet/pull/934) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Refactor network members table: responsive layout &#43; fix IPv6 overflow &amp; edit focus loss](https://github.com/sinamics/ztnet/pull/933) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -162,11 +162,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [chrisipanaque](https://github.com/chrisipanaque)
 - [dkapt](https://github.com/dkapt)
 - [shengcun1981](https://github.com/shengcun1981)
 - [Neelagiri65](https://github.com/Neelagiri65)
 - [ijustwant](https://github.com/ijustwant)
-- [Greattobehere](https://github.com/Greattobehere)
 
 </details>
 
