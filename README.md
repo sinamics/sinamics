@@ -116,8 +116,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (6 months ago)
@@ -125,15 +125,15 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [chore(deps): apply safe npm audit fixes &#43; bump jsdom](https://github.com/Torqvoice/torqvoice/pull/190) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Fix untranslated English labels in French quote/invoice PDFs](https://github.com/Torqvoice/torqvoice/pull/189) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Fix PWA service worker breaking navigation with a cached redirect](https://github.com/sinamics/ztnet/pull/955) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [chore(deps): apply safe npm audit fixes &#43; bump jsdom](https://github.com/Torqvoice/torqvoice/pull/190) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Fix untranslated English labels in French quote/invoice PDFs](https://github.com/Torqvoice/torqvoice/pull/189) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Fix PWA service worker breaking navigation with a cached redirect](https://github.com/sinamics/ztnet/pull/955) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
 - [Node Name column blank on load &#43; service worker precache error](https://github.com/sinamics/ztnet/pull/954) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [fix(routes): eliminate duplicate managed routes](https://github.com/sinamics/ztnet/pull/953) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [fix(auth): account update crashes when no password fields sent](https://github.com/sinamics/ztnet/pull/952) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [fix(auth): store emailVerified as Boolean for better-auth](https://github.com/sinamics/ztnet/pull/951) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [fix(routes): prevent duplicate managed routes](https://github.com/sinamics/ztnet/pull/950) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [fix(auth): don&#39;t fail registration on notification email error](https://github.com/sinamics/ztnet/pull/943) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 - [adaptive member-table refresh fallback](https://github.com/sinamics/ztnet/pull/942) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 weeks ago)
 
 <details>
