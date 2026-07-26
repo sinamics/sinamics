@@ -116,8 +116,8 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (6 months ago)
@@ -125,8 +125,8 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [fix: OAuth user creation fails on missing User.updatedAt column](https://github.com/sinamics/ztnet/pull/963) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Fix inventory stock tracking on work orders](https://github.com/Torqvoice/torqvoice/pull/193) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [fix: OAuth user creation fails on missing User.updatedAt column](https://github.com/sinamics/ztnet/pull/963) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Fix inventory stock tracking on work orders](https://github.com/Torqvoice/torqvoice/pull/193) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 - [chore(deps): apply safe npm audit fixes &#43; bump jsdom](https://github.com/Torqvoice/torqvoice/pull/190) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Fix untranslated English labels in French quote/invoice PDFs](https://github.com/Torqvoice/torqvoice/pull/189) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Fix PWA service worker breaking navigation with a cached redirect](https://github.com/sinamics/ztnet/pull/955) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
