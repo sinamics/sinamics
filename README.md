@@ -117,24 +117,24 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (6 months ago)
 - [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [chore: bump dependencies](https://github.com/Torqvoice/torqvoice/pull/200) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Inventory: stock ledger, barcode uniqueness, low-stock alerts](https://github.com/Torqvoice/torqvoice/pull/199) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Added option to set demo license](https://github.com/Torqvoice/torqvoice/pull/197) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [fix: OAuth user creation fails on missing User.updatedAt column](https://github.com/sinamics/ztnet/pull/963) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Fix inventory stock tracking on work orders](https://github.com/Torqvoice/torqvoice/pull/193) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Add in-app support requests](https://github.com/Torqvoice/torqvoice/pull/203) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Inventory part name suggestions in parts editors](https://github.com/Torqvoice/torqvoice/pull/202) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [chore: bump dependencies](https://github.com/Torqvoice/torqvoice/pull/200) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Inventory: stock ledger, barcode uniqueness, low-stock alerts](https://github.com/Torqvoice/torqvoice/pull/199) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Added option to set demo license](https://github.com/Torqvoice/torqvoice/pull/197) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [fix: OAuth user creation fails on missing User.updatedAt column](https://github.com/sinamics/ztnet/pull/963) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Fix inventory stock tracking on work orders](https://github.com/Torqvoice/torqvoice/pull/193) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 - [chore(deps): apply safe npm audit fixes &#43; bump jsdom](https://github.com/Torqvoice/torqvoice/pull/190) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Fix untranslated English labels in French quote/invoice PDFs](https://github.com/Torqvoice/torqvoice/pull/189) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Fix PWA service worker breaking navigation with a cached redirect](https://github.com/sinamics/ztnet/pull/955) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Node Name column blank on load &#43; service worker precache error](https://github.com/sinamics/ztnet/pull/954) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [fix(routes): eliminate duplicate managed routes](https://github.com/sinamics/ztnet/pull/953) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
