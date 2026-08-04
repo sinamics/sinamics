@@ -116,17 +116,17 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (6 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (6 months ago)
-- [sinamics/hass-config](https://github.com/sinamics/hass-config) -  (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add in-app support requests](https://github.com/Torqvoice/torqvoice/pull/203) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Inventory part name suggestions in parts editors](https://github.com/Torqvoice/torqvoice/pull/202) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Email alerts for customer portal service requests](https://github.com/Torqvoice/torqvoice/pull/204) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add in-app support requests](https://github.com/Torqvoice/torqvoice/pull/203) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Inventory part name suggestions in parts editors](https://github.com/Torqvoice/torqvoice/pull/202) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [chore: bump dependencies](https://github.com/Torqvoice/torqvoice/pull/200) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Inventory: stock ledger, barcode uniqueness, low-stock alerts](https://github.com/Torqvoice/torqvoice/pull/199) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Added option to set demo license](https://github.com/Torqvoice/torqvoice/pull/197) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
@@ -134,7 +134,6 @@ const bernt = {
 - [Fix inventory stock tracking on work orders](https://github.com/Torqvoice/torqvoice/pull/193) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [chore(deps): apply safe npm audit fixes &#43; bump jsdom](https://github.com/Torqvoice/torqvoice/pull/190) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 - [Fix untranslated English labels in French quote/invoice PDFs](https://github.com/Torqvoice/torqvoice/pull/189) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Fix PWA service worker breaking navigation with a cached redirect](https://github.com/sinamics/ztnet/pull/955) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
