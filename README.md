@@ -116,15 +116,17 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (4 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (6 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Email alerts for customer portal service requests](https://github.com/Torqvoice/torqvoice/pull/204) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Normalize emails to lowercase on write and lookup](https://github.com/sinamics/ztnet/pull/979) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Harden webhook delivery and scope webhook updates to the organization](https://github.com/sinamics/ztnet/pull/978) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Email alerts for customer portal service requests](https://github.com/Torqvoice/torqvoice/pull/204) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 - [Add in-app support requests](https://github.com/Torqvoice/torqvoice/pull/203) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Inventory part name suggestions in parts editors](https://github.com/Torqvoice/torqvoice/pull/202) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [chore: bump dependencies](https://github.com/Torqvoice/torqvoice/pull/200) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
@@ -132,8 +134,6 @@ const bernt = {
 - [Added option to set demo license](https://github.com/Torqvoice/torqvoice/pull/197) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [fix: OAuth user creation fails on missing User.updatedAt column](https://github.com/sinamics/ztnet/pull/963) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Fix inventory stock tracking on work orders](https://github.com/Torqvoice/torqvoice/pull/193) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [chore(deps): apply safe npm audit fixes &#43; bump jsdom](https://github.com/Torqvoice/torqvoice/pull/190) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Fix untranslated English labels in French quote/invoice PDFs](https://github.com/Torqvoice/torqvoice/pull/189) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
