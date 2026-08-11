@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (5 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (6 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Fix fetch-metadata endpoint](https://github.com/Torqvoice/torqvoice/pull/212) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Bump next to 16.3.0 and update next-ws, jsdom, shadcn](https://github.com/Torqvoice/torqvoice/pull/211) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Fix path traversal in backup importers and Stripe webhook signature bypass](https://github.com/Torqvoice/torqvoice/pull/210) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Respect week start day everywhere and fix WebSocket patch in Docker builds](https://github.com/Torqvoice/torqvoice/pull/208) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Match pg_dump to the server&#39;s major version for backups](https://github.com/sinamics/ztnet/pull/982) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
-- [Normalize emails to lowercase on write and lookup](https://github.com/sinamics/ztnet/pull/979) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Harden webhook delivery and scope webhook updates to the organization](https://github.com/sinamics/ztnet/pull/978) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
-- [Email alerts for customer portal service requests](https://github.com/Torqvoice/torqvoice/pull/204) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Add in-app support requests](https://github.com/Torqvoice/torqvoice/pull/203) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Inventory part name suggestions in parts editors](https://github.com/Torqvoice/torqvoice/pull/202) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Make invoice date fields typeable](https://github.com/Torqvoice/torqvoice/pull/221) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add quote number format setting](https://github.com/Torqvoice/torqvoice/pull/220) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Return null from detail read-getters for missing records](https://github.com/Torqvoice/torqvoice/pull/219) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Open New Quote on the vehicle page with vehicle and customer prefilled](https://github.com/Torqvoice/torqvoice/pull/218) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Prefill customer when adding a vehicle from a customer context](https://github.com/Torqvoice/torqvoice/pull/217) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show invoice date instead of creation date in vehicle and billing views](https://github.com/Torqvoice/torqvoice/pull/216) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Respect explicitly empty invoice number format](https://github.com/Torqvoice/torqvoice/pull/215) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Clean up bank account label and support multi-line payment details](https://github.com/Torqvoice/torqvoice/pull/214) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix fetch-metadata endpoint](https://github.com/Torqvoice/torqvoice/pull/212) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Bump next to 16.3.0 and update next-ws, jsdom, shadcn](https://github.com/Torqvoice/torqvoice/pull/211) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
