@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (5 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (6 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add editable per-organization customer numbers](https://github.com/Torqvoice/torqvoice/pull/226) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add cost/markup to quote parts and internal parts cost on Bills](https://github.com/Torqvoice/torqvoice/pull/225) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Rebuild the dashboard as a drag-and-resize grid with custom table cards](https://github.com/Torqvoice/torqvoice/pull/224) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add sortable columns to the customers and vehicles lists](https://github.com/Torqvoice/torqvoice/pull/223) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show a one-time update banner after new deployments](https://github.com/Torqvoice/torqvoice/pull/222) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Make invoice date fields typeable](https://github.com/Torqvoice/torqvoice/pull/221) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add quote number format setting](https://github.com/Torqvoice/torqvoice/pull/220) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Return null from detail read-getters for missing records](https://github.com/Torqvoice/torqvoice/pull/219) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Open New Quote on the vehicle page with vehicle and customer prefilled](https://github.com/Torqvoice/torqvoice/pull/218) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Prefill customer when adding a vehicle from a customer context](https://github.com/Torqvoice/torqvoice/pull/217) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Re-apply next-ws patch after runner-stage npm install in Docker image](https://github.com/Torqvoice/torqvoice/pull/228) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Return member version fields (vMajor, vMinor, vProto, vRev) from the REST API](https://github.com/sinamics/ztnet/pull/988) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Add parts-only counter sales (invoices without a vehicle)](https://github.com/Torqvoice/torqvoice/pull/227) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add editable per-organization customer numbers](https://github.com/Torqvoice/torqvoice/pull/226) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add cost/markup to quote parts and internal parts cost on Bills](https://github.com/Torqvoice/torqvoice/pull/225) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Rebuild the dashboard as a drag-and-resize grid with custom table cards](https://github.com/Torqvoice/torqvoice/pull/224) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add sortable columns to the customers and vehicles lists](https://github.com/Torqvoice/torqvoice/pull/223) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show a one-time update banner after new deployments](https://github.com/Torqvoice/torqvoice/pull/222) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Make invoice date fields typeable](https://github.com/Torqvoice/torqvoice/pull/221) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add quote number format setting](https://github.com/Torqvoice/torqvoice/pull/220) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
