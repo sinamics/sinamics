@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (5 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (7 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [SMS compose and templates on the Messages page](https://github.com/Torqvoice/torqvoice/pull/241) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Recurring message locales](https://github.com/Torqvoice/torqvoice/pull/240) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Scheduled messages, calendar right-click menu, and a rebuilt Messages page](https://github.com/Torqvoice/torqvoice/pull/239) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Right-click menu for calendar days](https://github.com/Torqvoice/torqvoice/pull/238) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Package format for inspection templates](https://github.com/Torqvoice/torqvoice/pull/237) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Rebuild inspections](https://github.com/Torqvoice/torqvoice/pull/236) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add self-service workshop deletion and consolidate deletion settings](https://github.com/Torqvoice/torqvoice/pull/235) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Resolve real client IP for rate limiting](https://github.com/Torqvoice/torqvoice/pull/234) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add backup status card and pre-deploy backup workflows](https://github.com/Torqvoice/torqvoice/pull/233) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add right-click context menus and clickable customer/vehicle cells](https://github.com/Torqvoice/torqvoice/pull/232) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Keep inspection certificates downloadable when sharp cannot load](https://github.com/Torqvoice/torqvoice/pull/249) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Lazy load sharp](https://github.com/Torqvoice/torqvoice/pull/248) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Pin each inspection to the scale it was graded on](https://github.com/Torqvoice/torqvoice/pull/247) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bumped next, posthog and tailwind packages](https://github.com/Torqvoice/torqvoice/pull/246) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add docs links to the app, and fix locale quality across 11 languages](https://github.com/Torqvoice/torqvoice/pull/245) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Make the work order line-item editors usable on small screens](https://github.com/Torqvoice/torqvoice/pull/244) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add five theme presets alongside light and dark](https://github.com/Torqvoice/torqvoice/pull/243) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix locale quality: diacritics, inspection UI, shared components](https://github.com/Torqvoice/torqvoice/pull/242) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [SMS compose and templates on the Messages page](https://github.com/Torqvoice/torqvoice/pull/241) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Recurring message locales](https://github.com/Torqvoice/torqvoice/pull/240) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
