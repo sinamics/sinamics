@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [First-run onboarding: sample data, default presets, getting-started checklist](https://github.com/Torqvoice/torqvoice/pull/255) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add &#34;Read More&#34; documentation links](https://github.com/Torqvoice/torqvoice/pull/254) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keyboard navigation for all tables](https://github.com/Torqvoice/torqvoice/pull/253) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [New design system: AppCard rollout, accessibility and portal polish](https://github.com/Torqvoice/torqvoice/pull/252) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [[Install Torqvoice] - Add to your home screen for quick access](https://github.com/Torqvoice/torqvoice/pull/251) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Responsive list views: card layouts on mobile and tablet](https://github.com/Torqvoice/torqvoice/pull/250) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Keep inspection certificates downloadable when sharp cannot load](https://github.com/Torqvoice/torqvoice/pull/249) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Lazy load sharp](https://github.com/Torqvoice/torqvoice/pull/248) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Pin each inspection to the scale it was graded on](https://github.com/Torqvoice/torqvoice/pull/247) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Bumped next, posthog and tailwind packages](https://github.com/Torqvoice/torqvoice/pull/246) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Tire hotel: seasonal tire storage, from check-in to the invoice](https://github.com/Torqvoice/torqvoice/pull/256) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [First-run onboarding: sample data, default presets, getting-started checklist](https://github.com/Torqvoice/torqvoice/pull/255) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add &#34;Read More&#34; documentation links](https://github.com/Torqvoice/torqvoice/pull/254) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Keyboard navigation for all tables](https://github.com/Torqvoice/torqvoice/pull/253) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [New design system: AppCard rollout, accessibility and portal polish](https://github.com/Torqvoice/torqvoice/pull/252) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [[Install Torqvoice] - Add to your home screen for quick access](https://github.com/Torqvoice/torqvoice/pull/251) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Responsive list views: card layouts on mobile and tablet](https://github.com/Torqvoice/torqvoice/pull/250) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Keep inspection certificates downloadable when sharp cannot load](https://github.com/Torqvoice/torqvoice/pull/249) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Lazy load sharp](https://github.com/Torqvoice/torqvoice/pull/248) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Pin each inspection to the scale it was graded on](https://github.com/Torqvoice/torqvoice/pull/247) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
