@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (5 months ago)
@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Stop a restore deleting what the backup does not contain](https://github.com/Torqvoice/torqvoice/pull/264) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [WhatsApp messaging through Twilio or Meta, in one inbox with SMS and Telegram](https://github.com/Torqvoice/torqvoice/pull/263) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Fill the vehicle form from a photo of the registration papers](https://github.com/Torqvoice/torqvoice/pull/262) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Let a super admin post a notice to everyone at once](https://github.com/Torqvoice/torqvoice/pull/261) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Stop the part typeahead opening by itself on every row](https://github.com/Torqvoice/torqvoice/pull/260) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Stop a status report claiming a channel that never sent](https://github.com/Torqvoice/torqvoice/pull/259) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Say the audit log&#39;s details in the reader&#39;s language](https://github.com/Torqvoice/torqvoice/pull/258) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Make the tire hotel&#39;s audit rows findable and readable](https://github.com/Torqvoice/torqvoice/pull/257) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Tire hotel: seasonal tire storage, from check-in to the invoice](https://github.com/Torqvoice/torqvoice/pull/256) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [First-run onboarding: sample data, default presets, getting-started checklist](https://github.com/Torqvoice/torqvoice/pull/255) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Alert modal in the house style](https://github.com/Torqvoice/torqvoice/pull/267) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Restore part cost, markup and stock links from backups; pick preset parts from inventory](https://github.com/Torqvoice/torqvoice/pull/266) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Work board: plan the week on a timeline](https://github.com/Torqvoice/torqvoice/pull/265) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Stop a restore deleting what the backup does not contain](https://github.com/Torqvoice/torqvoice/pull/264) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [WhatsApp messaging through Twilio or Meta, in one inbox with SMS and Telegram](https://github.com/Torqvoice/torqvoice/pull/263) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Fill the vehicle form from a photo of the registration papers](https://github.com/Torqvoice/torqvoice/pull/262) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Let a super admin post a notice to everyone at once](https://github.com/Torqvoice/torqvoice/pull/261) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Stop the part typeahead opening by itself on every row](https://github.com/Torqvoice/torqvoice/pull/260) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Stop a status report claiming a channel that never sent](https://github.com/Torqvoice/torqvoice/pull/259) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Say the audit log&#39;s details in the reader&#39;s language](https://github.com/Torqvoice/torqvoice/pull/258) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -155,17 +155,17 @@ const bernt = {
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (2 years ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 years ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 years ago)
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 years ago)
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 years ago)
 - [pengemaskin/best-car-deal](https://github.com/pengemaskin/best-car-deal) -  (2 years ago)
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth (2 years ago)
 
 ### 👯 Recent Followers
 
+- [aosan](https://github.com/aosan)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [dkapt](https://github.com/dkapt)
 - [shengcun1981](https://github.com/shengcun1981)
 - [Neelagiri65](https://github.com/Neelagiri65)
-- [ijustwant](https://github.com/ijustwant)
 
 </details>
 
