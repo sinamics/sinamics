@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (5 months ago)
@@ -124,11 +124,11 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Alert modal in the house style](https://github.com/Torqvoice/torqvoice/pull/267) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Restore part cost, markup and stock links from backups; pick preset parts from inventory](https://github.com/Torqvoice/torqvoice/pull/266) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Work board: plan the week on a timeline](https://github.com/Torqvoice/torqvoice/pull/265) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Stop a restore deleting what the backup does not contain](https://github.com/Torqvoice/torqvoice/pull/264) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [WhatsApp messaging through Twilio or Meta, in one inbox with SMS and Telegram](https://github.com/Torqvoice/torqvoice/pull/263) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Alert modal in the house style](https://github.com/Torqvoice/torqvoice/pull/267) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Restore part cost, markup and stock links from backups; pick preset parts from inventory](https://github.com/Torqvoice/torqvoice/pull/266) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Work board: plan the week on a timeline](https://github.com/Torqvoice/torqvoice/pull/265) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Stop a restore deleting what the backup does not contain](https://github.com/Torqvoice/torqvoice/pull/264) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [WhatsApp messaging through Twilio or Meta, in one inbox with SMS and Telegram](https://github.com/Torqvoice/torqvoice/pull/263) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 - [Fill the vehicle form from a photo of the registration papers](https://github.com/Torqvoice/torqvoice/pull/262) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Let a super admin post a notice to everyone at once](https://github.com/Torqvoice/torqvoice/pull/261) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Stop the part typeahead opening by itself on every row](https://github.com/Torqvoice/torqvoice/pull/260) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
