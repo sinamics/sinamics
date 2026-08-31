@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Say what the phone button does](https://github.com/Torqvoice/torqvoice/pull/272) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Refine roles](https://github.com/Torqvoice/torqvoice/pull/271) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Customer concerns as rows, each answerable by a finding](https://github.com/Torqvoice/torqvoice/pull/270) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [One way to add somebody, and a technician sign-in that fits a workshop](https://github.com/Torqvoice/torqvoice/pull/269) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Technician app API, time tracking and the role fix](https://github.com/Torqvoice/torqvoice/pull/268) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Alert modal in the house style](https://github.com/Torqvoice/torqvoice/pull/267) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Restore part cost, markup and stock links from backups; pick preset parts from inventory](https://github.com/Torqvoice/torqvoice/pull/266) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Work board: plan the week on a timeline](https://github.com/Torqvoice/torqvoice/pull/265) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Stop a restore deleting what the backup does not contain](https://github.com/Torqvoice/torqvoice/pull/264) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [WhatsApp messaging through Twilio or Meta, in one inbox with SMS and Telegram](https://github.com/Torqvoice/torqvoice/pull/263) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Keep the classic sheet until an organization saves a design](https://github.com/Torqvoice/torqvoice/pull/277) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Rebuild invoice and quote styling as a full-screen designer](https://github.com/Torqvoice/torqvoice/pull/276) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Point people at the app now that it is on Google Play](https://github.com/Torqvoice/torqvoice/pull/275) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say so once when a role opens nothing](https://github.com/Torqvoice/torqvoice/pull/274) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Make the work order agree with the team page about who people are](https://github.com/Torqvoice/torqvoice/pull/273) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say what the phone button does](https://github.com/Torqvoice/torqvoice/pull/272) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Refine roles](https://github.com/Torqvoice/torqvoice/pull/271) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Customer concerns as rows, each answerable by a finding](https://github.com/Torqvoice/torqvoice/pull/270) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [One way to add somebody, and a technician sign-in that fits a workshop](https://github.com/Torqvoice/torqvoice/pull/269) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Technician app API, time tracking and the role fix](https://github.com/Torqvoice/torqvoice/pull/268) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
