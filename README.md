@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Keep the classic sheet until an organization saves a design](https://github.com/Torqvoice/torqvoice/pull/277) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Rebuild invoice and quote styling as a full-screen designer](https://github.com/Torqvoice/torqvoice/pull/276) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Point people at the app now that it is on Google Play](https://github.com/Torqvoice/torqvoice/pull/275) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Say so once when a role opens nothing](https://github.com/Torqvoice/torqvoice/pull/274) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Make the work order agree with the team page about who people are](https://github.com/Torqvoice/torqvoice/pull/273) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Say what the phone button does](https://github.com/Torqvoice/torqvoice/pull/272) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Refine roles](https://github.com/Torqvoice/torqvoice/pull/271) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Customer concerns as rows, each answerable by a finding](https://github.com/Torqvoice/torqvoice/pull/270) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [One way to add somebody, and a technician sign-in that fits a workshop](https://github.com/Torqvoice/torqvoice/pull/269) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Technician app API, time tracking and the role fix](https://github.com/Torqvoice/torqvoice/pull/268) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add Algerian Dinar to the currency list](https://github.com/Torqvoice/torqvoice/pull/295) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep tire hotel documents off invoices and clean up on unlink](https://github.com/Torqvoice/torqvoice/pull/294) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add a PDF preview button next to download on invoices and quotes](https://github.com/Torqvoice/torqvoice/pull/293) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Send max_completion_tokens to OpenAI reasoning models](https://github.com/Torqvoice/torqvoice/pull/292) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Collapse the sidebar to a slim icon rail instead of hiding it](https://github.com/Torqvoice/torqvoice/pull/291) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Lock invoices and quotes once they are settled](https://github.com/Torqvoice/torqvoice/pull/290) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the price when the cost is entered after it](https://github.com/Torqvoice/torqvoice/pull/289) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Remember each list&#39;s sort order between visits](https://github.com/Torqvoice/torqvoice/pull/288) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show a customer&#39;s invoices and quotes on their own page](https://github.com/Torqvoice/torqvoice/pull/287) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Designer round two: totals styles, attached documents, template hygiene and one save flow](https://github.com/Torqvoice/torqvoice/pull/286) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
