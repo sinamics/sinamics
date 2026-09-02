@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (5 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (7 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add Algerian Dinar to the currency list](https://github.com/Torqvoice/torqvoice/pull/295) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep tire hotel documents off invoices and clean up on unlink](https://github.com/Torqvoice/torqvoice/pull/294) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a PDF preview button next to download on invoices and quotes](https://github.com/Torqvoice/torqvoice/pull/293) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Send max_completion_tokens to OpenAI reasoning models](https://github.com/Torqvoice/torqvoice/pull/292) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Collapse the sidebar to a slim icon rail instead of hiding it](https://github.com/Torqvoice/torqvoice/pull/291) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Lock invoices and quotes once they are settled](https://github.com/Torqvoice/torqvoice/pull/290) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep the price when the cost is entered after it](https://github.com/Torqvoice/torqvoice/pull/289) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Remember each list&#39;s sort order between visits](https://github.com/Torqvoice/torqvoice/pull/288) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show a customer&#39;s invoices and quotes on their own page](https://github.com/Torqvoice/torqvoice/pull/287) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Designer round two: totals styles, attached documents, template hygiene and one save flow](https://github.com/Torqvoice/torqvoice/pull/286) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Custom fields: live list, default values, and real invoice placement](https://github.com/Torqvoice/torqvoice/pull/297) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Align the footer logo left, center or right](https://github.com/Torqvoice/torqvoice/pull/296) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add Algerian Dinar to the currency list](https://github.com/Torqvoice/torqvoice/pull/295) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Keep tire hotel documents off invoices and clean up on unlink](https://github.com/Torqvoice/torqvoice/pull/294) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add a PDF preview button next to download on invoices and quotes](https://github.com/Torqvoice/torqvoice/pull/293) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Send max_completion_tokens to OpenAI reasoning models](https://github.com/Torqvoice/torqvoice/pull/292) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Collapse the sidebar to a slim icon rail instead of hiding it](https://github.com/Torqvoice/torqvoice/pull/291) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Lock invoices and quotes once they are settled](https://github.com/Torqvoice/torqvoice/pull/290) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Keep the price when the cost is entered after it](https://github.com/Torqvoice/torqvoice/pull/289) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Remember each list&#39;s sort order between visits](https://github.com/Torqvoice/torqvoice/pull/288) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
