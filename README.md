@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Custom fields: live list, default values, and real invoice placement](https://github.com/Torqvoice/torqvoice/pull/297) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Align the footer logo left, center or right](https://github.com/Torqvoice/torqvoice/pull/296) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add Algerian Dinar to the currency list](https://github.com/Torqvoice/torqvoice/pull/295) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep tire hotel documents off invoices and clean up on unlink](https://github.com/Torqvoice/torqvoice/pull/294) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add a PDF preview button next to download on invoices and quotes](https://github.com/Torqvoice/torqvoice/pull/293) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Send max_completion_tokens to OpenAI reasoning models](https://github.com/Torqvoice/torqvoice/pull/292) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Collapse the sidebar to a slim icon rail instead of hiding it](https://github.com/Torqvoice/torqvoice/pull/291) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Lock invoices and quotes once they are settled](https://github.com/Torqvoice/torqvoice/pull/290) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep the price when the cost is entered after it](https://github.com/Torqvoice/torqvoice/pull/289) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Remember each list&#39;s sort order between visits](https://github.com/Torqvoice/torqvoice/pull/288) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Move messaging channels into Integrations with zero-touch adoption](https://github.com/Torqvoice/torqvoice/pull/304) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Integrations platform with Google Calendar, Microsoft 365 and Zoom](https://github.com/Torqvoice/torqvoice/pull/300) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Universal spreadsheet importer with dry run, undo and templates](https://github.com/Torqvoice/torqvoice/pull/299) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Custom fields: live list, default values, and real invoice placement](https://github.com/Torqvoice/torqvoice/pull/297) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Align the footer logo left, center or right](https://github.com/Torqvoice/torqvoice/pull/296) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add Algerian Dinar to the currency list](https://github.com/Torqvoice/torqvoice/pull/295) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Keep tire hotel documents off invoices and clean up on unlink](https://github.com/Torqvoice/torqvoice/pull/294) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add a PDF preview button next to download on invoices and quotes](https://github.com/Torqvoice/torqvoice/pull/293) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Send max_completion_tokens to OpenAI reasoning models](https://github.com/Torqvoice/torqvoice/pull/292) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Collapse the sidebar to a slim icon rail instead of hiding it](https://github.com/Torqvoice/torqvoice/pull/291) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
