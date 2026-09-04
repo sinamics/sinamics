@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Move messaging channels into Integrations with zero-touch adoption](https://github.com/Torqvoice/torqvoice/pull/304) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Integrations platform with Google Calendar, Microsoft 365 and Zoom](https://github.com/Torqvoice/torqvoice/pull/300) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Universal spreadsheet importer with dry run, undo and templates](https://github.com/Torqvoice/torqvoice/pull/299) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Custom fields: live list, default values, and real invoice placement](https://github.com/Torqvoice/torqvoice/pull/297) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Align the footer logo left, center or right](https://github.com/Torqvoice/torqvoice/pull/296) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add Algerian Dinar to the currency list](https://github.com/Torqvoice/torqvoice/pull/295) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Keep tire hotel documents off invoices and clean up on unlink](https://github.com/Torqvoice/torqvoice/pull/294) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add a PDF preview button next to download on invoices and quotes](https://github.com/Torqvoice/torqvoice/pull/293) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Send max_completion_tokens to OpenAI reasoning models](https://github.com/Torqvoice/torqvoice/pull/292) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Collapse the sidebar to a slim icon rail instead of hiding it](https://github.com/Torqvoice/torqvoice/pull/291) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Scheduling tests: pin the workshop zone so they pass in any timezone](https://github.com/Torqvoice/torqvoice/pull/313) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Plate lookup from the header](https://github.com/Torqvoice/torqvoice/pull/312) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [RDW Open Data and RegCheck plate lookups](https://github.com/Torqvoice/torqvoice/pull/311) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Openapi Automotive plate lookup for France, Italy, Spain, Portugal and the UK](https://github.com/Torqvoice/torqvoice/pull/309) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let a workshop remove an integration that never finished setting up](https://github.com/Torqvoice/torqvoice/pull/308) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Invoice designs as rows, issued invoices frozen, and a design for parts-only sales](https://github.com/Torqvoice/torqvoice/pull/307) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Invoice designer: payment terms switches and an editable document title](https://github.com/Torqvoice/torqvoice/pull/306) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Vegvesen plate lookup, inspection due dates and inspection reminder campaigns](https://github.com/Torqvoice/torqvoice/pull/305) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Move messaging channels into Integrations with zero-touch adoption](https://github.com/Torqvoice/torqvoice/pull/304) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Integrations platform with Google Calendar, Microsoft 365 and Zoom](https://github.com/Torqvoice/torqvoice/pull/300) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
