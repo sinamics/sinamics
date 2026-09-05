@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Scheduling tests: pin the workshop zone so they pass in any timezone](https://github.com/Torqvoice/torqvoice/pull/313) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Plate lookup from the header](https://github.com/Torqvoice/torqvoice/pull/312) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [RDW Open Data and RegCheck plate lookups](https://github.com/Torqvoice/torqvoice/pull/311) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Openapi Automotive plate lookup for France, Italy, Spain, Portugal and the UK](https://github.com/Torqvoice/torqvoice/pull/309) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Let a workshop remove an integration that never finished setting up](https://github.com/Torqvoice/torqvoice/pull/308) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Invoice designs as rows, issued invoices frozen, and a design for parts-only sales](https://github.com/Torqvoice/torqvoice/pull/307) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Invoice designer: payment terms switches and an editable document title](https://github.com/Torqvoice/torqvoice/pull/306) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Vegvesen plate lookup, inspection due dates and inspection reminder campaigns](https://github.com/Torqvoice/torqvoice/pull/305) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Move messaging channels into Integrations with zero-touch adoption](https://github.com/Torqvoice/torqvoice/pull/304) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Integrations platform with Google Calendar, Microsoft 365 and Zoom](https://github.com/Torqvoice/torqvoice/pull/300) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add a QuickBooks Online connector](https://github.com/Torqvoice/torqvoice/pull/324) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Scroll lists inside themselves instead of scrolling the page](https://github.com/Torqvoice/torqvoice/pull/323) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Count unread messages in the sidebar and mark a thread read when it is opened](https://github.com/Torqvoice/torqvoice/pull/322) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Give the sidebar a workspace header, live work counts and a calmer nav](https://github.com/Torqvoice/torqvoice/pull/321) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show admin monthly revenue as a month, not a year](https://github.com/Torqvoice/torqvoice/pull/320) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Move online payments into the integrations catalog](https://github.com/Torqvoice/torqvoice/pull/319) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Move AI into the integrations catalog](https://github.com/Torqvoice/torqvoice/pull/317) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let the update banner show itself out after six hours](https://github.com/Torqvoice/torqvoice/pull/316) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let the schedule card take a technician off a job](https://github.com/Torqvoice/torqvoice/pull/315) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let every edit form clear an optional field](https://github.com/Torqvoice/torqvoice/pull/314) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
