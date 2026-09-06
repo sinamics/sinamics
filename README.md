@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Add a QuickBooks Online connector](https://github.com/Torqvoice/torqvoice/pull/324) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Scroll lists inside themselves instead of scrolling the page](https://github.com/Torqvoice/torqvoice/pull/323) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Count unread messages in the sidebar and mark a thread read when it is opened](https://github.com/Torqvoice/torqvoice/pull/322) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Give the sidebar a workspace header, live work counts and a calmer nav](https://github.com/Torqvoice/torqvoice/pull/321) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show admin monthly revenue as a month, not a year](https://github.com/Torqvoice/torqvoice/pull/320) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Move online payments into the integrations catalog](https://github.com/Torqvoice/torqvoice/pull/319) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Move AI into the integrations catalog](https://github.com/Torqvoice/torqvoice/pull/317) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Let the update banner show itself out after six hours](https://github.com/Torqvoice/torqvoice/pull/316) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Let the schedule card take a technician off a job](https://github.com/Torqvoice/torqvoice/pull/315) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Let every edit form clear an optional field](https://github.com/Torqvoice/torqvoice/pull/314) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep QuickBooks tax equal to the invoice, push every issued invoice, and pick from searchable lists](https://github.com/Torqvoice/torqvoice/pull/330) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Offer TAX and NON to US QuickBooks companies, make the start date a date picker, and say what Sync now does](https://github.com/Torqvoice/torqvoice/pull/329) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Give the runtime image install its lockfile so registry changes cannot break the build](https://github.com/Torqvoice/torqvoice/pull/328) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bump dependencies, pin better-auth to 1.6.29 and clear the remaining audit alerts](https://github.com/Torqvoice/torqvoice/pull/327) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Pass the QuickBooks app keys through the prod and staging deploys](https://github.com/Torqvoice/torqvoice/pull/326) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add an NHTSA connector with a vehicle safety panel](https://github.com/Torqvoice/torqvoice/pull/325) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add a QuickBooks Online connector](https://github.com/Torqvoice/torqvoice/pull/324) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Scroll lists inside themselves instead of scrolling the page](https://github.com/Torqvoice/torqvoice/pull/323) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Count unread messages in the sidebar and mark a thread read when it is opened](https://github.com/Torqvoice/torqvoice/pull/322) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Give the sidebar a workspace header, live work counts and a calmer nav](https://github.com/Torqvoice/torqvoice/pull/321) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
