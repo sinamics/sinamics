@@ -119,21 +119,21 @@ const bernt = {
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 weeks ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
-- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (5 months ago)
+- [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (7 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Keep QuickBooks tax equal to the invoice, push every issued invoice, and pick from searchable lists](https://github.com/Torqvoice/torqvoice/pull/330) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Offer TAX and NON to US QuickBooks companies, make the start date a date picker, and say what Sync now does](https://github.com/Torqvoice/torqvoice/pull/329) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Give the runtime image install its lockfile so registry changes cannot break the build](https://github.com/Torqvoice/torqvoice/pull/328) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Bump dependencies, pin better-auth to 1.6.29 and clear the remaining audit alerts](https://github.com/Torqvoice/torqvoice/pull/327) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Pass the QuickBooks app keys through the prod and staging deploys](https://github.com/Torqvoice/torqvoice/pull/326) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add an NHTSA connector with a vehicle safety panel](https://github.com/Torqvoice/torqvoice/pull/325) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a QuickBooks Online connector](https://github.com/Torqvoice/torqvoice/pull/324) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Scroll lists inside themselves instead of scrolling the page](https://github.com/Torqvoice/torqvoice/pull/323) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Count unread messages in the sidebar and mark a thread read when it is opened](https://github.com/Torqvoice/torqvoice/pull/322) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Give the sidebar a workspace header, live work counts and a calmer nav](https://github.com/Torqvoice/torqvoice/pull/321) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Tolerate a racing adoption marker and wait for the WebSocket route module before the first upgrade](https://github.com/Torqvoice/torqvoice/pull/344) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Suggest an integration from the catalog, with a read-more link to the docs](https://github.com/Torqvoice/torqvoice/pull/343) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Size vehicle grid rows to their cards so photos are not squeezed into strips](https://github.com/Torqvoice/torqvoice/pull/342) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Put the notification bell back at the top of the sidebar](https://github.com/Torqvoice/torqvoice/pull/341) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Centre the calendar&#39;s current-time line on the minute](https://github.com/Torqvoice/torqvoice/pull/340) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Calendar rebuilt as a full-screen planner, reminders with a time, and dates read in the workshop&#39;s timezone](https://github.com/Torqvoice/torqvoice/pull/339) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Explain &#34;Invalid origin&#34; on sign-in and warn about a bad app URL at startup](https://github.com/Torqvoice/torqvoice/pull/338) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say which two addresses disagree when a sign-in is refused with Invalid origin](https://github.com/Torqvoice/torqvoice/pull/337) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add a Teams or Meet meeting to a work order from its page, and fix the calendar switch copy](https://github.com/Torqvoice/torqvoice/pull/336) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Group a backfill into one activity row with counts, and open pulled calendar events in place](https://github.com/Torqvoice/torqvoice/pull/335) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
