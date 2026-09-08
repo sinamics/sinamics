@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Tolerate a racing adoption marker and wait for the WebSocket route module before the first upgrade](https://github.com/Torqvoice/torqvoice/pull/344) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Suggest an integration from the catalog, with a read-more link to the docs](https://github.com/Torqvoice/torqvoice/pull/343) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Size vehicle grid rows to their cards so photos are not squeezed into strips](https://github.com/Torqvoice/torqvoice/pull/342) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Put the notification bell back at the top of the sidebar](https://github.com/Torqvoice/torqvoice/pull/341) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Centre the calendar&#39;s current-time line on the minute](https://github.com/Torqvoice/torqvoice/pull/340) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Calendar rebuilt as a full-screen planner, reminders with a time, and dates read in the workshop&#39;s timezone](https://github.com/Torqvoice/torqvoice/pull/339) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Explain &#34;Invalid origin&#34; on sign-in and warn about a bad app URL at startup](https://github.com/Torqvoice/torqvoice/pull/338) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Say which two addresses disagree when a sign-in is refused with Invalid origin](https://github.com/Torqvoice/torqvoice/pull/337) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a Teams or Meet meeting to a work order from its page, and fix the calendar switch copy](https://github.com/Torqvoice/torqvoice/pull/336) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Group a backfill into one activity row with counts, and open pulled calendar events in place](https://github.com/Torqvoice/torqvoice/pull/335) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Clock in and out from the web, with timesheets for managers](https://github.com/Torqvoice/torqvoice/pull/348) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Set Reply-To on support request mails](https://github.com/Torqvoice/torqvoice/pull/347) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Copy the next-ws follow-up patch script into the Docker deps stage](https://github.com/Torqvoice/torqvoice/pull/346) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fixed issue where quotes could not be saved and the save button kept spinning](https://github.com/Torqvoice/torqvoice/pull/345) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Tolerate a racing adoption marker and wait for the WebSocket route module before the first upgrade](https://github.com/Torqvoice/torqvoice/pull/344) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Suggest an integration from the catalog, with a read-more link to the docs](https://github.com/Torqvoice/torqvoice/pull/343) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Size vehicle grid rows to their cards so photos are not squeezed into strips](https://github.com/Torqvoice/torqvoice/pull/342) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Put the notification bell back at the top of the sidebar](https://github.com/Torqvoice/torqvoice/pull/341) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Centre the calendar&#39;s current-time line on the minute](https://github.com/Torqvoice/torqvoice/pull/340) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Calendar rebuilt as a full-screen planner, reminders with a time, and dates read in the workshop&#39;s timezone](https://github.com/Torqvoice/torqvoice/pull/339) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
