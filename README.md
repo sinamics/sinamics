@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Email template designer](https://github.com/Torqvoice/torqvoice/pull/357) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Customer address on more than one line](https://github.com/Torqvoice/torqvoice/pull/356) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Quote parts and labour fields do not take more than one line](https://github.com/Torqvoice/torqvoice/pull/355) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Shared invoice ignores line breaks](https://github.com/Torqvoice/torqvoice/pull/354) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show on the billing list whether an invoice has been opened](https://github.com/Torqvoice/torqvoice/pull/353) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Billing list does not remember its sort order](https://github.com/Torqvoice/torqvoice/pull/352) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Reordering the bank account fields in the template designer does nothing](https://github.com/Torqvoice/torqvoice/pull/351) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Email a document as a link instead of a PDF attachment](https://github.com/Torqvoice/torqvoice/pull/350) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Customer link is undefined](https://github.com/Torqvoice/torqvoice/pull/349) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Clock in and out from the web, with timesheets for managers](https://github.com/Torqvoice/torqvoice/pull/348) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [End-to-end tests: auth, work order pricing, quote to invoice](https://github.com/Torqvoice/torqvoice/pull/373) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Enabling 2FA fails](https://github.com/Torqvoice/torqvoice/pull/372) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [A better-looking default email](https://github.com/Torqvoice/torqvoice/pull/371) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Team invitation email template](https://github.com/Torqvoice/torqvoice/pull/370) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Telegram QR code on invoices](https://github.com/Torqvoice/torqvoice/pull/369) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Remove the old Providers settings page](https://github.com/Torqvoice/torqvoice/pull/368) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let portal customers view any invoice](https://github.com/Torqvoice/torqvoice/pull/367) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Tidy the invoice settings page](https://github.com/Torqvoice/torqvoice/pull/366) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Line prices including tax, and part picture saving](https://github.com/Torqvoice/torqvoice/pull/365) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let workshops name their organisation number](https://github.com/Torqvoice/torqvoice/pull/360) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
