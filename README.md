@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 month ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (7 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [End-to-end tests for the email template designer](https://github.com/Torqvoice/torqvoice/pull/375) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Split tax into several rates](https://github.com/Torqvoice/torqvoice/pull/374) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [End-to-end tests: auth, work order pricing, quote to invoice](https://github.com/Torqvoice/torqvoice/pull/373) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Enabling 2FA fails](https://github.com/Torqvoice/torqvoice/pull/372) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [A better-looking default email](https://github.com/Torqvoice/torqvoice/pull/371) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Team invitation email template](https://github.com/Torqvoice/torqvoice/pull/370) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Telegram QR code on invoices](https://github.com/Torqvoice/torqvoice/pull/369) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Remove the old Providers settings page](https://github.com/Torqvoice/torqvoice/pull/368) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Let portal customers view any invoice](https://github.com/Torqvoice/torqvoice/pull/367) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Tidy the invoice settings page](https://github.com/Torqvoice/torqvoice/pull/366) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Count only messages the inbox can open](https://github.com/Torqvoice/torqvoice/pull/385) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Line and paragraph spacing in the email theme](https://github.com/Torqvoice/torqvoice/pull/384) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Telegram linking from the invoice QR, and the unread count in the tab title](https://github.com/Torqvoice/torqvoice/pull/383) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Name new work orders from a title template in the workshop settings](https://github.com/Torqvoice/torqvoice/pull/382) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [End-to-end coverage for admin-only actions, file paths, payment attribution and inbound SMS](https://github.com/Torqvoice/torqvoice/pull/381) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Run the e2e suite in parallel shards](https://github.com/Torqvoice/torqvoice/pull/380) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Sign white-label licence tokens and verify them locally](https://github.com/Torqvoice/torqvoice/pull/379) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Tighten auth surface and require a unique NEXTAUTH_SECRET](https://github.com/sinamics/ztnet/pull/1011) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [New sign-in and sign-up pages, plan limits, Marine wording and e2e coverage](https://github.com/Torqvoice/torqvoice/pull/378) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Online payments are booked once, with end-to-end tests for Stripe and PayPal](https://github.com/Torqvoice/torqvoice/pull/377) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
