@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
-- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (7 months ago)
+- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (8 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Fix standalone install on Debian 13 and newer Ubuntu by falling back to the closest ZeroTier 1.14.2 build](https://github.com/sinamics/ztnet/pull/1018) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [[Installer] Bump nodemailer](https://github.com/sinamics/ztnet/pull/1017) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [[Docs] Bump Dependencies](https://github.com/sinamics/ztnet/pull/1016) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Upgrade better-auth to 1.7 and nodemailer to 10, enforce OAUTH_ALLOW_NEW_USERS on OAuth sign-in](https://github.com/sinamics/ztnet/pull/1014) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Sign-in page redirects a signed-in user instead of showing the form](https://github.com/Torqvoice/torqvoice/pull/393) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Shared layout for account mails, with a device card in the new sign-in mail](https://github.com/Torqvoice/torqvoice/pull/392) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [One workshop per self-hosted install](https://github.com/Torqvoice/torqvoice/pull/391) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Move plan purchase and billing to torqvoice.com](https://github.com/Torqvoice/torqvoice/pull/390) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Signed-in devices, new-device mail, and password changes that end other sessions](https://github.com/Torqvoice/torqvoice/pull/389) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Dependency updates within current majors](https://github.com/Torqvoice/torqvoice/pull/388) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Fix standalone install on Debian 13 and newer Ubuntu by falling back to the closest ZeroTier 1.14.2 build](https://github.com/sinamics/ztnet/pull/1018) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [[Installer] Bump nodemailer](https://github.com/sinamics/ztnet/pull/1017) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [[Docs] Bump Dependencies](https://github.com/sinamics/ztnet/pull/1016) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Upgrade better-auth to 1.7 and nodemailer to 10, enforce OAUTH_ALLOW_NEW_USERS on OAuth sign-in](https://github.com/sinamics/ztnet/pull/1014) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Sign-in page redirects a signed-in user instead of showing the form](https://github.com/Torqvoice/torqvoice/pull/393) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Shared layout for account mails, with a device card in the new sign-in mail](https://github.com/Torqvoice/torqvoice/pull/392) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [One workshop per self-hosted install](https://github.com/Torqvoice/torqvoice/pull/391) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Move plan purchase and billing to torqvoice.com](https://github.com/Torqvoice/torqvoice/pull/390) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Signed-in devices, new-device mail, and password changes that end other sessions](https://github.com/Torqvoice/torqvoice/pull/389) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Dependency updates within current majors](https://github.com/Torqvoice/torqvoice/pull/388) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
