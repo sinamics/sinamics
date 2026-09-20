@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (8 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Make customer concerns a visible field on the work order](https://github.com/Torqvoice/torqvoice/pull/409) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [State the workshop warranty on quotes and work orders, with defaults](https://github.com/Torqvoice/torqvoice/pull/408) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Fix the pt-PT audit summaries and translate the inspection save status](https://github.com/Torqvoice/torqvoice/pull/407) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add European Portuguese and finish translations in every language](https://github.com/Torqvoice/torqvoice/pull/406) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Ask AI about one vehicle or one customer](https://github.com/Torqvoice/torqvoice/pull/405) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Show the AI buttons for a provider connected in the catalog](https://github.com/Torqvoice/torqvoice/pull/404) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Require a signed instance token for cloud mode](https://github.com/Torqvoice/torqvoice/pull/403) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Translate the English strings left in the quote and work order screens](https://github.com/Torqvoice/torqvoice/pull/402) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Print the org number on the letterhead, and the design the invoice picked](https://github.com/Torqvoice/torqvoice/pull/401) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Let a new design reach invoices that were already sent](https://github.com/Torqvoice/torqvoice/pull/400) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Overhauled work order page, offered beside the classic one](https://github.com/Torqvoice/torqvoice/pull/410) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Make customer concerns a visible field on the work order](https://github.com/Torqvoice/torqvoice/pull/409) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [State the workshop warranty on quotes and work orders, with defaults](https://github.com/Torqvoice/torqvoice/pull/408) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Fix the pt-PT audit summaries and translate the inspection save status](https://github.com/Torqvoice/torqvoice/pull/407) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add European Portuguese and finish translations in every language](https://github.com/Torqvoice/torqvoice/pull/406) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Ask AI about one vehicle or one customer](https://github.com/Torqvoice/torqvoice/pull/405) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Show the AI buttons for a provider connected in the catalog](https://github.com/Torqvoice/torqvoice/pull/404) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Require a signed instance token for cloud mode](https://github.com/Torqvoice/torqvoice/pull/403) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Translate the English strings left in the quote and work order screens](https://github.com/Torqvoice/torqvoice/pull/402) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Print the org number on the letterhead, and the design the invoice picked](https://github.com/Torqvoice/torqvoice/pull/401) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
