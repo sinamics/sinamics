@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (8 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Import reminders from a CSV or Excel file](https://github.com/Torqvoice/torqvoice/pull/413) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Scope organization network API routes to the organization in the URL](https://github.com/sinamics/ztnet/pull/1021) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Show members the workshop&#39;s own currency, tax and custom fields](https://github.com/Torqvoice/torqvoice/pull/412) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show who else has a work order open, and keep it current live](https://github.com/Torqvoice/torqvoice/pull/411) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Overhauled work order page, offered beside the classic one](https://github.com/Torqvoice/torqvoice/pull/410) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Make customer concerns a visible field on the work order](https://github.com/Torqvoice/torqvoice/pull/409) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [State the workshop warranty on quotes and work orders, with defaults](https://github.com/Torqvoice/torqvoice/pull/408) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Fix the pt-PT audit summaries and translate the inspection save status](https://github.com/Torqvoice/torqvoice/pull/407) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add European Portuguese and finish translations in every language](https://github.com/Torqvoice/torqvoice/pull/406) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Ask AI about one vehicle or one customer](https://github.com/Torqvoice/torqvoice/pull/405) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Let a workshop define its own work order statuses](https://github.com/Torqvoice/torqvoice/pull/416) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Pay code at the desk, and drop-off photos from the phone](https://github.com/Torqvoice/torqvoice/pull/415) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Work order and tire check-in fixes](https://github.com/Torqvoice/torqvoice/pull/414) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Import reminders from a CSV or Excel file](https://github.com/Torqvoice/torqvoice/pull/413) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Scope organization network API routes to the organization in the URL](https://github.com/sinamics/ztnet/pull/1021) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Show members the workshop&#39;s own currency, tax and custom fields](https://github.com/Torqvoice/torqvoice/pull/412) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show who else has a work order open, and keep it current live](https://github.com/Torqvoice/torqvoice/pull/411) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Overhauled work order page, offered beside the classic one](https://github.com/Torqvoice/torqvoice/pull/410) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Make customer concerns a visible field on the work order](https://github.com/Torqvoice/torqvoice/pull/409) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [State the workshop warranty on quotes and work orders, with defaults](https://github.com/Torqvoice/torqvoice/pull/408) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
