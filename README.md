@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 months ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (8 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Declare site icons in the document head and regenerate them from the logo](https://github.com/sinamics/ztnet/pull/1024) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Keep the Alibaba metadata address blocked for private webhook targets](https://github.com/sinamics/ztnet/pull/1023) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Widen small-trigger popovers and show the technician&#39;s name on clocked time](https://github.com/Torqvoice/torqvoice/pull/419) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add WEBHOOK_ALLOW_PRIVATE_TARGETS and tighten webhook and org network checks](https://github.com/sinamics/ztnet/pull/1022) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Announce only minor releases, for an hour](https://github.com/Torqvoice/torqvoice/pull/418) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Draw the eye on a photo as what the customer can see](https://github.com/Torqvoice/torqvoice/pull/417) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Let a workshop define its own work order statuses](https://github.com/Torqvoice/torqvoice/pull/416) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Pay code at the desk, and drop-off photos from the phone](https://github.com/Torqvoice/torqvoice/pull/415) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Work order and tire check-in fixes](https://github.com/Torqvoice/torqvoice/pull/414) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Import reminders from a CSV or Excel file](https://github.com/Torqvoice/torqvoice/pull/413) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Run CI on the document signatures merge](https://github.com/Torqvoice/torqvoice/pull/424) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add personal signatures to invoices, quotes and inspection certificates](https://github.com/Torqvoice/torqvoice/pull/423) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Completed-only switch for billing and reports](https://github.com/Torqvoice/torqvoice/pull/422) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Shop fee on new work orders and quotes](https://github.com/Torqvoice/torqvoice/pull/421) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Inspection templates, translated checklists and a Norwegian EU-kontroll preset](https://github.com/Torqvoice/torqvoice/pull/420) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Declare site icons in the document head and regenerate them from the logo](https://github.com/sinamics/ztnet/pull/1024) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Keep the Alibaba metadata address blocked for private webhook targets](https://github.com/sinamics/ztnet/pull/1023) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Widen small-trigger popovers and show the technician&#39;s name on clocked time](https://github.com/Torqvoice/torqvoice/pull/419) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add WEBHOOK_ALLOW_PRIVATE_TARGETS and tighten webhook and org network checks](https://github.com/sinamics/ztnet/pull/1022) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Announce only minor releases, for an hour](https://github.com/Torqvoice/torqvoice/pull/418) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
