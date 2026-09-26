@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 months ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (8 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Run CI on the document signatures merge](https://github.com/Torqvoice/torqvoice/pull/424) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add personal signatures to invoices, quotes and inspection certificates](https://github.com/Torqvoice/torqvoice/pull/423) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Completed-only switch for billing and reports](https://github.com/Torqvoice/torqvoice/pull/422) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Shop fee on new work orders and quotes](https://github.com/Torqvoice/torqvoice/pull/421) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Inspection templates, translated checklists and a Norwegian EU-kontroll preset](https://github.com/Torqvoice/torqvoice/pull/420) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Declare site icons in the document head and regenerate them from the logo](https://github.com/sinamics/ztnet/pull/1024) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Keep the Alibaba metadata address blocked for private webhook targets](https://github.com/sinamics/ztnet/pull/1023) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Widen small-trigger popovers and show the technician&#39;s name on clocked time](https://github.com/Torqvoice/torqvoice/pull/419) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add WEBHOOK_ALLOW_PRIVATE_TARGETS and tighten webhook and org network checks](https://github.com/sinamics/ztnet/pull/1022) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Announce only minor releases, for an hour](https://github.com/Torqvoice/torqvoice/pull/418) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add a printable work order with a customer signature line](https://github.com/Torqvoice/torqvoice/pull/425) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Run CI on the document signatures merge](https://github.com/Torqvoice/torqvoice/pull/424) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add personal signatures to invoices, quotes and inspection certificates](https://github.com/Torqvoice/torqvoice/pull/423) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Completed-only switch for billing and reports](https://github.com/Torqvoice/torqvoice/pull/422) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Shop fee on new work orders and quotes](https://github.com/Torqvoice/torqvoice/pull/421) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Inspection templates, translated checklists and a Norwegian EU-kontroll preset](https://github.com/Torqvoice/torqvoice/pull/420) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Declare site icons in the document head and regenerate them from the logo](https://github.com/sinamics/ztnet/pull/1024) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Keep the Alibaba metadata address blocked for private webhook targets](https://github.com/sinamics/ztnet/pull/1023) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Widen small-trigger popovers and show the technician&#39;s name on clocked time](https://github.com/Torqvoice/torqvoice/pull/419) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add WEBHOOK_ALLOW_PRIVATE_TARGETS and tighten webhook and org network checks](https://github.com/sinamics/ztnet/pull/1022) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -161,11 +161,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [poormikey80-create](https://github.com/poormikey80-create)
 - [aosan](https://github.com/aosan)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [dkapt](https://github.com/dkapt)
 - [shengcun1981](https://github.com/shengcun1981)
-- [Neelagiri65](https://github.com/Neelagiri65)
 
 </details>
 
