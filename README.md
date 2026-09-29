@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 months ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (8 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Split the templates menu into Documents, Checklists and Messages](https://github.com/Torqvoice/torqvoice/pull/429) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add the German HSN/TSN type key to vehicles](https://github.com/Torqvoice/torqvoice/pull/428) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a vehicle condition map for dents, scratches and chips](https://github.com/Torqvoice/torqvoice/pull/427) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add a printable work order with a customer signature line](https://github.com/Torqvoice/torqvoice/pull/425) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Run CI on the document signatures merge](https://github.com/Torqvoice/torqvoice/pull/424) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Add personal signatures to invoices, quotes and inspection certificates](https://github.com/Torqvoice/torqvoice/pull/423) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Completed-only switch for billing and reports](https://github.com/Torqvoice/torqvoice/pull/422) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Shop fee on new work orders and quotes](https://github.com/Torqvoice/torqvoice/pull/421) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Inspection templates, translated checklists and a Norwegian EU-kontroll preset](https://github.com/Torqvoice/torqvoice/pull/420) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Declare site icons in the document head and regenerate them from the logo](https://github.com/sinamics/ztnet/pull/1024) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (6 days ago)
+- [Split the templates menu into Documents, Checklists and Messages](https://github.com/Torqvoice/torqvoice/pull/429) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add the German HSN/TSN type key to vehicles](https://github.com/Torqvoice/torqvoice/pull/428) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add a vehicle condition map for dents, scratches and chips](https://github.com/Torqvoice/torqvoice/pull/427) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add a printable work order with a customer signature line](https://github.com/Torqvoice/torqvoice/pull/425) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Run CI on the document signatures merge](https://github.com/Torqvoice/torqvoice/pull/424) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Add personal signatures to invoices, quotes and inspection certificates](https://github.com/Torqvoice/torqvoice/pull/423) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Completed-only switch for billing and reports](https://github.com/Torqvoice/torqvoice/pull/422) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Shop fee on new work orders and quotes](https://github.com/Torqvoice/torqvoice/pull/421) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Inspection templates, translated checklists and a Norwegian EU-kontroll preset](https://github.com/Torqvoice/torqvoice/pull/420) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Declare site icons in the document head and regenerate them from the logo](https://github.com/sinamics/ztnet/pull/1024) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -148,7 +148,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (7 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (1 year ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (2 years ago)
