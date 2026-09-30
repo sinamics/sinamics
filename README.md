@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 months ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (6 months ago)
@@ -124,15 +124,15 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Split the templates menu into Documents, Checklists and Messages](https://github.com/Torqvoice/torqvoice/pull/429) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add the German HSN/TSN type key to vehicles](https://github.com/Torqvoice/torqvoice/pull/428) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add a vehicle condition map for dents, scratches and chips](https://github.com/Torqvoice/torqvoice/pull/427) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add a printable work order with a customer signature line](https://github.com/Torqvoice/torqvoice/pull/425) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Run CI on the document signatures merge](https://github.com/Torqvoice/torqvoice/pull/424) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Add personal signatures to invoices, quotes and inspection certificates](https://github.com/Torqvoice/torqvoice/pull/423) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Completed-only switch for billing and reports](https://github.com/Torqvoice/torqvoice/pull/422) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Shop fee on new work orders and quotes](https://github.com/Torqvoice/torqvoice/pull/421) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Inspection templates, translated checklists and a Norwegian EU-kontroll preset](https://github.com/Torqvoice/torqvoice/pull/420) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Split the templates menu into Documents, Checklists and Messages](https://github.com/Torqvoice/torqvoice/pull/429) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add the German HSN/TSN type key to vehicles](https://github.com/Torqvoice/torqvoice/pull/428) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Add a vehicle condition map for dents, scratches and chips](https://github.com/Torqvoice/torqvoice/pull/427) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Add a printable work order with a customer signature line](https://github.com/Torqvoice/torqvoice/pull/425) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Run CI on the document signatures merge](https://github.com/Torqvoice/torqvoice/pull/424) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Add personal signatures to invoices, quotes and inspection certificates](https://github.com/Torqvoice/torqvoice/pull/423) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Completed-only switch for billing and reports](https://github.com/Torqvoice/torqvoice/pull/422) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Shop fee on new work orders and quotes](https://github.com/Torqvoice/torqvoice/pull/421) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Inspection templates, translated checklists and a Norwegian EU-kontroll preset](https://github.com/Torqvoice/torqvoice/pull/420) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 - [Declare site icons in the document head and regenerate them from the logo](https://github.com/sinamics/ztnet/pull/1024) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 
 <details>
