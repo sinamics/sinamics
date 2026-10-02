@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Staging fixes for condition map, status reports and certificates](https://github.com/Torqvoice/torqvoice/pull/436) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a VIN lookup button to the vehicle form](https://github.com/Torqvoice/torqvoice/pull/435) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Count every map check on an inspection as its visit](https://github.com/Torqvoice/torqvoice/pull/434) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Test the condition map end to end and fix what the tests found](https://github.com/Torqvoice/torqvoice/pull/433) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Make the new work order page the default](https://github.com/Torqvoice/torqvoice/pull/432) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Print the condition map on invoices and quotes, with the linked inspection](https://github.com/Torqvoice/torqvoice/pull/431) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Split the templates menu into Documents, Checklists and Messages](https://github.com/Torqvoice/torqvoice/pull/429) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Add the German HSN/TSN type key to vehicles](https://github.com/Torqvoice/torqvoice/pull/428) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Add a vehicle condition map for dents, scratches and chips](https://github.com/Torqvoice/torqvoice/pull/427) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Add a printable work order with a customer signature line](https://github.com/Torqvoice/torqvoice/pull/425) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Update dependencies](https://github.com/Torqvoice/torqvoice/pull/439) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add a Fiken accounting integration](https://github.com/Torqvoice/torqvoice/pull/438) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Save with Ctrl&#43;S on settings pages, dialogs, inspections and the designers](https://github.com/Torqvoice/torqvoice/pull/437) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Staging fixes for condition map, status reports and certificates](https://github.com/Torqvoice/torqvoice/pull/436) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add a VIN lookup button to the vehicle form](https://github.com/Torqvoice/torqvoice/pull/435) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Count every map check on an inspection as its visit](https://github.com/Torqvoice/torqvoice/pull/434) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Test the condition map end to end and fix what the tests found](https://github.com/Torqvoice/torqvoice/pull/433) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Make the new work order page the default](https://github.com/Torqvoice/torqvoice/pull/432) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Print the condition map on invoices and quotes, with the linked inspection](https://github.com/Torqvoice/torqvoice/pull/431) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Split the templates menu into Documents, Checklists and Messages](https://github.com/Torqvoice/torqvoice/pull/429) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
