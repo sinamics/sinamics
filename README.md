@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (6 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (7 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (8 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add quotes to an existing work order and confirm earlier condition marks](https://github.com/Torqvoice/torqvoice/pull/445) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Tighten record linking checks](https://github.com/Torqvoice/torqvoice/pull/444) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Tidy the subscription plan cards](https://github.com/Torqvoice/torqvoice/pull/443) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Monthly and annual billing](https://github.com/Torqvoice/torqvoice/pull/442) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Improve mkworld config route handling](https://github.com/sinamics/ztnet/pull/1031) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Add all circulating currencies and centralize currency handling](https://github.com/Torqvoice/torqvoice/pull/441) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Update dependencies](https://github.com/Torqvoice/torqvoice/pull/439) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Add a Fiken accounting integration](https://github.com/Torqvoice/torqvoice/pull/438) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Save with Ctrl&#43;S on settings pages, dialogs, inspections and the designers](https://github.com/Torqvoice/torqvoice/pull/437) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
-- [Staging fixes for condition map, status reports and certificates](https://github.com/Torqvoice/torqvoice/pull/436) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Tighten account, technician app and upload handling](https://github.com/Torqvoice/torqvoice/pull/449) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Group invoice and quote lines by part category](https://github.com/Torqvoice/torqvoice/pull/448) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Inspection results on documents, dense table option and preview loading state](https://github.com/Torqvoice/torqvoice/pull/447) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add quotes to an existing work order and confirm earlier condition marks](https://github.com/Torqvoice/torqvoice/pull/445) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Tighten record linking checks](https://github.com/Torqvoice/torqvoice/pull/444) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Tidy the subscription plan cards](https://github.com/Torqvoice/torqvoice/pull/443) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Monthly and annual billing](https://github.com/Torqvoice/torqvoice/pull/442) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Improve mkworld config route handling](https://github.com/sinamics/ztnet/pull/1031) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Add all circulating currencies and centralize currency handling](https://github.com/Torqvoice/torqvoice/pull/441) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Update dependencies](https://github.com/Torqvoice/torqvoice/pull/439) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -148,7 +148,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (5 days ago)
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (6 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (7 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (1 year ago)
