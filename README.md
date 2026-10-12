@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Slim the Docker image](https://github.com/Torqvoice/torqvoice/pull/453) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show discounts on the subscription page](https://github.com/Torqvoice/torqvoice/pull/452) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Sort timesheets by client and vehicle, and print them](https://github.com/Torqvoice/torqvoice/pull/451) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Roll every-minute cron output into an hourly summary](https://github.com/Torqvoice/torqvoice/pull/450) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Tighten account, technician app and upload handling](https://github.com/Torqvoice/torqvoice/pull/449) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Group invoice and quote lines by part category](https://github.com/Torqvoice/torqvoice/pull/448) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Inspection results on documents, dense table option and preview loading state](https://github.com/Torqvoice/torqvoice/pull/447) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Add quotes to an existing work order and confirm earlier condition marks](https://github.com/Torqvoice/torqvoice/pull/445) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Tighten record linking checks](https://github.com/Torqvoice/torqvoice/pull/444) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
-- [Tidy the subscription plan cards](https://github.com/Torqvoice/torqvoice/pull/443) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Add a way to add a status from the work order&#39;s status menu](https://github.com/Torqvoice/torqvoice/pull/457) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Send realtime notifications one at a time on the bus connection](https://github.com/Torqvoice/torqvoice/pull/456) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Videos and descriptions from the technician app, and an All tab on Files &amp; media](https://github.com/Torqvoice/torqvoice/pull/455) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Give every job a start date](https://github.com/Torqvoice/torqvoice/pull/454) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Slim the Docker image](https://github.com/Torqvoice/torqvoice/pull/453) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show discounts on the subscription page](https://github.com/Torqvoice/torqvoice/pull/452) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Sort timesheets by client and vehicle, and print them](https://github.com/Torqvoice/torqvoice/pull/451) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Roll every-minute cron output into an hourly summary](https://github.com/Torqvoice/torqvoice/pull/450) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Tighten account, technician app and upload handling](https://github.com/Torqvoice/torqvoice/pull/449) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Group invoice and quote lines by part category](https://github.com/Torqvoice/torqvoice/pull/448) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -148,7 +148,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 day ago)
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2 days ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (8 months ago)
