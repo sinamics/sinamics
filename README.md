@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (7 months ago)
@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Add a way to add a status from the work order&#39;s status menu](https://github.com/Torqvoice/torqvoice/pull/457) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Send realtime notifications one at a time on the bus connection](https://github.com/Torqvoice/torqvoice/pull/456) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Videos and descriptions from the technician app, and an All tab on Files &amp; media](https://github.com/Torqvoice/torqvoice/pull/455) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Give every job a start date](https://github.com/Torqvoice/torqvoice/pull/454) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Slim the Docker image](https://github.com/Torqvoice/torqvoice/pull/453) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Show discounts on the subscription page](https://github.com/Torqvoice/torqvoice/pull/452) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Sort timesheets by client and vehicle, and print them](https://github.com/Torqvoice/torqvoice/pull/451) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Roll every-minute cron output into an hourly summary](https://github.com/Torqvoice/torqvoice/pull/450) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Tighten account, technician app and upload handling](https://github.com/Torqvoice/torqvoice/pull/449) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
-- [Group invoice and quote lines by part category](https://github.com/Torqvoice/torqvoice/pull/448) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Add a way to add a status from the work order&#39;s status menu](https://github.com/Torqvoice/torqvoice/pull/457) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Send realtime notifications one at a time on the bus connection](https://github.com/Torqvoice/torqvoice/pull/456) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Videos and descriptions from the technician app, and an All tab on Files &amp; media](https://github.com/Torqvoice/torqvoice/pull/455) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Give every job a start date](https://github.com/Torqvoice/torqvoice/pull/454) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Slim the Docker image](https://github.com/Torqvoice/torqvoice/pull/453) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Show discounts on the subscription page](https://github.com/Torqvoice/torqvoice/pull/452) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Sort timesheets by client and vehicle, and print them](https://github.com/Torqvoice/torqvoice/pull/451) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Roll every-minute cron output into an hourly summary](https://github.com/Torqvoice/torqvoice/pull/450) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Tighten account, technician app and upload handling](https://github.com/Torqvoice/torqvoice/pull/449) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
+- [Group invoice and quote lines by part category](https://github.com/Torqvoice/torqvoice/pull/448) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -148,7 +148,9 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2 days ago)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (1 day ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (1 day ago)
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (3 days ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (8 months ago)
@@ -156,8 +158,6 @@ const bernt = {
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (2 years ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (2 years ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 years ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 years ago)
-- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (2 years ago)
 
 ### 👯 Recent Followers
 
