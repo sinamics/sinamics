@@ -116,7 +116,7 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (6 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 week ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (7 months ago)
@@ -124,7 +124,7 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Let free workshops email documents from the platform address](https://github.com/Torqvoice/torqvoice/pull/462) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (6 days ago)
+- [Let free workshops email documents from the platform address](https://github.com/Torqvoice/torqvoice/pull/462) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Clear legacy controller secrets and close two gaps in the Central URL…](https://github.com/sinamics/ztnet/pull/1049) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Make the local controller an instance setting and tighten what the API returns](https://github.com/sinamics/ztnet/pull/1048) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Upgrade to React 19, tRPC 11 and react-query 5](https://github.com/sinamics/ztnet/pull/1041) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -161,11 +161,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [mpsive](https://github.com/mpsive)
 - [poormikey80-create](https://github.com/poormikey80-create)
 - [aosan](https://github.com/aosan)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [dkapt](https://github.com/dkapt)
-- [shengcun1981](https://github.com/shengcun1981)
 
 </details>
 
