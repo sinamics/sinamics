@@ -124,6 +124,8 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
+- [Pin Docker base image to Node 24.22.1 for the October security release](https://github.com/sinamics/ztnet/pull/1052) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Pin Node to 22.23.4 for the RCE fix](https://github.com/Torqvoice/torqvoice/pull/464) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 - [Let free workshops email documents from the platform address](https://github.com/Torqvoice/torqvoice/pull/462) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Clear legacy controller secrets and close two gaps in the Central URL…](https://github.com/sinamics/ztnet/pull/1049) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Make the local controller an instance setting and tighten what the API returns](https://github.com/sinamics/ztnet/pull/1048) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -132,8 +134,6 @@ const bernt = {
 - [Bump sharp, shadcn and the MCP SDK](https://github.com/Torqvoice/torqvoice/pull/461) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Give the discount and tax fields room for the amount beside its unit](https://github.com/Torqvoice/torqvoice/pull/460) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Notes fill their card, and links in notes open on Ctrl click](https://github.com/Torqvoice/torqvoice/pull/459) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Tax only some charges, and a cleaner totals card](https://github.com/Torqvoice/torqvoice/pull/458) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Add a way to add a status from the work order&#39;s status menu](https://github.com/Torqvoice/torqvoice/pull/457) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -151,7 +151,7 @@ const bernt = {
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (1 week ago)
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (1 week ago)
-- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 week ago)
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2 weeks ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (3 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (8 months ago)
