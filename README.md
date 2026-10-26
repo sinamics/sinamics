@@ -116,16 +116,16 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (7 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Pin Docker base image to Node 24.22.1 for the October security release](https://github.com/sinamics/ztnet/pull/1052) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Pin Node to 22.23.4 for the RCE fix](https://github.com/Torqvoice/torqvoice/pull/464) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Pin Docker base image to Node 24.22.1 for the October security release](https://github.com/sinamics/ztnet/pull/1052) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
+- [Pin Node to 22.23.4 for the RCE fix](https://github.com/Torqvoice/torqvoice/pull/464) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 - [Let free workshops email documents from the platform address](https://github.com/Torqvoice/torqvoice/pull/462) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Clear legacy controller secrets and close two gaps in the Central URL…](https://github.com/sinamics/ztnet/pull/1049) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
 - [Make the local controller an instance setting and tighten what the API returns](https://github.com/sinamics/ztnet/pull/1048) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
@@ -149,8 +149,8 @@ const bernt = {
 ### ⭐ Recent Stars
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (1 week ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (1 week ago)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (2 weeks ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (2 weeks ago)
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2 weeks ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (3 weeks ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 months ago)
