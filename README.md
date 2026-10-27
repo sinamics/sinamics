@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (7 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Pin Docker base image to Node 24.22.1 for the October security release](https://github.com/sinamics/ztnet/pull/1052) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (3 days ago)
-- [Pin Node to 22.23.4 for the RCE fix](https://github.com/Torqvoice/torqvoice/pull/464) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Pin Docker base image to Node 24.22.1 for the October security release](https://github.com/sinamics/ztnet/pull/1052) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
+- [Pin Node to 22.23.4 for the RCE fix](https://github.com/Torqvoice/torqvoice/pull/464) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 - [Let free workshops email documents from the platform address](https://github.com/Torqvoice/torqvoice/pull/462) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Clear legacy controller secrets and close two gaps in the Central URL…](https://github.com/sinamics/ztnet/pull/1049) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Make the local controller an instance setting and tighten what the API returns](https://github.com/sinamics/ztnet/pull/1048) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Upgrade to React 19, tRPC 11 and react-query 5](https://github.com/sinamics/ztnet/pull/1041) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Fetch member counts instead of every member on the admin controller page](https://github.com/sinamics/ztnet/pull/1040) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 week ago)
-- [Bump sharp, shadcn and the MCP SDK](https://github.com/Torqvoice/torqvoice/pull/461) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Give the discount and tax fields room for the amount beside its unit](https://github.com/Torqvoice/torqvoice/pull/460) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
-- [Notes fill their card, and links in notes open on Ctrl click](https://github.com/Torqvoice/torqvoice/pull/459) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
+- [Clear legacy controller secrets and close two gaps in the Central URL…](https://github.com/sinamics/ztnet/pull/1049) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Make the local controller an instance setting and tighten what the API returns](https://github.com/sinamics/ztnet/pull/1048) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Upgrade to React 19, tRPC 11 and react-query 5](https://github.com/sinamics/ztnet/pull/1041) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Fetch member counts instead of every member on the admin controller page](https://github.com/sinamics/ztnet/pull/1040) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
+- [Bump sharp, shadcn and the MCP SDK](https://github.com/Torqvoice/torqvoice/pull/461) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
+- [Give the discount and tax fields room for the amount beside its unit](https://github.com/Torqvoice/torqvoice/pull/460) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
+- [Notes fill their card, and links in notes open on Ctrl click](https://github.com/Torqvoice/torqvoice/pull/459) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -144,11 +144,11 @@ const bernt = {
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (3 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (3 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (3 years ago)
-- [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (3 years ago)
+- [mqtt tls config](https://gist.github.com/20d325a3d7d8d9db4c657737f93aac99) (4 years ago)
 
 ### ⭐ Recent Stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 weeks ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (2 weeks ago)
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (2 weeks ago)
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (2 weeks ago)
