@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (3 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (7 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Pin Docker base image to Node 24.22.1 for the October security release](https://github.com/sinamics/ztnet/pull/1052) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (4 days ago)
-- [Pin Node to 22.23.4 for the RCE fix](https://github.com/Torqvoice/torqvoice/pull/464) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Show the seat limit before inviting, and theme the toasts](https://github.com/Torqvoice/torqvoice/pull/468) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Recover stale tabs after a deploy or expired session](https://github.com/Torqvoice/torqvoice/pull/467) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let Openapi Automotive lookups skip the car search](https://github.com/Torqvoice/torqvoice/pull/466) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Pin Docker base image to Node 24.22.1 for the October security release](https://github.com/sinamics/ztnet/pull/1052) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (5 days ago)
+- [Pin Node to 22.23.4 for the RCE fix](https://github.com/Torqvoice/torqvoice/pull/464) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (5 days ago)
 - [Let free workshops email documents from the platform address](https://github.com/Torqvoice/torqvoice/pull/462) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 week ago)
 - [Clear legacy controller secrets and close two gaps in the Central URL…](https://github.com/sinamics/ztnet/pull/1049) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Make the local controller an instance setting and tighten what the API returns](https://github.com/sinamics/ztnet/pull/1048) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Upgrade to React 19, tRPC 11 and react-query 5](https://github.com/sinamics/ztnet/pull/1041) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
 - [Fetch member counts instead of every member on the admin controller page](https://github.com/sinamics/ztnet/pull/1040) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 weeks ago)
-- [Bump sharp, shadcn and the MCP SDK](https://github.com/Torqvoice/torqvoice/pull/461) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Give the discount and tax fields room for the amount beside its unit](https://github.com/Torqvoice/torqvoice/pull/460) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
-- [Notes fill their card, and links in notes open on Ctrl click](https://github.com/Torqvoice/torqvoice/pull/459) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 weeks ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
