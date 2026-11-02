@@ -124,16 +124,16 @@ const bernt = {
 
 ## 🔨 Recent Pull Requests
 
-- [Save the form&#39;s registry lookup whole and retry failed inspection checks](https://github.com/Torqvoice/torqvoice/pull/484) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Let workshops set the inspection sync cadence, and count a form lookup as a check](https://github.com/Torqvoice/torqvoice/pull/483) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Replace the CLA bot with an agreement line in the pull request](https://github.com/Torqvoice/torqvoice/pull/482) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add contributing guide and contributor license agreement](https://github.com/Torqvoice/torqvoice/pull/481) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Back up workshops on a schedule, restore from a backup, and run platform backups for Pro workshops](https://github.com/Torqvoice/torqvoice/pull/480) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep the bell quiet for a message on the thread already open](https://github.com/Torqvoice/torqvoice/pull/479) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add a Clear all button to the notification panel](https://github.com/Torqvoice/torqvoice/pull/478) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Let a disconnected mail vendor fall back to platform mail and reshape the email composer](https://github.com/Torqvoice/torqvoice/pull/477) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Let licensed self-hosted installs brand the browser tab and app icon](https://github.com/Torqvoice/torqvoice/pull/476) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Bring customer email replies into the Messages inbox](https://github.com/Torqvoice/torqvoice/pull/475) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Give the engine and restore tests their own temp folder so they stop clashing](https://github.com/Torqvoice/torqvoice/pull/494) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Scroll the integration activity list and load older jobs as it scrolls; highlight the cloud backup note](https://github.com/Torqvoice/torqvoice/pull/493) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Update next, better-auth and the packages Dependabot flags](https://github.com/Torqvoice/torqvoice/pull/492) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Flag a labour line&#39;s missing description when it gets hours or a price, not when it is added](https://github.com/Torqvoice/torqvoice/pull/491) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Point at a password reset and at sign-up after a second failed sign-in](https://github.com/Torqvoice/torqvoice/pull/490) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Explain a blocked camera in the barcode scanner, offer it again, and take a typed code on the first press](https://github.com/Torqvoice/torqvoice/pull/489) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Mark issues stale after 30 days without activity and close them 3 days later](https://github.com/Torqvoice/torqvoice/pull/488) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show backups by Torqvoice as one list, with restore on each backup](https://github.com/Torqvoice/torqvoice/pull/487) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Connect Meta WhatsApp before the phone number ID and access token exist](https://github.com/Torqvoice/torqvoice/pull/486) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add offline licence tokens for self-hosted installs](https://github.com/Torqvoice/torqvoice/pull/485) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -149,8 +149,8 @@ const bernt = {
 ### ⭐ Recent Stars
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (2 weeks ago)
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (2 weeks ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (2 weeks ago)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (3 weeks ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (3 weeks ago)
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (3 weeks ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 months ago)
