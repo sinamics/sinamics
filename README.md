@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Keep page text working after a support screenshot by updating snapdom to 2.24.18](https://github.com/Torqvoice/torqvoice/pull/511) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Upload browser source maps to PostHog so error stack traces show the real file and line](https://github.com/Torqvoice/torqvoice/pull/510) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a container health check that tests the database, uploads and background jobs, and deploy on healthy](https://github.com/Torqvoice/torqvoice/pull/509) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Look up makes&#39; own fault codes, share waveforms, research fixes and import codes](https://github.com/Torqvoice/torqvoice/pull/508) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show when a shared fix was edited during review](https://github.com/Torqvoice/torqvoice/pull/507) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Workshops can now look up OBD-II fault](https://github.com/Torqvoice/torqvoice/pull/506) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Remove the classic work order layout](https://github.com/Torqvoice/torqvoice/pull/504) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Bind the compose database port to localhost and run the cloud e2e shard with a pre-minted token](https://github.com/Torqvoice/torqvoice/pull/503) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Add AGENTS.md with the project instructions for coding agents](https://github.com/Torqvoice/torqvoice/pull/502) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Pin the header and footer of the vehicle dialog so Save never scrolls out of view](https://github.com/Torqvoice/torqvoice/pull/501) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Import more service history exports without errors and make long form dropdowns searchable](https://github.com/Torqvoice/torqvoice/pull/514) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say when a change did not reach the server, instead of failing silently on a weak connection](https://github.com/Torqvoice/torqvoice/pull/513) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show an example of Backups by Torqvoice on plans without them](https://github.com/Torqvoice/torqvoice/pull/512) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep page text working after a support screenshot by updating snapdom to 2.24.18](https://github.com/Torqvoice/torqvoice/pull/511) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Upload browser source maps to PostHog so error stack traces show the real file and line](https://github.com/Torqvoice/torqvoice/pull/510) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add a container health check that tests the database, uploads and background jobs, and deploy on healthy](https://github.com/Torqvoice/torqvoice/pull/509) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Look up makes&#39; own fault codes, share waveforms, research fixes and import codes](https://github.com/Torqvoice/torqvoice/pull/508) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show when a shared fix was edited during review](https://github.com/Torqvoice/torqvoice/pull/507) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Workshops can now look up OBD-II fault](https://github.com/Torqvoice/torqvoice/pull/506) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Remove the classic work order layout](https://github.com/Torqvoice/torqvoice/pull/504) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -154,7 +154,7 @@ const bernt = {
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (4 weeks ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 months ago)
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (8 months ago)
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (9 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (2 years ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (2 years ago)
 - [WebDevSimplified/parity-deals-clone](https://github.com/WebDevSimplified/parity-deals-clone) -  (2 years ago)
