@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 month ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Import more service history exports without errors and make long form dropdowns searchable](https://github.com/Torqvoice/torqvoice/pull/514) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Say when a change did not reach the server, instead of failing silently on a weak connection](https://github.com/Torqvoice/torqvoice/pull/513) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show an example of Backups by Torqvoice on plans without them](https://github.com/Torqvoice/torqvoice/pull/512) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep page text working after a support screenshot by updating snapdom to 2.24.18](https://github.com/Torqvoice/torqvoice/pull/511) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Upload browser source maps to PostHog so error stack traces show the real file and line](https://github.com/Torqvoice/torqvoice/pull/510) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add a container health check that tests the database, uploads and background jobs, and deploy on healthy](https://github.com/Torqvoice/torqvoice/pull/509) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Look up makes&#39; own fault codes, share waveforms, research fixes and import codes](https://github.com/Torqvoice/torqvoice/pull/508) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Show when a shared fix was edited during review](https://github.com/Torqvoice/torqvoice/pull/507) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Workshops can now look up OBD-II fault](https://github.com/Torqvoice/torqvoice/pull/506) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Remove the classic work order layout](https://github.com/Torqvoice/torqvoice/pull/504) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (4 days ago)
+- [Let a work order be left when its save is refused](https://github.com/Torqvoice/torqvoice/pull/546) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Move a job to In Progress when work starts on it](https://github.com/Torqvoice/torqvoice/pull/545) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Name the calendar, messages and inspection pages in the breadcrumb](https://github.com/Torqvoice/torqvoice/pull/544) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep a part scanned from the technician app on an open work order](https://github.com/Torqvoice/torqvoice/pull/543) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show work order statuses and types in the reader&#39;s language in lists](https://github.com/Torqvoice/torqvoice/pull/542) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Send the technician app a contact line instead of a placeholder address](https://github.com/Torqvoice/torqvoice/pull/541) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Log two-factor and passkey changes in the audit log](https://github.com/Torqvoice/torqvoice/pull/540) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Name the role a person is given in the audit log](https://github.com/Torqvoice/torqvoice/pull/539) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Name the reports page once in the breadcrumb](https://github.com/Torqvoice/torqvoice/pull/538) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Name every settings page in the breadcrumb](https://github.com/Torqvoice/torqvoice/pull/537) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -149,9 +149,9 @@ const bernt = {
 ### ⭐ Recent Stars
 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (3 weeks ago)
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (3 weeks ago)
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (3 weeks ago)
-- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (4 weeks ago)
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust (4 weeks ago)
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust (4 weeks ago)
+- [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 month ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (1 month ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (9 months ago)
