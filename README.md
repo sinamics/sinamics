@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Log why a provider refused a sign-in and keep tokens through a failed reconnect](https://github.com/Torqvoice/torqvoice/pull/571) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [List only the OpenAI models that can answer a chat, newest first](https://github.com/Torqvoice/torqvoice/pull/570) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Say when a delete fails and put back what was removed, instead of failing silently](https://github.com/Torqvoice/torqvoice/pull/569) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show a note under the supplier link when Fetch cannot read the page](https://github.com/Torqvoice/torqvoice/pull/568) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep a half-written support request when the page reloads](https://github.com/Torqvoice/torqvoice/pull/567) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Let an account that signed up with Google set a password](https://github.com/Torqvoice/torqvoice/pull/566) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Ask for a new sign-in instead of &#34;Session is not fresh&#34; when adding a passkey](https://github.com/Torqvoice/torqvoice/pull/565) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Ask for a role before sending a team invitation](https://github.com/Torqvoice/torqvoice/pull/564) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Catch an AI key without credit or model access in the connection test](https://github.com/Torqvoice/torqvoice/pull/563) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Put more than one technician on a work order](https://github.com/Torqvoice/torqvoice/pull/562) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Send customer notes to Xero and QuickBooks as plain text and let Xero place them above the charges](https://github.com/Torqvoice/torqvoice/pull/572) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Log why a provider refused a sign-in and keep tokens through a failed reconnect](https://github.com/Torqvoice/torqvoice/pull/571) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [List only the OpenAI models that can answer a chat, newest first](https://github.com/Torqvoice/torqvoice/pull/570) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Say when a delete fails and put back what was removed, instead of failing silently](https://github.com/Torqvoice/torqvoice/pull/569) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show a note under the supplier link when Fetch cannot read the page](https://github.com/Torqvoice/torqvoice/pull/568) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Keep a half-written support request when the page reloads](https://github.com/Torqvoice/torqvoice/pull/567) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Let an account that signed up with Google set a password](https://github.com/Torqvoice/torqvoice/pull/566) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Ask for a new sign-in instead of &#34;Session is not fresh&#34; when adding a passkey](https://github.com/Torqvoice/torqvoice/pull/565) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Ask for a role before sending a team invitation](https://github.com/Torqvoice/torqvoice/pull/564) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Catch an AI key without credit or model access in the connection test](https://github.com/Torqvoice/torqvoice/pull/563) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -148,7 +148,7 @@ const bernt = {
 
 ### ⭐ Recent Stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (4 weeks ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust (1 month ago)
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust (1 month ago)
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 month ago)
