@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Send customer notes to Xero and QuickBooks as plain text and let Xero place them above the charges](https://github.com/Torqvoice/torqvoice/pull/572) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Log why a provider refused a sign-in and keep tokens through a failed reconnect](https://github.com/Torqvoice/torqvoice/pull/571) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [List only the OpenAI models that can answer a chat, newest first](https://github.com/Torqvoice/torqvoice/pull/570) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Say when a delete fails and put back what was removed, instead of failing silently](https://github.com/Torqvoice/torqvoice/pull/569) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Show a note under the supplier link when Fetch cannot read the page](https://github.com/Torqvoice/torqvoice/pull/568) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep a half-written support request when the page reloads](https://github.com/Torqvoice/torqvoice/pull/567) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Let an account that signed up with Google set a password](https://github.com/Torqvoice/torqvoice/pull/566) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Ask for a new sign-in instead of &#34;Session is not fresh&#34; when adding a passkey](https://github.com/Torqvoice/torqvoice/pull/565) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Ask for a role before sending a team invitation](https://github.com/Torqvoice/torqvoice/pull/564) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Catch an AI key without credit or model access in the connection test](https://github.com/Torqvoice/torqvoice/pull/563) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Use a Xero contact found by email only when its name matches too](https://github.com/Torqvoice/torqvoice/pull/573) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Send customer notes to Xero and QuickBooks as plain text and let Xero place them above the charges](https://github.com/Torqvoice/torqvoice/pull/572) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Log why a provider refused a sign-in and keep tokens through a failed reconnect](https://github.com/Torqvoice/torqvoice/pull/571) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [List only the OpenAI models that can answer a chat, newest first](https://github.com/Torqvoice/torqvoice/pull/570) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Say when a delete fails and put back what was removed, instead of failing silently](https://github.com/Torqvoice/torqvoice/pull/569) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Show a note under the supplier link when Fetch cannot read the page](https://github.com/Torqvoice/torqvoice/pull/568) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Keep a half-written support request when the page reloads](https://github.com/Torqvoice/torqvoice/pull/567) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Let an account that signed up with Google set a password](https://github.com/Torqvoice/torqvoice/pull/566) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Ask for a new sign-in instead of &#34;Session is not fresh&#34; when adding a passkey](https://github.com/Torqvoice/torqvoice/pull/565) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Ask for a role before sending a team invitation](https://github.com/Torqvoice/torqvoice/pull/564) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
