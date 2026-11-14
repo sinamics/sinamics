@@ -116,31 +116,31 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (2 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
-- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (9 months ago)
+- [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Use a Xero contact found by email only when its name matches too](https://github.com/Torqvoice/torqvoice/pull/573) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
-- [Send customer notes to Xero and QuickBooks as plain text and let Xero place them above the charges](https://github.com/Torqvoice/torqvoice/pull/572) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Log why a provider refused a sign-in and keep tokens through a failed reconnect](https://github.com/Torqvoice/torqvoice/pull/571) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [List only the OpenAI models that can answer a chat, newest first](https://github.com/Torqvoice/torqvoice/pull/570) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Say when a delete fails and put back what was removed, instead of failing silently](https://github.com/Torqvoice/torqvoice/pull/569) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Show a note under the supplier link when Fetch cannot read the page](https://github.com/Torqvoice/torqvoice/pull/568) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Keep a half-written support request when the page reloads](https://github.com/Torqvoice/torqvoice/pull/567) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Let an account that signed up with Google set a password](https://github.com/Torqvoice/torqvoice/pull/566) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Ask for a new sign-in instead of &#34;Session is not fresh&#34; when adding a passkey](https://github.com/Torqvoice/torqvoice/pull/565) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
-- [Ask for a role before sending a team invitation](https://github.com/Torqvoice/torqvoice/pull/564) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Stop unit test runs failing after every test has passed](https://github.com/Torqvoice/torqvoice/pull/581) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Rebuild the vehicle page, flag booking clashes on it, and redesign the edit vehicle dialog](https://github.com/Torqvoice/torqvoice/pull/580) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Book appointments with notifications, edit bookings, and see the week ahead on the dashboard](https://github.com/Torqvoice/torqvoice/pull/579) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Stop AI requests from waiting minutes on a busy provider, and tidy model names](https://github.com/Torqvoice/torqvoice/pull/578) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say when a change could not be saved instead of leaving the screen wrong, stuck or on the error page](https://github.com/Torqvoice/torqvoice/pull/577) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep a shared link on screen until it is really revoked](https://github.com/Torqvoice/torqvoice/pull/576) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Number new jobs after the highest number in the workshop&#39;s format](https://github.com/Torqvoice/torqvoice/pull/575) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Book appointments from the calendar without opening a work order](https://github.com/Torqvoice/torqvoice/pull/574) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Use a Xero contact found by email only when its name matches too](https://github.com/Torqvoice/torqvoice/pull/573) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Send customer notes to Xero and QuickBooks as plain text and let Xero place them above the charges](https://github.com/Torqvoice/torqvoice/pull/572) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
 
 ### 📓 Gists I wrote
 
-- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (1 year ago)
+- [Scan network for Raspberry Pi devices](https://gist.github.com/b35f3b09a2446889008801648efe9e9c) (2 years ago)
 - [Format USB Drive in Windows 10 with DiskPart](https://gist.github.com/8aa001b3dbe040e07917665b6a8f59c4) (3 years ago)
 - [Motd welcome message](https://gist.github.com/d1f96f39b797ccb2eba6e8bd539510bc) (3 years ago)
 - [Generate self signed ssl certificates client/server](https://gist.github.com/4ecdb293851b7018a715f4186ffa1e79) (4 years ago)
