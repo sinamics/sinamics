@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (6 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Open What&#39;s new from a tab on the edge of the screen and restyle the panel](https://github.com/Torqvoice/torqvoice/pull/598) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Send invoices, customers and payments to Zoho Books](https://github.com/Torqvoice/torqvoice/pull/597) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show the staging app the What&#39;s new entries being tried on staging](https://github.com/Torqvoice/torqvoice/pull/596) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Send default SMS templates in the workshop&#39;s language](https://github.com/Torqvoice/torqvoice/pull/595) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Take invoice payments through Paystack](https://github.com/Torqvoice/torqvoice/pull/594) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Say in plain words when a text is refused for its country](https://github.com/Torqvoice/torqvoice/pull/593) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Send platform SMS through a Twilio Messaging Service](https://github.com/Torqvoice/torqvoice/pull/592) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Send quotes, invoices and inspections from one Send dialog](https://github.com/Torqvoice/torqvoice/pull/591) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show an accepted quote as accepted on the calendar](https://github.com/Torqvoice/torqvoice/pull/590) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show an online booking&#39;s time on the workshop clock in the confirmation and the desk notice](https://github.com/Torqvoice/torqvoice/pull/589) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix portal layout breaks, request text and chat event times](https://github.com/Torqvoice/torqvoice/pull/607) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Improve keyboard and screen reader access across the app](https://github.com/Torqvoice/torqvoice/pull/606) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep portal conversations through a customers-only restore and their authors within the workshop](https://github.com/Torqvoice/torqvoice/pull/605) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let the platform backup cycle be turned off by its system setting](https://github.com/Torqvoice/torqvoice/pull/604) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Rebuild the customer portal with themes, chat and photo uploads](https://github.com/Torqvoice/torqvoice/pull/603) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Apply the workshop&#39;s forced language on the portal and share pages](https://github.com/Torqvoice/torqvoice/pull/602) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Attach a PDF to a job from the technician app](https://github.com/Torqvoice/torqvoice/pull/601) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say what is missing in the booking dialog instead of greying out the button](https://github.com/Torqvoice/torqvoice/pull/600) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Count What&#39;s new opens and label an entry New for three weeks](https://github.com/Torqvoice/torqvoice/pull/599) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Open What&#39;s new from a tab on the edge of the screen and restyle the panel](https://github.com/Torqvoice/torqvoice/pull/598) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
