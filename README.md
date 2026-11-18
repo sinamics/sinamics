@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 weeks ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add a vehicle or customer while booking, and book straight from plate lookup](https://github.com/Torqvoice/torqvoice/pull/618) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show when a share link stops working and replace the 404 for closed links](https://github.com/Torqvoice/torqvoice/pull/617) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Use the redesigned confirmation dialog for every prompt](https://github.com/Torqvoice/torqvoice/pull/616) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Hide the support button on phones and tablets](https://github.com/Torqvoice/torqvoice/pull/615) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Move Support under System in settings and stop cutting off menu descriptions](https://github.com/Torqvoice/torqvoice/pull/614) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Save a work order or quote before any in-app navigation leaves it](https://github.com/Torqvoice/torqvoice/pull/613) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add keyboard shortcuts with a per-person settings page](https://github.com/Torqvoice/torqvoice/pull/612) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Restore every column a backup carries](https://github.com/Torqvoice/torqvoice/pull/611) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Redesign the confirmation dialog with key hints, affected items and a phone sheet](https://github.com/Torqvoice/torqvoice/pull/610) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Count a multi-day job as one working day on the work board and show how far over a day is](https://github.com/Torqvoice/torqvoice/pull/609) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add organization quotas set by the instance admin](https://github.com/sinamics/ztnet/pull/1077) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Override vulnerable transitive dependencies and harden the locale redirect](https://github.com/sinamics/ztnet/pull/1076) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Refresh organization network page right after member actions](https://github.com/sinamics/ztnet/pull/1075) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Update Next.js to 16.4.6](https://github.com/sinamics/ztnet/pull/1074) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Quiet routine background job lines in the server log](https://github.com/Torqvoice/torqvoice/pull/627) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Bump next-ws to 3.0.0 so the WebSocket patch supports Next 16.4.6](https://github.com/Torqvoice/torqvoice/pull/626) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Turn off stock tracking for fees and consumables](https://github.com/Torqvoice/torqvoice/pull/625) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Remember which item types are shown on the calendar](https://github.com/Torqvoice/torqvoice/pull/624) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Reorder quote items by dragging](https://github.com/Torqvoice/torqvoice/pull/623) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add a vehicle or customer while booking, and book straight from plate lookup](https://github.com/Torqvoice/torqvoice/pull/618) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
