@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add organization quotas set by the instance admin](https://github.com/sinamics/ztnet/pull/1077) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Override vulnerable transitive dependencies and harden the locale redirect](https://github.com/sinamics/ztnet/pull/1076) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Refresh organization network page right after member actions](https://github.com/sinamics/ztnet/pull/1075) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Update Next.js to 16.4.6](https://github.com/sinamics/ztnet/pull/1074) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Quiet routine background job lines in the server log](https://github.com/Torqvoice/torqvoice/pull/627) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Bump next-ws to 3.0.0 so the WebSocket patch supports Next 16.4.6](https://github.com/Torqvoice/torqvoice/pull/626) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Turn off stock tracking for fees and consumables](https://github.com/Torqvoice/torqvoice/pull/625) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Remember which item types are shown on the calendar](https://github.com/Torqvoice/torqvoice/pull/624) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Reorder quote items by dragging](https://github.com/Torqvoice/torqvoice/pull/623) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add a vehicle or customer while booking, and book straight from plate lookup](https://github.com/Torqvoice/torqvoice/pull/618) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add opt-in member status log](https://github.com/sinamics/ztnet/pull/1078) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Send only displayed fields to share pages](https://github.com/Torqvoice/torqvoice/pull/633) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show a calendar booking&#39;s description as the job&#39;s conditions and open Edit on double-click](https://github.com/Torqvoice/torqvoice/pull/632) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add an Alt&#43;L shortcut for a new appointment](https://github.com/Torqvoice/torqvoice/pull/631) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Make plain appointments findable from search and the vehicle page](https://github.com/Torqvoice/torqvoice/pull/630) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Prevent a work order from being created twice](https://github.com/Torqvoice/torqvoice/pull/629) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Store licence plates in upper case](https://github.com/Torqvoice/torqvoice/pull/628) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add organization quotas set by the instance admin](https://github.com/sinamics/ztnet/pull/1077) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Override vulnerable transitive dependencies and harden the locale redirect](https://github.com/sinamics/ztnet/pull/1076) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Refresh organization network page right after member actions](https://github.com/sinamics/ztnet/pull/1075) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -161,11 +161,11 @@ const bernt = {
 
 ### 👯 Recent Followers
 
+- [PhysShell](https://github.com/PhysShell)
 - [mpsive](https://github.com/mpsive)
 - [aosan](https://github.com/aosan)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [dkapt](https://github.com/dkapt)
-- [shengcun1981](https://github.com/shengcun1981)
 
 </details>
 
