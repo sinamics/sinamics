@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (2 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Add opt-in member status log](https://github.com/sinamics/ztnet/pull/1078) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Send only displayed fields to share pages](https://github.com/Torqvoice/torqvoice/pull/633) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show a calendar booking&#39;s description as the job&#39;s conditions and open Edit on double-click](https://github.com/Torqvoice/torqvoice/pull/632) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add an Alt&#43;L shortcut for a new appointment](https://github.com/Torqvoice/torqvoice/pull/631) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Make plain appointments findable from search and the vehicle page](https://github.com/Torqvoice/torqvoice/pull/630) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Prevent a work order from being created twice](https://github.com/Torqvoice/torqvoice/pull/629) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Store licence plates in upper case](https://github.com/Torqvoice/torqvoice/pull/628) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add organization quotas set by the instance admin](https://github.com/sinamics/ztnet/pull/1077) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Override vulnerable transitive dependencies and harden the locale redirect](https://github.com/sinamics/ztnet/pull/1076) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
-- [Refresh organization network page right after member actions](https://github.com/sinamics/ztnet/pull/1075) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Keep full stops readable in every PDF, whatever the server printed first](https://github.com/Torqvoice/torqvoice/pull/647) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Let a corrected job reading bring the vehicle back down, and ask before saving a reading far above the last one](https://github.com/Torqvoice/torqvoice/pull/646) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the quote header readable on a phone](https://github.com/Torqvoice/torqvoice/pull/645) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the vehicle name readable in the edit dialog on a phone](https://github.com/Torqvoice/torqvoice/pull/644) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say a locked quote is locked when Save is pressed](https://github.com/Torqvoice/torqvoice/pull/643) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add optional reference, fleet number, meters and equipment for larger vehicles](https://github.com/Torqvoice/torqvoice/pull/642) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Warn about a lower mileage reading and update the vehicle&#39;s reading by one rule](https://github.com/Torqvoice/torqvoice/pull/641) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Check custom field values on the server and remove them with their record](https://github.com/Torqvoice/torqvoice/pull/640) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the mileage an invoice was issued with](https://github.com/Torqvoice/torqvoice/pull/639) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Print custom field values in the workshop&#39;s language and date format](https://github.com/Torqvoice/torqvoice/pull/638) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
