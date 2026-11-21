@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (3 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Keep full stops readable in every PDF, whatever the server printed first](https://github.com/Torqvoice/torqvoice/pull/647) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Let a corrected job reading bring the vehicle back down, and ask before saving a reading far above the last one](https://github.com/Torqvoice/torqvoice/pull/646) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep the quote header readable on a phone](https://github.com/Torqvoice/torqvoice/pull/645) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep the vehicle name readable in the edit dialog on a phone](https://github.com/Torqvoice/torqvoice/pull/644) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Say a locked quote is locked when Save is pressed](https://github.com/Torqvoice/torqvoice/pull/643) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add optional reference, fleet number, meters and equipment for larger vehicles](https://github.com/Torqvoice/torqvoice/pull/642) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Warn about a lower mileage reading and update the vehicle&#39;s reading by one rule](https://github.com/Torqvoice/torqvoice/pull/641) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Check custom field values on the server and remove them with their record](https://github.com/Torqvoice/torqvoice/pull/640) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep the mileage an invoice was issued with](https://github.com/Torqvoice/torqvoice/pull/639) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Print custom field values in the workshop&#39;s language and date format](https://github.com/Torqvoice/torqvoice/pull/638) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Scroll the settings menu to the page that is open](https://github.com/Torqvoice/torqvoice/pull/651) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Give the Member role page walk the time its thirteen pages need](https://github.com/Torqvoice/torqvoice/pull/650) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show a shared quote&#39;s logo to customers who are not signed in](https://github.com/Torqvoice/torqvoice/pull/649) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Serve only a shared document&#39;s own files on its link](https://github.com/Torqvoice/torqvoice/pull/648) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep full stops readable in every PDF, whatever the server printed first](https://github.com/Torqvoice/torqvoice/pull/647) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Let a corrected job reading bring the vehicle back down, and ask before saving a reading far above the last one](https://github.com/Torqvoice/torqvoice/pull/646) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Keep the quote header readable on a phone](https://github.com/Torqvoice/torqvoice/pull/645) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Keep the vehicle name readable in the edit dialog on a phone](https://github.com/Torqvoice/torqvoice/pull/644) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Say a locked quote is locked when Save is pressed](https://github.com/Torqvoice/torqvoice/pull/643) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Add optional reference, fleet number, meters and equipment for larger vehicles](https://github.com/Torqvoice/torqvoice/pull/642) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
