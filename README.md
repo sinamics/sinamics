@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (4 days ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Scroll the settings menu to the page that is open](https://github.com/Torqvoice/torqvoice/pull/651) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Give the Member role page walk the time its thirteen pages need](https://github.com/Torqvoice/torqvoice/pull/650) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Show a shared quote&#39;s logo to customers who are not signed in](https://github.com/Torqvoice/torqvoice/pull/649) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Serve only a shared document&#39;s own files on its link](https://github.com/Torqvoice/torqvoice/pull/648) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep full stops readable in every PDF, whatever the server printed first](https://github.com/Torqvoice/torqvoice/pull/647) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Let a corrected job reading bring the vehicle back down, and ask before saving a reading far above the last one](https://github.com/Torqvoice/torqvoice/pull/646) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep the quote header readable on a phone](https://github.com/Torqvoice/torqvoice/pull/645) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep the vehicle name readable in the edit dialog on a phone](https://github.com/Torqvoice/torqvoice/pull/644) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Say a locked quote is locked when Save is pressed](https://github.com/Torqvoice/torqvoice/pull/643) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add optional reference, fleet number, meters and equipment for larger vehicles](https://github.com/Torqvoice/torqvoice/pull/642) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Keep the import sources readable when the settings page is narrow](https://github.com/Torqvoice/torqvoice/pull/657) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Ask before applying an action in the admin console](https://github.com/Torqvoice/torqvoice/pull/656) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add search to the document designer](https://github.com/Torqvoice/torqvoice/pull/655) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the support button in its corner when the window is resized](https://github.com/Torqvoice/torqvoice/pull/654) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the eye of a hidden section visible in the document designer](https://github.com/Torqvoice/torqvoice/pull/653) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Scroll the settings menu to the page that is open](https://github.com/Torqvoice/torqvoice/pull/651) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Give the Member role page walk the time its thirteen pages need](https://github.com/Torqvoice/torqvoice/pull/650) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show a shared quote&#39;s logo to customers who are not signed in](https://github.com/Torqvoice/torqvoice/pull/649) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Serve only a shared document&#39;s own files on its link](https://github.com/Torqvoice/torqvoice/pull/648) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Keep full stops readable in every PDF, whatever the server printed first](https://github.com/Torqvoice/torqvoice/pull/647) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
