@@ -117,23 +117,23 @@ const bernt = {
 ## 👷 Currently Working On
 
 - [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (5 days ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Keep the import sources readable when the settings page is narrow](https://github.com/Torqvoice/torqvoice/pull/657) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Ask before applying an action in the admin console](https://github.com/Torqvoice/torqvoice/pull/656) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Add search to the document designer](https://github.com/Torqvoice/torqvoice/pull/655) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep the support button in its corner when the window is resized](https://github.com/Torqvoice/torqvoice/pull/654) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Keep the eye of a hidden section visible in the document designer](https://github.com/Torqvoice/torqvoice/pull/653) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Scroll the settings menu to the page that is open](https://github.com/Torqvoice/torqvoice/pull/651) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Give the Member role page walk the time its thirteen pages need](https://github.com/Torqvoice/torqvoice/pull/650) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Show a shared quote&#39;s logo to customers who are not signed in](https://github.com/Torqvoice/torqvoice/pull/649) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Serve only a shared document&#39;s own files on its link](https://github.com/Torqvoice/torqvoice/pull/648) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep full stops readable in every PDF, whatever the server printed first](https://github.com/Torqvoice/torqvoice/pull/647) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Open the record from a row of the dashboard&#39;s recent activity](https://github.com/Torqvoice/torqvoice/pull/670) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Add an optional Updated column to the work order list](https://github.com/Torqvoice/torqvoice/pull/669) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Open the payment form from the Unpaid pill, and make the other header pills plain](https://github.com/Torqvoice/torqvoice/pull/668) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Say why scanning or plate lookup is unavailable in the vehicle form](https://github.com/Torqvoice/torqvoice/pull/667) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Redraw only the edited card when typing on a work order](https://github.com/Torqvoice/torqvoice/pull/666) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show a lost connection as a lost connection, not as a server error](https://github.com/Torqvoice/torqvoice/pull/665) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Write mileage and a report&#39;s day the same on the server and in the browser](https://github.com/Torqvoice/torqvoice/pull/664) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Open the status menu from the stage a work order is in](https://github.com/Torqvoice/torqvoice/pull/663) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the barcode scanner from crashing on a small camera view](https://github.com/Torqvoice/torqvoice/pull/662) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Keep the part dialog&#39;s photo buttons and fields inside their columns](https://github.com/Torqvoice/torqvoice/pull/661) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
