@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (1 day ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (2 days ago)
 - [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Refuse an uploaded backup whose record ids cannot sit in a link](https://github.com/Torqvoice/torqvoice/pull/672) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Open the record from a row of the dashboard&#39;s recent activity](https://github.com/Torqvoice/torqvoice/pull/670) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Add an optional Updated column to the work order list](https://github.com/Torqvoice/torqvoice/pull/669) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Open the payment form from the Unpaid pill, and make the other header pills plain](https://github.com/Torqvoice/torqvoice/pull/668) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Say why scanning or plate lookup is unavailable in the vehicle form](https://github.com/Torqvoice/torqvoice/pull/667) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Redraw only the edited card when typing on a work order](https://github.com/Torqvoice/torqvoice/pull/666) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Show a lost connection as a lost connection, not as a server error](https://github.com/Torqvoice/torqvoice/pull/665) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Write mileage and a report&#39;s day the same on the server and in the browser](https://github.com/Torqvoice/torqvoice/pull/664) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Open the status menu from the stage a work order is in](https://github.com/Torqvoice/torqvoice/pull/663) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Keep the barcode scanner from crashing on a small camera view](https://github.com/Torqvoice/torqvoice/pull/662) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Tell a job&#39;s own screens about a conditional update that names it](https://github.com/Torqvoice/torqvoice/pull/691) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Apply line limits to quotes, mark an absurd amount on the work order, and other follow-ups](https://github.com/Torqvoice/torqvoice/pull/690) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Warn about duplicate customers and plates, check phone numbers and VINs, and use neutral placeholders](https://github.com/Torqvoice/torqvoice/pull/689) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Save only the fields edited in this tab](https://github.com/Torqvoice/torqvoice/pull/688) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Fix clipped labels, repeated PDF mark, raw ids and other display issues](https://github.com/Torqvoice/torqvoice/pull/687) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Assign a new technician at once, list a new status report at once, and other small work order fixes](https://github.com/Torqvoice/torqvoice/pull/686) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show dates in the workshop&#39;s date format on meters, schedules, status reports, the portal and Reports](https://github.com/Torqvoice/torqvoice/pull/685) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Cancel an invoice that went out instead of deleting it](https://github.com/Torqvoice/torqvoice/pull/684) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Refuse negative readings, zero quantities and absurd amounts](https://github.com/Torqvoice/torqvoice/pull/683) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Show form errors next to the field, in the user&#39;s language](https://github.com/Torqvoice/torqvoice/pull/682) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
