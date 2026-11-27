@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (3 days ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 week ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (today)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Load table rows as you scroll instead of by page](https://github.com/Torqvoice/torqvoice/pull/692) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
-- [Tell a job&#39;s own screens about a conditional update that names it](https://github.com/Torqvoice/torqvoice/pull/691) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Apply line limits to quotes, mark an absurd amount on the work order, and other follow-ups](https://github.com/Torqvoice/torqvoice/pull/690) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Warn about duplicate customers and plates, check phone numbers and VINs, and use neutral placeholders](https://github.com/Torqvoice/torqvoice/pull/689) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Save only the fields edited in this tab](https://github.com/Torqvoice/torqvoice/pull/688) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Fix clipped labels, repeated PDF mark, raw ids and other display issues](https://github.com/Torqvoice/torqvoice/pull/687) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Assign a new technician at once, list a new status report at once, and other small work order fixes](https://github.com/Torqvoice/torqvoice/pull/686) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Show dates in the workshop&#39;s date format on meters, schedules, status reports, the portal and Reports](https://github.com/Torqvoice/torqvoice/pull/685) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Cancel an invoice that went out instead of deleting it](https://github.com/Torqvoice/torqvoice/pull/684) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Refuse negative readings, zero quantities and absurd amounts](https://github.com/Torqvoice/torqvoice/pull/683) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Show free workshops their plan and an Upgrade link in the sidebar](https://github.com/Torqvoice/torqvoice/pull/693) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [Release follow-up fixes](https://github.com/sinamics/ztnet/pull/1089) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Add AGENTS.md with contributor guidance](https://github.com/sinamics/ztnet/pull/1088) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Point contributors to main in CONTRIBUTING.md](https://github.com/sinamics/ztnet/pull/1087) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Count rate limits per client instead of one shared bucket](https://github.com/sinamics/ztnet/pull/1085) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Deliver organization chat messages to organization members only](https://github.com/sinamics/ztnet/pull/1084) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Invalidate organization invitations when they are deleted or used](https://github.com/sinamics/ztnet/pull/1083) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Scope member annotations to the network they belong to](https://github.com/sinamics/ztnet/pull/1082) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
+- [Load table rows as you scroll instead of by page](https://github.com/Torqvoice/torqvoice/pull/692) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
+- [Tell a job&#39;s own screens about a conditional update that names it](https://github.com/Torqvoice/torqvoice/pull/691) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
