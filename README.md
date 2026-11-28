@@ -116,24 +116,24 @@ const bernt = {
 
 ## 👷 Currently Working On
 
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (today)
-- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (1 day ago)
-- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (4 days ago)
+- [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) - Workshop management platform built for automotive service businesses (today)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (1 day ago)
+- [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) -  (5 days ago)
 - [Torqvoice/.github](https://github.com/Torqvoice/.github) -  (8 months ago)
 - [ArduPilot/ardupilot_wiki](https://github.com/ArduPilot/ardupilot_wiki) - Repository for ArduPilot wiki issues and wiki-specific website infrastructure. (10 months ago)
 
 ## 🔨 Recent Pull Requests
 
-- [Show free workshops their plan and an Upgrade link in the sidebar](https://github.com/Torqvoice/torqvoice/pull/693) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
-- [Release follow-up fixes](https://github.com/sinamics/ztnet/pull/1089) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Add AGENTS.md with contributor guidance](https://github.com/sinamics/ztnet/pull/1088) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Point contributors to main in CONTRIBUTING.md](https://github.com/sinamics/ztnet/pull/1087) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Count rate limits per client instead of one shared bucket](https://github.com/sinamics/ztnet/pull/1085) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Deliver organization chat messages to organization members only](https://github.com/sinamics/ztnet/pull/1084) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Invalidate organization invitations when they are deleted or used](https://github.com/sinamics/ztnet/pull/1083) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Scope member annotations to the network they belong to](https://github.com/sinamics/ztnet/pull/1082) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (1 day ago)
-- [Load table rows as you scroll instead of by page](https://github.com/Torqvoice/torqvoice/pull/692) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (2 days ago)
-- [Tell a job&#39;s own screens about a conditional update that names it](https://github.com/Torqvoice/torqvoice/pull/691) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (3 days ago)
+- [Keep the install offer clear of the bottom navigation](https://github.com/Torqvoice/torqvoice/pull/694) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (today)
+- [SEO quick wins: trailing slashes, redirects, noindex old versions, metadata](https://github.com/uavmatrix/uavcast-pro-docs/pull/8) on [uavmatrix/uavcast-pro-docs](https://github.com/uavmatrix/uavcast-pro-docs) (today)
+- [Show free workshops their plan and an Upgrade link in the sidebar](https://github.com/Torqvoice/torqvoice/pull/693) on [Torqvoice/torqvoice](https://github.com/Torqvoice/torqvoice) (1 day ago)
+- [Release follow-up fixes](https://github.com/sinamics/ztnet/pull/1089) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Add AGENTS.md with contributor guidance](https://github.com/sinamics/ztnet/pull/1088) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Point contributors to main in CONTRIBUTING.md](https://github.com/sinamics/ztnet/pull/1087) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Count rate limits per client instead of one shared bucket](https://github.com/sinamics/ztnet/pull/1085) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Deliver organization chat messages to organization members only](https://github.com/sinamics/ztnet/pull/1084) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Invalidate organization invitations when they are deleted or used](https://github.com/sinamics/ztnet/pull/1083) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
+- [Scope member annotations to the network they belong to](https://github.com/sinamics/ztnet/pull/1082) on [sinamics/ztnet](https://github.com/sinamics/ztnet) (2 days ago)
 
 <details>
 <summary>📊 More Stats & Activity</summary>
@@ -153,7 +153,7 @@ const bernt = {
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust (1 month ago)
 - [storytold/artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers (1 month ago)
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. A library that adds QUIC &#43; NAT Traversal to your apps. (1 month ago)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (6 months ago)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (7 months ago)
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy (9 months ago)
 - [custom-components/zaptec](https://github.com/custom-components/zaptec) - zaptec charger custom component for home assistant (2 years ago)
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc &amp; bars (2 years ago)
